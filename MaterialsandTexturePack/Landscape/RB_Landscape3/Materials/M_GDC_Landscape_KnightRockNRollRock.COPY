@@ -1,0 +1,31 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="M_GDC_Landscape_KnightRockNRollRock"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_14"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_14"
+   End Object
+   Parent=MaterialInstanceConstant'/Game/Elemental/Landscape/RB_Landscape3/Materials/M_GDC_Landscape_Mesh_SnowyRock_7.M_GDC_Landscape_Mesh_SnowyRock_7'
+   ScalarParameterValues(0)=(ParameterName="Rock Near Normal Intensity",ParameterValue=1.000000,ExpressionGUID=DBC4837F4E13120388761F83E67E1445)
+   ScalarParameterValues(1)=(ParameterName="Rock Tile Near",ParameterValue=0.250000,ExpressionGUID=61F3A0AA4DE84BA51DB5D2AA473279CE)
+   ScalarParameterValues(2)=(ParameterName="Snow Density",ParameterValue=0.600000,ExpressionGUID=8DCE7E6A46383C0FD29DFB968045E955)
+   ScalarParameterValues(3)=(ParameterName="Snow Modulation Max",ParameterValue=2.000000,ExpressionGUID=7392FE3A4CF5E7AACC1FA192F0BCE338)
+   ScalarParameterValues(4)=(ParameterName="Snow Modulation Min",ExpressionGUID=954250944BAEC8C6EC809E8A2C99A334)
+   ScalarParameterValues(5)=(ParameterName="Snow Near Normal Intensity",ParameterValue=2.000000,ExpressionGUID=05256E304921BD819C54F58C259FD756)
+   ScalarParameterValues(6)=(ParameterName="Snow Tile Far",ParameterValue=0.150000,ExpressionGUID=F8B6451E48387B6B3EBDF0BA09D83C5C)
+   ScalarParameterValues(7)=(ParameterName="Snow Tile Near",ParameterValue=0.050000,ExpressionGUID=9CDFBBC248071DB0B18E6DA96AE13C2C)
+   ScalarParameterValues(8)=(ParameterName="World Modulation Min",ParameterValue=-2.500000,ExpressionGUID=9322675149A1844296D3B5992ED3191B)
+   TextureParameterValues(0)=(ParameterName="Rock_01_D",ParameterValue=Texture2D'/Game/Elemental/Environment/ThroneRoom_Surfaces/Textures/T_CaveRock02_D.T_CaveRock02_D',ExpressionGUID=2909C35D428021EBCD149EAEC2151D82)
+   TextureParameterValues(1)=(ParameterName="Rock_01_DetailDiffuse",ParameterValue=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_RB_LS_Dirt_01_DispAlpha03.T_RB_LS_Dirt_01_DispAlpha03',ExpressionGUID=5B1FAAA54E163251876081B6B8A5EE08)
+   TextureParameterValues(2)=(ParameterName="Rock_01_N",ParameterValue=Texture2D'/Game/Elemental/Environment/ThroneRoom_Surfaces/Textures/T_CaveRock02_N.T_CaveRock02_N',ExpressionGUID=B89ED10440ACA76AA280F1B7FE729754)
+   VectorParameterValues(0)=(ParameterName="Rock Color",ParameterValue=(R=1.000000,G=1.000000,B=1.000000,A=1.200000),ExpressionGUID=3F3E874F40343ED2743FE694384970A1)
+   VectorParameterValues(1)=(ParameterName="RockShinyColor",ParameterValue=(R=1.000000,G=1.000000,B=1.000000,A=64.000000),ExpressionGUID=9AAD31DA4DD75ED2B2932FBDC5B3300B)
+   ReferencedTextureGuids(0)=12B796C04C6ADA66B05054B749F14DD2
+   ReferencedTextureGuids(1)=384B2784447942E325AF6D96DC64E151
+   ReferencedTextureGuids(2)=7B3017EC42A76885A1DE63A9BAE860E3
+   ReferencedTextureGuids(3)=76B669B44B38157773E996B502077439
+   ReferencedTextureGuids(4)=1568AC5D4E8709B549192289CE1597BB
+   ReferencedTextureGuids(5)=D73738F74ABD0CA460B196B2BD472A06
+   ReferencedTextureGuids(6)=37AE4DC34C7BA46542EF798FBF9F605F
+   ReferencedTextureGuids(7)=3D6F9C0A45764C6C8B210EA6316B061D
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_14'
+   LightingGuid=B15148894E16FCEDCBA8A2859E5F986A
+End Object

@@ -1,0 +1,16 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="M_GDC_Landscape_Mesh_SnowyRock_INST_4c"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_12"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_12"
+   End Object
+   Parent=MaterialInstanceConstant'/Game/Elemental/Landscape/RB_Landscape3/Materials/M_GDC_Landscape_Mesh_SnowyRock_INST_4.M_GDC_Landscape_Mesh_SnowyRock_INST_4'
+   ScalarParameterValues(0)=(ParameterName="Rock Tile Far",ParameterValue=80.000000,ExpressionGUID=FD95D23A425E35A7C7EFEABB0C8B3E8E)
+   ScalarParameterValues(1)=(ParameterName="Snow Far Normal Intensity",ParameterValue=2.000000,ExpressionGUID=8935710E4C89CB24A3B6FC9E553601F3)
+   ReferencedTextureGuids(0)=12B796C04C6ADA66B05054B749F14DD2
+   ReferencedTextureGuids(1)=76B669B44B38157773E996B502077439
+   ReferencedTextureGuids(2)=D73738F74ABD0CA460B196B2BD472A06
+   ReferencedTextureGuids(3)=37AE4DC34C7BA46542EF798FBF9F605F
+   ReferencedTextureGuids(4)=1568AC5D4E8709B549192289CE1597BB
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_12'
+   LightingGuid=A4CD9A51485F47782CAEC99720D635B5
+End Object

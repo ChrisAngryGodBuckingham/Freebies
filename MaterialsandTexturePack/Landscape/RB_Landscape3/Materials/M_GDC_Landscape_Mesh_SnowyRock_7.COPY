@@ -1,0 +1,58 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="M_GDC_Landscape_Mesh_SnowyRock_7"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_3"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_3"
+   End Object
+   Parent=Material'/Game/Elemental/Landscape/RB_Landscape3/Materials/M_GDC_Landscape_Mesh_01_Mat.M_GDC_Landscape_Mesh_01_Mat'
+   bHasStaticPermutationResource=True
+   ScalarParameterValues(0)=(ParameterName="Far Blend Distance",ParameterValue=25000.000000,ExpressionGUID=73CA038640B89E624C0738814FBBD811)
+   ScalarParameterValues(1)=(ParameterName="FARFAR Blend Distance",ParameterValue=1000.000000,ExpressionGUID=92C1EDF6461F121CD55933BCAF4A09E4)
+   ScalarParameterValues(2)=(ParameterName="Rock FARFAR Modulation Scale",ParameterValue=3.000000,ExpressionGUID=62FF35B7403E9FBB417AFCAA7D12646E)
+   ScalarParameterValues(3)=(ParameterName="Rock Near Normal Intensity",ParameterValue=2.000000,ExpressionGUID=DBC4837F4E13120388761F83E67E1445)
+   ScalarParameterValues(4)=(ParameterName="Rock Tile Far",ParameterValue=1.000000,ExpressionGUID=FD95D23A425E35A7C7EFEABB0C8B3E8E)
+   ScalarParameterValues(5)=(ParameterName="Rock Tile Near",ParameterValue=0.200000,ExpressionGUID=61F3A0AA4DE84BA51DB5D2AA473279CE)
+   ScalarParameterValues(6)=(ParameterName="Snow Bottom Offset",ExpressionGUID=CA2EA5AF4A5DA8F4039C5E9918F08A54)
+   ScalarParameterValues(7)=(ParameterName="Snow Density",ParameterValue=0.900000,ExpressionGUID=8DCE7E6A46383C0FD29DFB968045E955)
+   ScalarParameterValues(8)=(ParameterName="Snow Edge Far Intensity",ParameterValue=0.500000,ExpressionGUID=C478352C4FC4817E2501BA8F48EF0D98)
+   ScalarParameterValues(9)=(ParameterName="Snow Edge Intensity",ExpressionGUID=8530BBA94148516B4382669F738C55D1)
+   ScalarParameterValues(10)=(ParameterName="Snow Edge Near Intensity",ParameterValue=1.000000,ExpressionGUID=34A8D04944BDF16C21F3C691CAC6C93A)
+   ScalarParameterValues(11)=(ParameterName="Snow Far Normal Intensity",ParameterValue=1.000000,ExpressionGUID=8935710E4C89CB24A3B6FC9E553601F3)
+   ScalarParameterValues(12)=(ParameterName="Snow Layer Contrast",ExpressionGUID=9880778F4535CD6A6E5085A19B10BD33)
+   ScalarParameterValues(13)=(ParameterName="Snow Modulation Max",ParameterValue=2.000000,ExpressionGUID=7392FE3A4CF5E7AACC1FA192F0BCE338)
+   ScalarParameterValues(14)=(ParameterName="Snow Modulation Min",ExpressionGUID=954250944BAEC8C6EC809E8A2C99A334)
+   ScalarParameterValues(15)=(ParameterName="Snow Near Normal Intensity",ParameterValue=2.000000,ExpressionGUID=05256E304921BD819C54F58C259FD756)
+   ScalarParameterValues(16)=(ParameterName="Snow Normal Tiling",ParameterValue=0.150000,ExpressionGUID=607136BA42558C112B5C8CA47E60384D)
+   ScalarParameterValues(17)=(ParameterName="Snow Tile Far",ParameterValue=0.050000,ExpressionGUID=F8B6451E48387B6B3EBDF0BA09D83C5C)
+   ScalarParameterValues(18)=(ParameterName="Snow Tile Near",ParameterValue=0.050000,ExpressionGUID=9CDFBBC248071DB0B18E6DA96AE13C2C)
+   ScalarParameterValues(19)=(ParameterName="Spec Power",ParameterValue=5.000000,ExpressionGUID=5BDA49F34322F498BD2EA495406D3FA2)
+   ScalarParameterValues(20)=(ParameterName="Spec Power Snow",ParameterValue=1.000000,ExpressionGUID=1E2DDE3647A1324A9ED5B38F7EE70F4D)
+   ScalarParameterValues(21)=(ParameterName="Stripe Offset",ParameterValue=-1.895200,ExpressionGUID=C8B6365144037200DFFAB0A56E66D28D)
+   ScalarParameterValues(22)=(ParameterName="Stripe Scale",ParameterValue=640.000000,ExpressionGUID=BD2BFB22407E28565DE595A4D1129BBC)
+   ScalarParameterValues(23)=(ParameterName="World Modulation Max",ExpressionGUID=35788A104D68029B6D17FEA068C62B3A)
+   ScalarParameterValues(24)=(ParameterName="World Modulation Min",ParameterValue=-3.000000,ExpressionGUID=9322675149A1844296D3B5992ED3191B)
+   ScalarParameterValues(25)=(ParameterName="World Modulation, Offset Max",ParameterValue=1.500000,ExpressionGUID=B6085F204ED0AFA7FEF301B7874F5896)
+   ScalarParameterValues(26)=(ParameterName="World Modulation, Offset Min",ParameterValue=-32.000000,ExpressionGUID=1A3BD0A54A277404489DFEB9039CA509)
+   TextureParameterValues(0)=(ParameterName="Rock_01_D",ParameterValue=Texture2D'/Game/Elemental/Environment/Throne_Interior/Texture/T_Rock_D.T_Rock_D',ExpressionGUID=2909C35D428021EBCD149EAEC2151D82)
+   TextureParameterValues(1)=(ParameterName="Rock_01_DetailDiffuse",ParameterValue=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_RB_LS_Dirt_01_DispAlpha03.T_RB_LS_Dirt_01_DispAlpha03',ExpressionGUID=5B1FAAA54E163251876081B6B8A5EE08)
+   TextureParameterValues(2)=(ParameterName="Rock_01_DetailNormal",ParameterValue=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_GDC_Rocktest_01_N.T_GDC_Rocktest_01_N',ExpressionGUID=C1DBB20B45282AFF88C832B4AA12C85B)
+   TextureParameterValues(3)=(ParameterName="Rock_01_N",ParameterValue=Texture2D'/Game/Elemental/Environment/Throne_Interior/Texture/T_Rock_N.T_Rock_N',ExpressionGUID=B89ED10440ACA76AA280F1B7FE729754)
+   TextureParameterValues(4)=(ParameterName="Snow Edge Normal",ParameterValue=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_LS_Rock_Softnormal_02.T_LS_Rock_Softnormal_02',ExpressionGUID=0AFFAB3840C992671041EA857A65F0EF)
+   TextureParameterValues(5)=(ParameterName="Snow_01_N",ParameterValue=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/SnowMound_01_N.SnowMound_01_N',ExpressionGUID=5CA7B76543392E74C2B6759175D69553)
+   VectorParameterValues(0)=(ParameterName="Rock Color",ParameterValue=(R=1.000000,G=1.000000,B=1.000000,A=0.750000),ExpressionGUID=3F3E874F40343ED2743FE694384970A1)
+   VectorParameterValues(1)=(ParameterName="RockShinyColor",ParameterValue=(R=1.000000,G=1.000000,B=1.000000,A=128.000000),ExpressionGUID=9AAD31DA4DD75ED2B2932FBDC5B3300B)
+   VectorParameterValues(2)=(ParameterName="Snow Color",ParameterValue=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),ExpressionGUID=1C802ACB4B832A85D69F02A0053638F5)
+   VectorParameterValues(3)=(ParameterName="Snow Spec Color",ParameterValue=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),ExpressionGUID=7F9C15DB430D657C447DDA94F6C370EC)
+   VectorParameterValues(4)=(ParameterName="Snow Subsurface Color",ParameterValue=(R=0.300000,G=0.450000,B=1.000000,A=0.400000),ExpressionGUID=CAEAB25A4011FD4CC2348ABD28B5AF60)
+   VectorParameterValues(5)=(ParameterName="Snow Vectorius",ParameterValue=(R=0.000000,G=0.000000,B=1.000000,A=0.000000),ExpressionGUID=C409934D41EE2DFDDBA54596C55BB352)
+   VectorParameterValues(6)=(ParameterName="Stripe Color",ParameterValue=(R=1.250000,G=0.950000,B=0.875000,A=1.500000),ExpressionGUID=2EFDFFE9442997A9D02C988602CCAD45)
+   ReferencedTextureGuids(0)=12B796C04C6ADA66B05054B749F14DD2
+   ReferencedTextureGuids(1)=CD6E72004C328E16C984908D500487EB
+   ReferencedTextureGuids(2)=7B3017EC42A76885A1DE63A9BAE860E3
+   ReferencedTextureGuids(3)=76B669B44B38157773E996B502077439
+   ReferencedTextureGuids(4)=1568AC5D4E8709B549192289CE1597BB
+   ReferencedTextureGuids(5)=D73738F74ABD0CA460B196B2BD472A06
+   ReferencedTextureGuids(6)=37AE4DC34C7BA46542EF798FBF9F605F
+   ReferencedTextureGuids(7)=DC6737254DCB904DFD8052A6CE577E77
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_3'
+   LightingGuid=D01671224FED48CA473BD298740C0EBE
+End Object

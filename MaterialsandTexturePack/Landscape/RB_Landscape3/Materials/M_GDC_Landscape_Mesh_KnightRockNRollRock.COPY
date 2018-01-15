@@ -1,0 +1,18 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="M_GDC_Landscape_Mesh_KnightRockNRollRock"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_15"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_15"
+   End Object
+   Parent=MaterialInstanceConstant'/Game/Elemental/Landscape/RB_Landscape3/Materials/M_GDC_Landscape_KnightRockNRollRock.M_GDC_Landscape_KnightRockNRollRock'
+   ScalarParameterValues(0)=(ParameterName="World Modulation Max",ParameterValue=1.000000,ExpressionGUID=35788A104D68029B6D17FEA068C62B3A)
+   ReferencedTextureGuids(0)=12B796C04C6ADA66B05054B749F14DD2
+   ReferencedTextureGuids(1)=384B2784447942E325AF6D96DC64E151
+   ReferencedTextureGuids(2)=7B3017EC42A76885A1DE63A9BAE860E3
+   ReferencedTextureGuids(3)=76B669B44B38157773E996B502077439
+   ReferencedTextureGuids(4)=1568AC5D4E8709B549192289CE1597BB
+   ReferencedTextureGuids(5)=D73738F74ABD0CA460B196B2BD472A06
+   ReferencedTextureGuids(6)=37AE4DC34C7BA46542EF798FBF9F605F
+   ReferencedTextureGuids(7)=3D6F9C0A45764C6C8B210EA6316B061D
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_15'
+   LightingGuid=0F83B1B24AA06759AF40A6AB95D58054
+End Object

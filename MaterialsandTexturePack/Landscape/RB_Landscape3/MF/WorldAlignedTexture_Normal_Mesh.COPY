@@ -1,0 +1,1432 @@
+Begin Object Class=/Script/Engine.MaterialFunction Name="WorldAlignedTexture_Normal_Mesh"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_35"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionWorldPosition Name="MaterialExpressionWorldPosition_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionWorldPosition Name="MaterialExpressionWorldPosition_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTransform Name="MaterialExpressionTransform_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTransform Name="MaterialExpressionTransform_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObject Name="MaterialExpressionTextureObject_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObject Name="MaterialExpressionTextureObject_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_17"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionIf Name="MaterialExpressionIf_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionIf Name="MaterialExpressionIf_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionIf Name="MaterialExpressionIf_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_23"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_22"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_21"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_20"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_19"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_18"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_16"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_15"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_17"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_16"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_15"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAbs Name="MaterialExpressionAbs_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAbs Name="MaterialExpressionAbs_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_35"
+   End Object
+   Begin Object Name="MaterialExpressionWorldPosition_2"
+      MaterialExpressionEditorX=-2651
+      MaterialExpressionEditorY=-1305
+      MaterialExpressionGuid=9ED6CC3C437F32A9E37386B00CD2C9DC
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionWorldPosition_0"
+      MaterialExpressionEditorX=-2498
+      MaterialExpressionEditorY=-332
+      MaterialExpressionGuid=6034CFD944660C4B418A318DD7C7013D
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionTransform_1"
+      Input=(Expression=MaterialExpressionComponentMask'WorldAlignedTexture_Normal_Mesh:MaterialExpressionComponentMask_9')
+      TransformSourceType=TRANSFORMSOURCE_World
+      TransformType=TRANSFORM_Local
+      MaterialExpressionEditorX=1555
+      MaterialExpressionEditorY=1698
+      MaterialExpressionGuid=67F0923F4C10DF11087E829B3ABD51CA
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionTransform_0"
+      Input=(Expression=MaterialExpressionFunctionInput'WorldAlignedTexture_Normal_Mesh:MaterialExpressionFunctionInput_2')
+      MaterialExpressionEditorX=-5065
+      MaterialExpressionEditorY=863
+      MaterialExpressionGuid=2869233A44461055BE28AAA914BC8111
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_9"
+      Coordinates=(Expression=MaterialExpressionMultiply'WorldAlignedTexture_Normal_Mesh:MaterialExpressionMultiply_10')
+      TextureObject=(Expression=MaterialExpressionFunctionInput'WorldAlignedTexture_Normal_Mesh:MaterialExpressionFunctionInput_0')
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-1885
+      MaterialExpressionEditorY=655
+      MaterialExpressionGuid=29580D90402CEFCAD4CBD28CF5FA2886
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_8"
+      Coordinates=(Expression=MaterialExpressionMultiply'WorldAlignedTexture_Normal_Mesh:MaterialExpressionMultiply_8')
+      TextureObject=(Expression=MaterialExpressionFunctionInput'WorldAlignedTexture_Normal_Mesh:MaterialExpressionFunctionInput_0')
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-1910
+      MaterialExpressionEditorY=440
+      MaterialExpressionGuid=4DC912E74FE709B43C6A09B68ADD7547
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_7"
+      Coordinates=(Expression=MaterialExpressionMultiply'WorldAlignedTexture_Normal_Mesh:MaterialExpressionMultiply_6')
+      TextureObject=(Expression=MaterialExpressionFunctionInput'WorldAlignedTexture_Normal_Mesh:MaterialExpressionFunctionInput_0')
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-1916
+      MaterialExpressionEditorY=242
+      MaterialExpressionGuid=649330934E63121704ED0C8D7277ABC9
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_5"
+      Coordinates=(Expression=MaterialExpressionMultiply'WorldAlignedTexture_Normal_Mesh:MaterialExpressionMultiply_10')
+      TextureObject=(Expression=MaterialExpressionFunctionInput'WorldAlignedTexture_Normal_Mesh:MaterialExpressionFunctionInput_0')
+      MaterialExpressionEditorX=-1586
+      MaterialExpressionEditorY=560
+      MaterialExpressionGuid=C6A57F9F466590C501599482DBB24001
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+      Desc="Z"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_3"
+      Coordinates=(Expression=MaterialExpressionMultiply'WorldAlignedTexture_Normal_Mesh:MaterialExpressionMultiply_8')
+      TextureObject=(Expression=MaterialExpressionFunctionInput'WorldAlignedTexture_Normal_Mesh:MaterialExpressionFunctionInput_0')
+      MaterialExpressionEditorX=-1615
+      MaterialExpressionEditorY=353
+      MaterialExpressionGuid=756201DE49DC432373D3FDBBA82B833A
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+      Desc="Y"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_2"
+      Coordinates=(Expression=MaterialExpressionAdd'WorldAlignedTexture_Normal_Mesh:MaterialExpressionAdd_3')
+      TextureObject=(Expression=MaterialExpressionFunctionInput'WorldAlignedTexture_Normal_Mesh:MaterialExpressionFunctionInput_4')
+      MaterialExpressionEditorX=-1617
+      MaterialExpressionEditorY=-1423
+      MaterialExpressionGuid=306485B345D881F39F465E83EA348460
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Coordinates=(Expression=MaterialExpressionMultiply'WorldAlignedTexture_Normal_Mesh:MaterialExpressionMultiply_6')
+      TextureObject=(Expression=MaterialExpressionFunctionInput'WorldAlignedTexture_Normal_Mesh:MaterialExpressionFunctionInput_0')
+      MaterialExpressionEditorX=-1617
+      MaterialExpressionEditorY=147
+      MaterialExpressionGuid=525BEAB04CDFA6004E3111AB22A5A172
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+      Desc="X"
+   End Object
+   Begin Object Name="MaterialExpressionTextureObject_2"
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_Canyon_Stripes_01.T_Canyon_Stripes_01'
+      MaterialExpressionEditorX=-2380
+      MaterialExpressionEditorY=-1045
+      MaterialExpressionGuid=B0245BBF44FA87FEC53E378DB6F564BE
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionTextureObject_0"
+      Texture=Texture2D'/Engine/EngineMaterials/DefaultDiffuse.DefaultDiffuse'
+      MaterialExpressionEditorX=-2810
+      MaterialExpressionEditorY=466
+      MaterialExpressionGuid=0C2779A741E1926FA067A0B57019B97E
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_8"
+      A=(Expression=MaterialExpressionComponentMask'WorldAlignedTexture_Normal_Mesh:MaterialExpressionComponentMask_4')
+      B=(Expression=MaterialExpressionIf'WorldAlignedTexture_Normal_Mesh:MaterialExpressionIf_11')
+      MaterialExpressionEditorX=-1958
+      MaterialExpressionEditorY=131
+      MaterialExpressionGuid=6EB8959143DC2DBF1624D8B3AD45F61E
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_6"
+      A=(Expression=MaterialExpressionAppendVector'WorldAlignedTexture_Normal_Mesh:MaterialExpressionAppendVector_7')
+      B=(Expression=MaterialExpressionIf'WorldAlignedTexture_Normal_Mesh:MaterialExpressionIf_9')
+      MaterialExpressionEditorX=-1850
+      MaterialExpressionEditorY=-23
+      MaterialExpressionGuid=A70E0231410AC1EA66AC2CB7658A7FC2
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_5"
+      A=(Expression=MaterialExpressionComponentMask'WorldAlignedTexture_Normal_Mesh:MaterialExpressionComponentMask_13')
+      B=(Expression=MaterialExpressionConstant'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant_5')
+      MaterialExpressionEditorX=80
+      MaterialExpressionEditorY=1386
+      MaterialExpressionGuid=2BD6C2F346A1689DA9BFFDB8E5E171C5
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_4"
+      A=(Expression=MaterialExpressionComponentMask'WorldAlignedTexture_Normal_Mesh:MaterialExpressionComponentMask_15')
+      B=(Expression=MaterialExpressionConstant'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant_8')
+      MaterialExpressionEditorX=-1123
+      MaterialExpressionEditorY=2568
+      MaterialExpressionGuid=887D298B40955DDCB70046B65C6D5A86
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_3"
+      A=(Expression=MaterialExpressionAppendVector'WorldAlignedTexture_Normal_Mesh:MaterialExpressionAppendVector_8')
+      B=(Expression=MaterialExpressionConstant'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant_5')
+      MaterialExpressionEditorX=96
+      MaterialExpressionEditorY=1160
+      MaterialExpressionGuid=FF13AC7A460F9E4FFD6C4AAE559D93DD
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_2"
+      A=(Expression=MaterialExpressionFunctionInput'WorldAlignedTexture_Normal_Mesh:MaterialExpressionFunctionInput_10')
+      B=(Expression=MaterialExpressionTextureSample'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTextureSample_2',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=-1430
+      MaterialExpressionEditorY=-1501
+      MaterialExpressionGuid=5DB69AF549BD485FF425EB8FD99DA598
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_10"
+      A=(Expression=MaterialExpressionComponentMask'WorldAlignedTexture_Normal_Mesh:MaterialExpressionComponentMask_0')
+      B=(Expression=MaterialExpressionIf'WorldAlignedTexture_Normal_Mesh:MaterialExpressionIf_10')
+      MaterialExpressionEditorX=-2190
+      MaterialExpressionEditorY=227
+      MaterialExpressionGuid=963F8E1D45EB5B01BA67C6BE640F88C8
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_1"
+      A=(Expression=MaterialExpressionComponentMask'WorldAlignedTexture_Normal_Mesh:MaterialExpressionComponentMask_5')
+      B=(Expression=MaterialExpressionConstant'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant_6')
+      MaterialExpressionEditorX=-960
+      MaterialExpressionEditorY=1928
+      MaterialExpressionGuid=3B1DAC404EFCBA5C0D90E5B909E689E9
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0"
+      A=(Expression=MaterialExpressionLinearInterpolate'WorldAlignedTexture_Normal_Mesh:MaterialExpressionLinearInterpolate_4')
+      B=(Expression=MaterialExpressionLinearInterpolate'WorldAlignedTexture_Normal_Mesh:MaterialExpressionLinearInterpolate_0')
+      MaterialExpressionEditorX=-377
+      MaterialExpressionEditorY=-471
+      MaterialExpressionGuid=5EFD9CAC4F52ED53A57D1599BB3BF068
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_6"
+      MaterialFunction=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/CheapContrast.CheapContrast'
+      FunctionInputs(0)=(ExpressionInputId=DF9FDEE14A598C1E26CF7CA9D7A93E07,Input=(OutputIndex=-1,InputName="In Offset"))
+      FunctionInputs(1)=(ExpressionInputId=95C9DA0E48D34168E34AD3A607BAA34E,Input=(Expression=MaterialExpressionAbs'WorldAlignedTexture_Normal_Mesh:MaterialExpressionAbs_0',InputName="In"))
+      FunctionInputs(2)=(ExpressionInputId=3C3E177E485D8FFFC35D1482F0A20020,Input=(Expression=MaterialExpressionConstant'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant_4',InputName="Contrast"))
+      FunctionOutputs(0)=(ExpressionOutputId=3459391743AAEEA9E8411088A7A12FF2,Output=(OutputName="Result Offset"))
+      FunctionOutputs(1)=(ExpressionOutputId=5067ED8C4A2EFE82DB33F99EBE37E80E,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=-1337
+      MaterialExpressionEditorY=951
+      MaterialExpressionGuid=360848264D9E894BC0469FB2F606DBBB
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+      Outputs(0)=(OutputName="Result Offset")
+      Outputs(1)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_4"
+      MaterialFunction=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/CheapContrast.CheapContrast'
+      FunctionInputs(0)=(ExpressionInputId=DF9FDEE14A598C1E26CF7CA9D7A93E07,Input=(Expression=MaterialExpressionConstant'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant_13',InputName="In Offset"))
+      FunctionInputs(1)=(ExpressionInputId=95C9DA0E48D34168E34AD3A607BAA34E,Input=(Expression=MaterialExpressionAbs'WorldAlignedTexture_Normal_Mesh:MaterialExpressionAbs_3',InputName="In"))
+      FunctionInputs(2)=(ExpressionInputId=3C3E177E485D8FFFC35D1482F0A20020,Input=(Expression=MaterialExpressionConstant'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant_4',InputName="Contrast"))
+      FunctionOutputs(0)=(ExpressionOutputId=3459391743AAEEA9E8411088A7A12FF2,Output=(OutputName="Result Offset"))
+      FunctionOutputs(1)=(ExpressionOutputId=5067ED8C4A2EFE82DB33F99EBE37E80E,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=-1336
+      MaterialExpressionEditorY=1471
+      MaterialExpressionGuid=1898412F491B0A409DB8ACBD7F91C3E8
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+      Outputs(0)=(OutputName="Result Offset")
+      Outputs(1)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_7"
+      A=(Expression=MaterialExpressionMultiply'WorldAlignedTexture_Normal_Mesh:MaterialExpressionMultiply_0')
+      B=(Expression=MaterialExpressionAppendVector'WorldAlignedTexture_Normal_Mesh:MaterialExpressionAppendVector_4')
+      Alpha=(Expression=MaterialExpressionMaterialFunctionCall'WorldAlignedTexture_Normal_Mesh:MaterialExpressionMaterialFunctionCall_4')
+      MaterialExpressionEditorX=42
+      MaterialExpressionEditorY=-315
+      MaterialExpressionGuid=569C1CE34E04DFF1DC60B8B2A0EFCEEF
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_6"
+      A=(Expression=MaterialExpressionConstant2Vector'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant2Vector_4')
+      B=(Expression=MaterialExpressionConstant2Vector'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant2Vector_5')
+      Alpha=(Expression=MaterialExpressionAdd'WorldAlignedTexture_Normal_Mesh:MaterialExpressionAdd_2')
+      MaterialExpressionEditorX=-312
+      MaterialExpressionEditorY=2561
+      MaterialExpressionGuid=1EB588B44886A7DFEA02FC836EC160C5
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_5"
+      A=(Expression=MaterialExpressionAppendVector'WorldAlignedTexture_Normal_Mesh:MaterialExpressionAppendVector_6')
+      B=(Expression=MaterialExpressionAppendVector'WorldAlignedTexture_Normal_Mesh:MaterialExpressionAppendVector_3')
+      Alpha=(Expression=MaterialExpressionMaterialFunctionCall'WorldAlignedTexture_Normal_Mesh:MaterialExpressionMaterialFunctionCall_6',OutputIndex=1)
+      MaterialExpressionEditorX=631
+      MaterialExpressionEditorY=1282
+      MaterialExpressionGuid=241BAC104DBCFD6545CF21919E7610A3
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_4"
+      A=(Expression=MaterialExpressionAppendVector'WorldAlignedTexture_Normal_Mesh:MaterialExpressionAppendVector_5')
+      B=(Expression=MaterialExpressionConstant'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant_7')
+      Alpha=(Expression=MaterialExpressionClamp'WorldAlignedTexture_Normal_Mesh:MaterialExpressionClamp_11')
+      MaterialExpressionEditorX=-621
+      MaterialExpressionEditorY=-1066
+      MaterialExpressionGuid=B917A2204897065FB43F108086B74722
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_3"
+      A=(Expression=MaterialExpressionLinearInterpolate'WorldAlignedTexture_Normal_Mesh:MaterialExpressionLinearInterpolate_5')
+      B=(Expression=MaterialExpressionTextureSample'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTextureSample_9',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      Alpha=(Expression=MaterialExpressionMaterialFunctionCall'WorldAlignedTexture_Normal_Mesh:MaterialExpressionMaterialFunctionCall_4')
+      MaterialExpressionEditorX=1000
+      MaterialExpressionEditorY=1573
+      MaterialExpressionGuid=ECA1F4074BDD2C976CD695978E7EB91B
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_2"
+      A=(Expression=MaterialExpressionConstant2Vector'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant2Vector_1')
+      B=(Expression=MaterialExpressionConstant2Vector'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant2Vector_0')
+      Alpha=(Expression=MaterialExpressionAdd'WorldAlignedTexture_Normal_Mesh:MaterialExpressionAdd_0')
+      MaterialExpressionEditorX=-322
+      MaterialExpressionEditorY=2093
+      MaterialExpressionGuid=098D792C461AE1A33FA180AF64622E86
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_17"
+      A=(Expression=MaterialExpressionConstant'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant_2')
+      B=(Expression=MaterialExpressionConstant'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant_12')
+      Alpha=(Expression=MaterialExpressionComponentMask'WorldAlignedTexture_Normal_Mesh:MaterialExpressionComponentMask_3')
+      MaterialExpressionEditorX=-1250
+      MaterialExpressionEditorY=-507
+      MaterialExpressionGuid=CAE67CEA4ED0FD6D26830E9D64B8FB08
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_11"
+      A=(Expression=MaterialExpressionLinearInterpolate'WorldAlignedTexture_Normal_Mesh:MaterialExpressionLinearInterpolate_10')
+      B=(Expression=MaterialExpressionTextureSample'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTextureSample_9',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      Alpha=(Expression=MaterialExpressionMaterialFunctionCall'WorldAlignedTexture_Normal_Mesh:MaterialExpressionMaterialFunctionCall_4')
+      MaterialExpressionEditorX=-197
+      MaterialExpressionEditorY=755
+      MaterialExpressionGuid=5AE2ECEA4C85EB40F37CD489F16D2713
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_10"
+      A=(Expression=MaterialExpressionTextureSample'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTextureSample_8',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionTextureSample'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTextureSample_7',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      Alpha=(Expression=MaterialExpressionMaterialFunctionCall'WorldAlignedTexture_Normal_Mesh:MaterialExpressionMaterialFunctionCall_6',OutputIndex=1)
+      MaterialExpressionEditorX=-837
+      MaterialExpressionEditorY=502
+      MaterialExpressionGuid=DEC54FFF4647D3E13B1968A455A905C4
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_1"
+      A=(Expression=MaterialExpressionLinearInterpolate'WorldAlignedTexture_Normal_Mesh:MaterialExpressionLinearInterpolate_0')
+      B=(Expression=MaterialExpressionAppendVector'WorldAlignedTexture_Normal_Mesh:MaterialExpressionAppendVector_4')
+      Alpha=(Expression=MaterialExpressionMaterialFunctionCall'WorldAlignedTexture_Normal_Mesh:MaterialExpressionMaterialFunctionCall_4')
+      MaterialExpressionEditorX=-247
+      MaterialExpressionEditorY=400
+      MaterialExpressionGuid=42AD03AB4BED5D97AA7E94814C024C4B
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_0"
+      A=(Expression=MaterialExpressionAppendVector'WorldAlignedTexture_Normal_Mesh:MaterialExpressionAppendVector_2')
+      B=(Expression=MaterialExpressionAppendVector'WorldAlignedTexture_Normal_Mesh:MaterialExpressionAppendVector_0')
+      Alpha=(Expression=MaterialExpressionMaterialFunctionCall'WorldAlignedTexture_Normal_Mesh:MaterialExpressionMaterialFunctionCall_6',OutputIndex=1)
+      MaterialExpressionEditorX=-887
+      MaterialExpressionEditorY=147
+      MaterialExpressionGuid=65D880A64D0B4C749A9456A5D17FD125
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionIf_9"
+      A=(Expression=MaterialExpressionComponentMask'WorldAlignedTexture_Normal_Mesh:MaterialExpressionComponentMask_5')
+      B=(Expression=MaterialExpressionConstant'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant_14')
+      AGreaterThanB=(Expression=MaterialExpressionConstant2Vector'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant2Vector_19')
+      ALessThanB=(Expression=MaterialExpressionConstant2Vector'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant2Vector_18')
+      MaterialExpressionEditorX=-2791
+      MaterialExpressionEditorY=186
+      MaterialExpressionGuid=93678BE444FDBF02B8284B951045C5D8
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionIf_11"
+      A=(Expression=MaterialExpressionComponentMask'WorldAlignedTexture_Normal_Mesh:MaterialExpressionComponentMask_16')
+      B=(Expression=MaterialExpressionConstant'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant_15')
+      AGreaterThanB=(Expression=MaterialExpressionConstant2Vector'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant2Vector_22')
+      ALessThanB=(Expression=MaterialExpressionConstant2Vector'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant2Vector_23')
+      MaterialExpressionEditorX=-3366
+      MaterialExpressionEditorY=207
+      MaterialExpressionGuid=EA9E949C42C802C8CB6968AF2597A035
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionIf_10"
+      A=(Expression=MaterialExpressionComponentMask'WorldAlignedTexture_Normal_Mesh:MaterialExpressionComponentMask_7')
+      B=(Expression=MaterialExpressionConstant'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant_16')
+      AGreaterThanB=(Expression=MaterialExpressionConstant2Vector'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant2Vector_20')
+      ALessThanB=(Expression=MaterialExpressionConstant2Vector'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant2Vector_21')
+      MaterialExpressionEditorX=-3932
+      MaterialExpressionEditorY=205
+      MaterialExpressionGuid=979CEB3442D7F5A71AE3CDB19133F311
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_8"
+      OutputName="XYZ Alpha"
+      SortPriority=1
+      A=(Expression=MaterialExpressionComponentMask'WorldAlignedTexture_Normal_Mesh:MaterialExpressionComponentMask_6')
+      bLastPreviewed=True
+      Id=AA50E83C42EF827BDFD9C58F3D37D106
+      MaterialExpressionEditorX=752
+      MaterialExpressionEditorY=-90
+      MaterialExpressionGuid=5265CD1A420BE67F9F1E65B0C4857EAC
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_7"
+      OutputName="XYZ Striped"
+      SortPriority=1
+      A=(Expression=MaterialExpressionComponentMask'WorldAlignedTexture_Normal_Mesh:MaterialExpressionComponentMask_17')
+      bLastPreviewed=True
+      Id=738AA72849CBCC3C780AEDA7DEB6D94E
+      MaterialExpressionEditorX=758
+      MaterialExpressionEditorY=-413
+      MaterialExpressionGuid=28F7E484405074B159F1149E3AB15356
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_6"
+      OutputName="Z Mask"
+      SortPriority=1
+      A=(Expression=MaterialExpressionComponentMask'WorldAlignedTexture_Normal_Mesh:MaterialExpressionComponentMask_1')
+      bLastPreviewed=True
+      Id=E76139354AFEC315B6F8BEB602E0858A
+      MaterialExpressionEditorX=767
+      MaterialExpressionEditorY=838
+      MaterialExpressionGuid=E2473CAF4D84121C2EFB408F2842B44F
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_5"
+      OutputName="XYZ Normal"
+      SortPriority=1
+      A=(Expression=MaterialExpressionTransform'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTransform_1')
+      bLastPreviewed=True
+      Id=33D744E0417A31C70E80059F1F0AAFC7
+      MaterialExpressionEditorX=1837
+      MaterialExpressionEditorY=1660
+      MaterialExpressionGuid=00BE27134059AADBE2511EBFE21C1395
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_3"
+      OutputName="Z Texture"
+      SortPriority=1
+      A=(Expression=MaterialExpressionTextureSample'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTextureSample_5',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      bLastPreviewed=True
+      Id=DC35E13448C6765AA54072B08874BFD4
+      MaterialExpressionEditorX=797
+      MaterialExpressionEditorY=667
+      MaterialExpressionGuid=85624E5745CBE51F2FC3A78DF856A6AE
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_2"
+      OutputName="XY Texture"
+      SortPriority=1
+      A=(Expression=MaterialExpressionComponentMask'WorldAlignedTexture_Normal_Mesh:MaterialExpressionComponentMask_8')
+      bLastPreviewed=True
+      Id=C73948F34CBC303FB1D8F3A99E6B0324
+      MaterialExpressionEditorX=780
+      MaterialExpressionEditorY=191
+      MaterialExpressionGuid=2DAFA6AA4F8EA89010B9459E7B688DD9
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_0"
+      OutputName="XYZ Texture"
+      SortPriority=1
+      A=(Expression=MaterialExpressionComponentMask'WorldAlignedTexture_Normal_Mesh:MaterialExpressionComponentMask_1')
+      bLastPreviewed=True
+      Id=1B6AC1E04D115FD30866E4A895261285
+      MaterialExpressionEditorX=812
+      MaterialExpressionEditorY=480
+      MaterialExpressionGuid=38A9974E47D24E614EAE28BF4DE0E589
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_8"
+      Preview=(Expression=MaterialExpressionConstant'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant_3')
+      InputName="Stripe Offset"
+      Description="Size of texture in worldspace units"
+      Id=7ABCF8324D9527C9A4655E9D65B09A2A
+      InputType=FunctionInput_Scalar
+      PreviewValue=(X=64.000000,Y=64.000000,Z=64.000000,W=6.000000)
+      bUsePreviewValueAsDefault=True
+      MaterialExpressionEditorX=-2362
+      MaterialExpressionEditorY=-1605
+      MaterialExpressionGuid=7943CD5340F06B48FA02E28256EE166F
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_6"
+      Preview=(Expression=MaterialExpressionConstant'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant_1')
+      InputName="Stripe Size"
+      Description="Size of texture in worldspace units"
+      Id=993AB7C44E6110F9D99C8582E12C7967
+      InputType=FunctionInput_Scalar
+      PreviewValue=(X=64.000000,Y=64.000000,Z=64.000000,W=6.000000)
+      bUsePreviewValueAsDefault=True
+      MaterialExpressionEditorX=-2655
+      MaterialExpressionEditorY=-1137
+      MaterialExpressionGuid=96E476D94FFBB4A795463C9118FC6C4D
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_4"
+      Preview=(Expression=MaterialExpressionTextureObject'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTextureObject_2')
+      InputName="Stripe Texture"
+      Id=0E20D9374FD822EF082441BC994E2781
+      InputType=FunctionInput_Texture2D
+      MaterialExpressionEditorX=-2023
+      MaterialExpressionEditorY=-1070
+      MaterialExpressionGuid=58E1CD2844ACA256F23631BBAA0B2717
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_2"
+      InputName="Normal"
+      Id=ABB498D643904DF08C37A0B911766DDB
+      PreviewValue=(X=0.000000,Y=0.000000,Z=1.000000,W=1.000000)
+      bUsePreviewValueAsDefault=True
+      MaterialExpressionEditorX=-5295
+      MaterialExpressionEditorY=865
+      MaterialExpressionGuid=61FF397140A2533AF8FA52B057BC5DD6
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_10"
+      Preview=(Expression=MaterialExpressionConstant'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant_10')
+      InputName="Stripe Color"
+      Description="Size of texture in worldspace units"
+      Id=68527E7A42A62649FDD754950698AC70
+      PreviewValue=(X=64.000000,Y=64.000000,Z=64.000000,W=6.000000)
+      bUsePreviewValueAsDefault=True
+      MaterialExpressionEditorX=-1646
+      MaterialExpressionEditorY=-1630
+      MaterialExpressionGuid=A40CA9A4463EEDC8AC5BD6A71A35D955
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_1"
+      InputName="TextureSize"
+      Description="Size of texture in worldspace units"
+      Id=2C710AD6489D7B7213E379AD4846EBBB
+      PreviewValue=(X=64.000000,Y=64.000000,Z=64.000000,W=6.000000)
+      bUsePreviewValueAsDefault=True
+      MaterialExpressionEditorX=-2487
+      MaterialExpressionEditorY=-165
+      MaterialExpressionGuid=821F10574A8FD0BEC9EB0EBD4C8C59AB
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_0"
+      Preview=(Expression=MaterialExpressionTextureObject'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTextureObject_0')
+      InputName="TextureObject"
+      Id=4EE64DD049AC714D089AD6AAB1BFA0C8
+      InputType=FunctionInput_Texture2D
+      MaterialExpressionEditorX=-2450
+      MaterialExpressionEditorY=461
+      MaterialExpressionGuid=9405A6784C0A5E7F9EBA23B6D3A0FE95
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionDivide_2"
+      A=(Expression=MaterialExpressionWorldPosition'WorldAlignedTexture_Normal_Mesh:MaterialExpressionWorldPosition_2')
+      B=(Expression=MaterialExpressionFunctionInput'WorldAlignedTexture_Normal_Mesh:MaterialExpressionFunctionInput_6')
+      MaterialExpressionEditorX=-2455
+      MaterialExpressionEditorY=-1218
+      MaterialExpressionGuid=C34C0B424AA56B413AC1629257C354AE
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionDivide_0"
+      A=(Expression=MaterialExpressionWorldPosition'WorldAlignedTexture_Normal_Mesh:MaterialExpressionWorldPosition_0')
+      B=(Expression=MaterialExpressionFunctionInput'WorldAlignedTexture_Normal_Mesh:MaterialExpressionFunctionInput_1')
+      MaterialExpressionEditorX=-2302
+      MaterialExpressionEditorY=-246
+      MaterialExpressionGuid=A277CFA047C1832347BE3DAE3468839A
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_5"
+      R=1.000000
+      G=-1.000000
+      MaterialExpressionEditorX=-587
+      MaterialExpressionEditorY=2665
+      MaterialExpressionGuid=1149E6B74B428058D6630D9135BC6C4B
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_4"
+      R=1.000000
+      G=1.000000
+      MaterialExpressionEditorX=-590
+      MaterialExpressionEditorY=2486
+      MaterialExpressionGuid=18ED83214C751B9BEEC85C8C04A16942
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_23"
+      R=1.000000
+      G=1.000000
+      MaterialExpressionEditorX=-3560
+      MaterialExpressionEditorY=440
+      MaterialExpressionGuid=DC59A91F4D550B931F65DB8751F56F5A
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_22"
+      R=1.000000
+      G=-1.000000
+      MaterialExpressionEditorX=-3560
+      MaterialExpressionEditorY=360
+      MaterialExpressionGuid=EDF8D37E4B80BAC1D5739985B3F86057
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_21"
+      R=-1.000000
+      G=1.000000
+      MaterialExpressionEditorX=-4100
+      MaterialExpressionEditorY=480
+      MaterialExpressionGuid=EE36655249569080470D19ADEF7EC4DF
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_20"
+      R=1.000000
+      G=1.000000
+      MaterialExpressionEditorX=-4100
+      MaterialExpressionEditorY=400
+      MaterialExpressionGuid=E6B8D9E04E984E7BB544CCAEB067B34D
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_19"
+      R=-1.000000
+      G=1.000000
+      MaterialExpressionEditorX=-3120
+      MaterialExpressionEditorY=400
+      MaterialExpressionGuid=950A59F54422B901D5BBB7A9B48C56C7
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_18"
+      R=1.000000
+      G=1.000000
+      MaterialExpressionEditorX=-3120
+      MaterialExpressionEditorY=560
+      MaterialExpressionGuid=8691FC774E434F7F174769AF5D7D9F5E
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_1"
+      R=1.000000
+      G=1.000000
+      MaterialExpressionEditorX=-610
+      MaterialExpressionEditorY=1921
+      MaterialExpressionGuid=5D343041421056F5C4158DB4D0BDBFC1
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_0"
+      R=-1.000000
+      G=1.000000
+      MaterialExpressionEditorX=-615
+      MaterialExpressionEditorY=2102
+      MaterialExpressionGuid=3D9A1AA44BF9BD69383CD8B1EF9D1081
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_8"
+      R=0.500000
+      MaterialExpressionEditorX=-1336
+      MaterialExpressionEditorY=2658
+      MaterialExpressionGuid=AF8E6CB64C4A84D23AE43FBD093BEC19
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_7"
+      R=1.000000
+      MaterialExpressionEditorX=-1486
+      MaterialExpressionEditorY=-1268
+      MaterialExpressionGuid=AEE6216E4005D24D45E094A2C7E22548
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_6"
+      R=0.500000
+      MaterialExpressionEditorX=-1135
+      MaterialExpressionEditorY=2092
+      MaterialExpressionGuid=7BBBC3C846BBF4966D32F6B4713E233E
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_5"
+      R=1.000000
+      MaterialExpressionEditorX=-340
+      MaterialExpressionEditorY=1300
+      MaterialExpressionGuid=09EB4C1849CA36A8B18D588FB552D1EF
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_4"
+      R=4.000000
+      MaterialExpressionEditorX=-1698
+      MaterialExpressionEditorY=1555
+      MaterialExpressionGuid=AD99267F418548178AB25A84CFFE00BE
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_3"
+      R=32.000000
+      MaterialExpressionEditorX=-2805
+      MaterialExpressionEditorY=-1582
+      MaterialExpressionGuid=62D9126645A65CD89D447EB11FA37EE4
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_2"
+      MaterialExpressionEditorX=-1528
+      MaterialExpressionEditorY=-542
+      MaterialExpressionGuid=0FF3F68E47C68DAFA132B2ACB3FB63F6
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_16"
+      MaterialExpressionEditorX=-4100
+      MaterialExpressionEditorY=320
+      MaterialExpressionGuid=A1F2E0C94395F8DE1D715A964DA88335
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_15"
+      MaterialExpressionEditorX=-3560
+      MaterialExpressionEditorY=280
+      MaterialExpressionGuid=3AD51D504DD6295AF0D6C79D47E40CCC
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_14"
+      MaterialExpressionEditorX=-3120
+      MaterialExpressionEditorY=340
+      MaterialExpressionGuid=7CA5D7644A7A9A14A08E1DBB62F67FED
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_13"
+      R=-2.000000
+      MaterialExpressionEditorX=-2827
+      MaterialExpressionEditorY=1385
+      MaterialExpressionGuid=C8BD2E00457FCA49835E4A8837E7468B
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_12"
+      R=2.250000
+      MaterialExpressionEditorX=-1552
+      MaterialExpressionEditorY=-362
+      MaterialExpressionGuid=4C961F4E46EA728FF7141BB9B7F6D761
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_10"
+      R=2.000000
+      MaterialExpressionEditorX=-2061
+      MaterialExpressionEditorY=-1758
+      MaterialExpressionGuid=C9D4E24A419AFF98FCD2F391C232D04E
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_1"
+      R=32.000000
+      MaterialExpressionEditorX=-3016
+      MaterialExpressionEditorY=-1128
+      MaterialExpressionGuid=0010D796486F4E202AA3BBB37BDBA94A
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_0"
+      MaterialExpressionEditorX=-2425
+      MaterialExpressionEditorY=-1426
+      MaterialExpressionGuid=C3CA140E4E027C6620471DB1F439188E
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_9"
+      Input=(Expression=MaterialExpressionLinearInterpolate'WorldAlignedTexture_Normal_Mesh:MaterialExpressionLinearInterpolate_11')
+      R=True
+      G=True
+      B=True
+      MaterialExpressionEditorX=1322
+      MaterialExpressionEditorY=1647
+      MaterialExpressionGuid=1C0B715A41884BFFA4D55B98E3B33969
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_8"
+      Input=(Expression=MaterialExpressionLinearInterpolate'WorldAlignedTexture_Normal_Mesh:MaterialExpressionLinearInterpolate_0')
+      R=True
+      G=True
+      B=True
+      MaterialExpressionEditorX=448
+      MaterialExpressionEditorY=187
+      MaterialExpressionGuid=608D7C754719BD81ACF96783429A9B62
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_7"
+      Input=(Expression=MaterialExpressionTransform'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTransform_0')
+      B=True
+      MaterialExpressionEditorX=-4800
+      MaterialExpressionEditorY=980
+      MaterialExpressionGuid=2079550E4DBBD4AAB2D6BD8BEF30C877
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_6"
+      Input=(Expression=MaterialExpressionLinearInterpolate'WorldAlignedTexture_Normal_Mesh:MaterialExpressionLinearInterpolate_1')
+      A=True
+      MaterialExpressionEditorX=457
+      MaterialExpressionEditorY=-87
+      MaterialExpressionGuid=06877A784ECF8059F1AA04B3928EC144
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_5"
+      Input=(Expression=MaterialExpressionTransform'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTransform_0')
+      R=True
+      MaterialExpressionEditorX=-1951
+      MaterialExpressionEditorY=921
+      MaterialExpressionGuid=3777226140FBD06EAF76B7B8FDF754F5
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_4"
+      Input=(Expression=MaterialExpressionDivide'WorldAlignedTexture_Normal_Mesh:MaterialExpressionDivide_0')
+      R=True
+      B=True
+      MaterialExpressionEditorX=-2096
+      MaterialExpressionEditorY=-201
+      MaterialExpressionGuid=EEFF2B654F8D03A5B3BC32BCC2ECDB90
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_3"
+      Input=(Expression=MaterialExpressionLinearInterpolate'WorldAlignedTexture_Normal_Mesh:MaterialExpressionLinearInterpolate_0')
+      R=True
+      MaterialExpressionEditorX=-1277
+      MaterialExpressionEditorY=-313
+      MaterialExpressionGuid=F6CE58764C4E2D02BAE1688DA61F9869
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_2"
+      Input=(Expression=MaterialExpressionDivide'WorldAlignedTexture_Normal_Mesh:MaterialExpressionDivide_0')
+      B=True
+      MaterialExpressionEditorX=-2171
+      MaterialExpressionEditorY=-600
+      MaterialExpressionGuid=995C9BA744F58721D7896CA6E0F18CEF
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_17"
+      Input=(Expression=MaterialExpressionLinearInterpolate'WorldAlignedTexture_Normal_Mesh:MaterialExpressionLinearInterpolate_7')
+      R=True
+      G=True
+      B=True
+      MaterialExpressionEditorX=413
+      MaterialExpressionEditorY=-380
+      MaterialExpressionGuid=832CBDED4C4CFBAB6FB0EA94C6D48ACA
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_16"
+      Input=(Expression=MaterialExpressionTransform'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTransform_0')
+      G=True
+      MaterialExpressionEditorX=-4801
+      MaterialExpressionEditorY=831
+      MaterialExpressionGuid=C86E173A44BCF9C4AD3DE9807971C72B
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_15"
+      Input=(Expression=MaterialExpressionTransform'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTransform_0')
+      G=True
+      MaterialExpressionEditorX=-1988
+      MaterialExpressionEditorY=1590
+      MaterialExpressionGuid=6BB5339F43A2B3077D509CB81C3910FE
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_13"
+      Input=(Expression=MaterialExpressionTextureSample'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTextureSample_8',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      R=True
+      G=True
+      MaterialExpressionEditorX=-207
+      MaterialExpressionEditorY=1418
+      MaterialExpressionGuid=798299FC4E19D34C74E669BC902452ED
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_12"
+      Input=(Expression=MaterialExpressionDivide'WorldAlignedTexture_Normal_Mesh:MaterialExpressionDivide_0')
+      G=True
+      MaterialExpressionEditorX=-2143
+      MaterialExpressionEditorY=-412
+      MaterialExpressionGuid=5D46FA934586530BEA5562A548DB64E6
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_10"
+      Input=(Expression=MaterialExpressionDivide'WorldAlignedTexture_Normal_Mesh:MaterialExpressionDivide_2')
+      B=True
+      MaterialExpressionEditorX=-2147
+      MaterialExpressionEditorY=-1248
+      MaterialExpressionGuid=7FB5E2F84486B020115D36A393D20EA3
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_1"
+      Input=(Expression=MaterialExpressionLinearInterpolate'WorldAlignedTexture_Normal_Mesh:MaterialExpressionLinearInterpolate_1')
+      R=True
+      G=True
+      B=True
+      MaterialExpressionEditorX=303
+      MaterialExpressionEditorY=472
+      MaterialExpressionGuid=79AB37604D324B26C1FAB7A70EA2411E
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_0"
+      Input=(Expression=MaterialExpressionDivide'WorldAlignedTexture_Normal_Mesh:MaterialExpressionDivide_0')
+      R=True
+      G=True
+      MaterialExpressionEditorX=-2093
+      MaterialExpressionEditorY=-46
+      MaterialExpressionGuid=DEF58B144F4FE055E366F9A991517F3F
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComment_9"
+      SizeX=611
+      SizeY=671
+      Text="XZ, YZ, and XY"
+      MaterialExpressionEditorX=-1851
+      MaterialExpressionEditorY=76
+      MaterialExpressionGuid=828A01AA4F8D469547459684C8453A03
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComment_8"
+      SizeX=1200
+      SizeY=620
+      Text="Stripe Detail Preservation"
+      MaterialExpressionEditorX=-1820
+      MaterialExpressionEditorY=-686
+      MaterialExpressionGuid=14003AAC46F14AB9C87814A90EEC132C
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComment_7"
+      SizeX=695
+      SizeY=596
+      Text="Coordinates"
+      MaterialExpressionEditorX=-2751
+      MaterialExpressionEditorY=-396
+      MaterialExpressionGuid=67C89F094114A797D73070B55C2C9E17
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComment_6"
+      SizeX=1991
+      SizeY=926
+      Text="Canyon Stripe"
+      MaterialExpressionEditorX=-3203
+      MaterialExpressionEditorY=-1783
+      MaterialExpressionGuid=10CD1833408FBFFED8610EBC271CD9A5
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComment_5"
+      SizeX=857
+      SizeY=388
+      Text="XY Mask"
+      MaterialExpressionEditorX=-2157
+      MaterialExpressionEditorY=877
+      MaterialExpressionGuid=342F5B3E4A03B386C3AD6B8A0CE9BCB9
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComment_4"
+      SizeX=920
+      SizeY=362
+      Text="Vertical Surface Mask"
+      MaterialExpressionEditorX=-2218
+      MaterialExpressionEditorY=1397
+      MaterialExpressionGuid=F7A125344FA80C7D5A46C98EE0109D68
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComment_3"
+      SizeX=420
+      SizeY=400
+      Text="Bias for Veritcal Surfaces "
+      MaterialExpressionEditorX=-3000
+      MaterialExpressionEditorY=1260
+      MaterialExpressionGuid=E202C3D74F63144302EE7AB44F28F8B1
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComment_2"
+      SizeX=1066
+      SizeY=471
+      Text="Normal Transformation and Swizzle"
+      MaterialExpressionEditorX=-397
+      MaterialExpressionEditorY=1135
+      MaterialExpressionGuid=19F666F04F4ADA03FDFBC58A933FF559
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComment_11"
+      SizeX=225
+      SizeY=212
+      Text="Blend Z"
+      MaterialExpressionEditorX=-435
+      MaterialExpressionEditorY=375
+      MaterialExpressionGuid=D6A3DF66416519CFE8B787BF9AB7BDDC
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComment_10"
+      SizeX=225
+      SizeY=212
+      Text="Blend X, Z"
+      MaterialExpressionEditorX=-1075
+      MaterialExpressionEditorY=122
+      MaterialExpressionGuid=ACEFC6C34C8931FEEC82A4BCDF8B7AAA
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComment_1"
+      SizeX=1260
+      SizeY=580
+      Text="Transform YZ Normals"
+      MaterialExpressionEditorX=-1322
+      MaterialExpressionEditorY=1790
+      MaterialExpressionGuid=911908DC416FA3E3C717CD9B1D2285D1
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionComment_0"
+      SizeX=1440
+      SizeY=580
+      Text="Transform XZ Normals"
+      MaterialExpressionEditorX=-1516
+      MaterialExpressionEditorY=2447
+      MaterialExpressionGuid=1EEBD16542B38F9CAF39F4931D7E916B
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_11"
+      Input=(Expression=MaterialExpressionLinearInterpolate'WorldAlignedTexture_Normal_Mesh:MaterialExpressionLinearInterpolate_17')
+      MaterialExpressionEditorX=-905
+      MaterialExpressionEditorY=-628
+      MaterialExpressionGuid=0A523E16495B522FCABD17A1300B5C4D
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_8"
+      A=(Expression=MaterialExpressionTextureSample'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTextureSample_7',OutputIndex=2,Mask=1,MaskG=1)
+      B=(Expression=MaterialExpressionTextureSample'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTextureSample_7',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-210
+      MaterialExpressionEditorY=1191
+      MaterialExpressionGuid=41422B484762F9C2C52D47B8216A491A
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_7"
+      A=(Expression=MaterialExpressionComponentMask'WorldAlignedTexture_Normal_Mesh:MaterialExpressionComponentMask_2')
+      B=(Expression=MaterialExpressionComponentMask'WorldAlignedTexture_Normal_Mesh:MaterialExpressionComponentMask_12')
+      MaterialExpressionEditorX=-1943
+      MaterialExpressionEditorY=-378
+      MaterialExpressionGuid=9F741B494BC30AC7A60966B9B54D0BC0
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_6"
+      A=(Expression=MaterialExpressionMultiply'WorldAlignedTexture_Normal_Mesh:MaterialExpressionMultiply_5')
+      B=(Expression=MaterialExpressionTextureSample'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTextureSample_8',OutputIndex=3,Mask=1,MaskB=1)
+      MaterialExpressionEditorX=362
+      MaterialExpressionEditorY=1377
+      MaterialExpressionGuid=8EF1CFB64937B23AF5A0BC8245110B80
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_5"
+      A=(Expression=MaterialExpressionMultiply'WorldAlignedTexture_Normal_Mesh:MaterialExpressionMultiply_2')
+      B=(Expression=MaterialExpressionConstant'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant_7')
+      MaterialExpressionEditorX=-1250
+      MaterialExpressionEditorY=-1371
+      MaterialExpressionGuid=1BDA655F440CD83C64031CADA68B1BF0
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_4"
+      A=(Expression=MaterialExpressionTextureSample'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTextureSample_5',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionTextureSample'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTextureSample_5',OutputIndex=4,Mask=1,MaskA=1)
+      MaterialExpressionEditorX=-1263
+      MaterialExpressionEditorY=502
+      MaterialExpressionGuid=89EC253C433F961C7924E3BC7027B062
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_3"
+      A=(Expression=MaterialExpressionMultiply'WorldAlignedTexture_Normal_Mesh:MaterialExpressionMultiply_3')
+      B=(Expression=MaterialExpressionTextureSample'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTextureSample_7',OutputIndex=3,Mask=1,MaskB=1)
+      MaterialExpressionEditorX=378
+      MaterialExpressionEditorY=1177
+      MaterialExpressionGuid=277C36D049E2683FA12ECBB6B659945F
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_2"
+      A=(Expression=MaterialExpressionTextureSample'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTextureSample_3',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionTextureSample'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTextureSample_3',OutputIndex=4,Mask=1,MaskA=1)
+      MaterialExpressionEditorX=-1278
+      MaterialExpressionEditorY=295
+      MaterialExpressionGuid=B78AA22E4ADECEECBDEF66AFBDCC6378
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_1"
+      A=(Expression=MaterialExpressionConstant'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant_0')
+      B=(Expression=MaterialExpressionComponentMask'WorldAlignedTexture_Normal_Mesh:MaterialExpressionComponentMask_10')
+      MaterialExpressionEditorX=-2137
+      MaterialExpressionEditorY=-1435
+      MaterialExpressionGuid=0AA6C12B4B7F92FB6BD97695BC7E2E13
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_0"
+      A=(Expression=MaterialExpressionTextureSample'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTextureSample_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionTextureSample'WorldAlignedTexture_Normal_Mesh:MaterialExpressionTextureSample_0',OutputIndex=4,Mask=1,MaskA=1)
+      MaterialExpressionEditorX=-1272
+      MaterialExpressionEditorY=95
+      MaterialExpressionGuid=5288A3C04ABD63BC53D674A3C1656D62
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_3"
+      A=(Expression=MaterialExpressionFunctionInput'WorldAlignedTexture_Normal_Mesh:MaterialExpressionFunctionInput_8')
+      B=(Expression=MaterialExpressionAppendVector'WorldAlignedTexture_Normal_Mesh:MaterialExpressionAppendVector_1')
+      MaterialExpressionEditorX=-1912
+      MaterialExpressionEditorY=-1473
+      MaterialExpressionGuid=432BD0A44F11F9F7F2DF12A4ECECE4C0
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_2"
+      A=(Expression=MaterialExpressionMultiply'WorldAlignedTexture_Normal_Mesh:MaterialExpressionMultiply_4')
+      B=(Expression=MaterialExpressionConstant'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant_8')
+      MaterialExpressionEditorX=-645
+      MaterialExpressionEditorY=2820
+      MaterialExpressionGuid=6508DCD246189271642AF2B93CEDEE90
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_0"
+      A=(Expression=MaterialExpressionMultiply'WorldAlignedTexture_Normal_Mesh:MaterialExpressionMultiply_1')
+      B=(Expression=MaterialExpressionConstant'WorldAlignedTexture_Normal_Mesh:MaterialExpressionConstant_6')
+      MaterialExpressionEditorX=-578
+      MaterialExpressionEditorY=2263
+      MaterialExpressionGuid=C3F5C3214A13CB5F1BBD32BABE6744F6
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionAbs_3"
+      Input=(Expression=MaterialExpressionComponentMask'WorldAlignedTexture_Normal_Mesh:MaterialExpressionComponentMask_7')
+      MaterialExpressionEditorX=-1973
+      MaterialExpressionEditorY=1427
+      MaterialExpressionGuid=C504A62F4BBDD2D1CEA37088CCFD49B1
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Begin Object Name="MaterialExpressionAbs_0"
+      Input=(Expression=MaterialExpressionComponentMask'WorldAlignedTexture_Normal_Mesh:MaterialExpressionComponentMask_5')
+      MaterialExpressionEditorX=-1717
+      MaterialExpressionEditorY=928
+      MaterialExpressionGuid=FFB2CC6F4A3027F6B576E58AE57EB2E4
+      Function=MaterialFunction'WorldAlignedTexture_Normal_Mesh'
+   End Object
+   Description="Tiles a texture in worldspace"
+   bExposeToLibrary=True
+   LibraryCategories(0)="Texturing"
+   LibraryCategoriesText(0)=()
+   LibraryCategoriesText(1)="Texturing"
+   FunctionExpressions(0)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_8'
+   FunctionExpressions(1)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_6'
+   FunctionExpressions(2)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_1'
+   FunctionExpressions(3)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_4'
+   FunctionExpressions(4)=MaterialExpressionConstant'MaterialExpressionConstant_4'
+   FunctionExpressions(5)=MaterialExpressionAbs'MaterialExpressionAbs_3'
+   FunctionExpressions(6)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_7'
+   FunctionExpressions(7)=MaterialExpressionTransform'MaterialExpressionTransform_0'
+   FunctionExpressions(8)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_2'
+   FunctionExpressions(9)=MaterialExpressionConstant'MaterialExpressionConstant_13'
+   FunctionExpressions(10)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_4'
+   FunctionExpressions(11)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_5'
+   FunctionExpressions(12)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_0'
+   FunctionExpressions(13)=MaterialExpressionTextureObject'MaterialExpressionTextureObject_0'
+   FunctionExpressions(14)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_0'
+   FunctionExpressions(15)=MaterialExpressionDivide'MaterialExpressionDivide_0'
+   FunctionExpressions(16)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_1'
+   FunctionExpressions(17)=MaterialExpressionWorldPosition'MaterialExpressionWorldPosition_0'
+   FunctionExpressions(18)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_0'
+   FunctionExpressions(19)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_6'
+   FunctionExpressions(20)=MaterialExpressionAbs'MaterialExpressionAbs_0'
+   FunctionExpressions(21)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_5'
+   FunctionExpressions(22)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_0'
+   FunctionExpressions(23)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_0'
+   FunctionExpressions(24)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_2'
+   FunctionExpressions(25)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_2'
+   FunctionExpressions(26)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_3'
+   FunctionExpressions(27)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_4'
+   FunctionExpressions(28)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_6'
+   FunctionExpressions(29)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_5'
+   FunctionExpressions(30)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_9'
+   FunctionExpressions(31)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_3'
+   FunctionExpressions(32)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_5'
+   FunctionExpressions(33)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_3'
+   FunctionExpressions(34)=MaterialExpressionMultiply'MaterialExpressionMultiply_3'
+   FunctionExpressions(35)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_2'
+   FunctionExpressions(36)=MaterialExpressionAdd'MaterialExpressionAdd_0'
+   FunctionExpressions(37)=MaterialExpressionConstant'MaterialExpressionConstant_6'
+   FunctionExpressions(38)=MaterialExpressionMultiply'MaterialExpressionMultiply_1'
+   FunctionExpressions(39)=MaterialExpressionConstant2Vector'MaterialExpressionConstant2Vector_0'
+   FunctionExpressions(40)=MaterialExpressionConstant2Vector'MaterialExpressionConstant2Vector_1'
+   FunctionExpressions(41)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_8'
+   FunctionExpressions(42)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_6'
+   FunctionExpressions(43)=MaterialExpressionMultiply'MaterialExpressionMultiply_5'
+   FunctionExpressions(44)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_6'
+   FunctionExpressions(45)=MaterialExpressionAdd'MaterialExpressionAdd_2'
+   FunctionExpressions(46)=MaterialExpressionConstant'MaterialExpressionConstant_8'
+   FunctionExpressions(47)=MaterialExpressionMultiply'MaterialExpressionMultiply_4'
+   FunctionExpressions(48)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_15'
+   FunctionExpressions(49)=MaterialExpressionConstant2Vector'MaterialExpressionConstant2Vector_5'
+   FunctionExpressions(50)=MaterialExpressionConstant2Vector'MaterialExpressionConstant2Vector_4'
+   FunctionExpressions(51)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_13'
+   FunctionExpressions(52)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_3'
+   FunctionExpressions(53)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_2'
+   FunctionExpressions(54)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_8'
+   FunctionExpressions(55)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_0'
+   FunctionExpressions(56)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_1'
+   FunctionExpressions(57)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_4'
+   FunctionExpressions(58)=MaterialExpressionTextureObject'MaterialExpressionTextureObject_2'
+   FunctionExpressions(59)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_10'
+   FunctionExpressions(60)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_1'
+   FunctionExpressions(61)=MaterialExpressionAdd'MaterialExpressionAdd_3'
+   FunctionExpressions(62)=MaterialExpressionConstant'MaterialExpressionConstant_0'
+   FunctionExpressions(63)=MaterialExpressionWorldPosition'MaterialExpressionWorldPosition_2'
+   FunctionExpressions(64)=MaterialExpressionDivide'MaterialExpressionDivide_2'
+   FunctionExpressions(65)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_6'
+   FunctionExpressions(66)=MaterialExpressionConstant'MaterialExpressionConstant_1'
+   FunctionExpressions(67)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_8'
+   FunctionExpressions(68)=MaterialExpressionConstant'MaterialExpressionConstant_3'
+   FunctionExpressions(69)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_2'
+   FunctionExpressions(70)=MaterialExpressionMultiply'MaterialExpressionMultiply_0'
+   FunctionExpressions(71)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_5'
+   FunctionExpressions(72)=MaterialExpressionConstant'MaterialExpressionConstant_7'
+   FunctionExpressions(73)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_10'
+   FunctionExpressions(74)=MaterialExpressionConstant'MaterialExpressionConstant_10'
+   FunctionExpressions(75)=MaterialExpressionMultiply'MaterialExpressionMultiply_2'
+   FunctionExpressions(76)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_7'
+   FunctionExpressions(77)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_7'
+   FunctionExpressions(78)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_17'
+   FunctionExpressions(79)=MaterialExpressionConstant'MaterialExpressionConstant_2'
+   FunctionExpressions(80)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_4'
+   FunctionExpressions(81)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_17'
+   FunctionExpressions(82)=MaterialExpressionConstant'MaterialExpressionConstant_12'
+   FunctionExpressions(83)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_3'
+   FunctionExpressions(84)=MaterialExpressionClamp'MaterialExpressionClamp_11'
+   FunctionExpressions(85)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_7'
+   FunctionExpressions(86)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_8'
+   FunctionExpressions(87)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_9'
+   FunctionExpressions(88)=MaterialExpressionConstant'MaterialExpressionConstant_5'
+   FunctionExpressions(89)=MaterialExpressionTransform'MaterialExpressionTransform_1'
+   FunctionExpressions(90)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_7'
+   FunctionExpressions(91)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_12'
+   FunctionExpressions(92)=MaterialExpressionConstant'MaterialExpressionConstant_14'
+   FunctionExpressions(93)=MaterialExpressionConstant'MaterialExpressionConstant_15'
+   FunctionExpressions(94)=MaterialExpressionConstant'MaterialExpressionConstant_16'
+   FunctionExpressions(95)=MaterialExpressionIf'MaterialExpressionIf_9'
+   FunctionExpressions(96)=MaterialExpressionConstant2Vector'MaterialExpressionConstant2Vector_18'
+   FunctionExpressions(97)=MaterialExpressionConstant2Vector'MaterialExpressionConstant2Vector_19'
+   FunctionExpressions(98)=MaterialExpressionConstant2Vector'MaterialExpressionConstant2Vector_20'
+   FunctionExpressions(99)=MaterialExpressionConstant2Vector'MaterialExpressionConstant2Vector_21'
+   FunctionExpressions(100)=MaterialExpressionConstant2Vector'MaterialExpressionConstant2Vector_22'
+   FunctionExpressions(101)=MaterialExpressionConstant2Vector'MaterialExpressionConstant2Vector_23'
+   FunctionExpressions(102)=MaterialExpressionIf'MaterialExpressionIf_10'
+   FunctionExpressions(103)=MaterialExpressionIf'MaterialExpressionIf_11'
+   FunctionExpressions(104)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_16'
+   FunctionExpressions(105)=MaterialExpressionMultiply'MaterialExpressionMultiply_6'
+   FunctionExpressions(106)=MaterialExpressionMultiply'MaterialExpressionMultiply_8'
+   FunctionExpressions(107)=MaterialExpressionMultiply'MaterialExpressionMultiply_10'
+   FunctionExpressions(108)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_10'
+   FunctionExpressions(109)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_11'
+   FunctionEditorComments(0)=MaterialExpressionComment'MaterialExpressionComment_0'
+   FunctionEditorComments(1)=MaterialExpressionComment'MaterialExpressionComment_1'
+   FunctionEditorComments(2)=MaterialExpressionComment'MaterialExpressionComment_2'
+   FunctionEditorComments(3)=MaterialExpressionComment'MaterialExpressionComment_3'
+   FunctionEditorComments(4)=MaterialExpressionComment'MaterialExpressionComment_4'
+   FunctionEditorComments(5)=MaterialExpressionComment'MaterialExpressionComment_5'
+   FunctionEditorComments(6)=MaterialExpressionComment'MaterialExpressionComment_6'
+   FunctionEditorComments(7)=MaterialExpressionComment'MaterialExpressionComment_7'
+   FunctionEditorComments(8)=MaterialExpressionComment'MaterialExpressionComment_8'
+   FunctionEditorComments(9)=MaterialExpressionComment'MaterialExpressionComment_9'
+   FunctionEditorComments(10)=MaterialExpressionComment'MaterialExpressionComment_10'
+   FunctionEditorComments(11)=MaterialExpressionComment'MaterialExpressionComment_11'
+   CombinedInputTypes=31
+   CombinedOutputTypes=15
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_35'
+End Object

@@ -1,0 +1,22 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_Ice_Improved"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=536FFBA046F122E46FA48AA8D9E45386
+   Parent=Material'/Game/TDA_Materials/IceandSnow/M_Ice_Improved.M_Ice_Improved'
+   ScalarParameterValues(0)=(ParameterName="Roughness Inensity",ParameterValue=1.000000,ExpressionGUID=99C5A5794E1808F93B008B9AF3F2D59E)
+   ScalarParameterValues(1)=(ParameterName="Tessalation Intensity Multiplier",ParameterValue=2.000000,ExpressionGUID=F612F910493B167A735D579220A18CC7)
+   ScalarParameterValues(2)=(ParameterName="RefractionDepthBias")
+   VectorParameterValues(0)=(ParameterName="CoOrdinates",ParameterValue=(R=0.000000,G=0.000000,B=250.000000,A=1.000000),ExpressionGUID=E5562DBC486B8E10D22B68878D8A9A6C)
+   VectorParameterValues(1)=(ParameterName="DarkTone",ParameterValue=(R=0.075000,G=0.165000,B=0.215000,A=1.000000),ExpressionGUID=3ECEE3F84B3533A9AE180F9CFD4DE717)
+   VectorParameterValues(2)=(ParameterName="LightTone",ParameterValue=(R=0.398000,G=0.570000,B=0.830000,A=1.000000),ExpressionGUID=4172C78C4502068DA7125A93989E20EF)
+   VectorParameterValues(3)=(ParameterName="Subsurface",ParameterValue=(R=0.075000,G=0.376000,B=0.470000,A=1.000000),ExpressionGUID=BAD4CF264D1662852D24AE9FC23AAC72)
+   ReferencedTextureGuids(0)=9658D20442182336BECEA78EE1C161D5
+   ReferencedTextureGuids(1)=F438E2B544A543BDBD5243A0F0D367E4
+   ReferencedTextureGuids(2)=204816B241849C12AC0440A8C5E0628B
+   TextureStreamingData(0)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="Rock_N_T",TextureReference=/Game/TDA_Textures/Misc/Rock_N_T.Rock_N_T)
+   TextureStreamingData(1)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="Snow_N_T",TextureReference=/Game/TDA_Textures/Misc/Snow_N_T.Snow_N_T)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=AD369DB6470E77BE2F963D8434B17E20
+End Object

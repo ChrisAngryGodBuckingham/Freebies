@@ -1,0 +1,173 @@
+Begin Object Class=/Script/Engine.MaterialFunction Name="CheapContrast"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSubtract Name="MaterialExpressionSubtract_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionSubtract_0"
+      A=(Expression=MaterialExpressionConstant'CheapContrast:MaterialExpressionConstant_3')
+      B=(Expression=MaterialExpressionFunctionInput'CheapContrast:MaterialExpressionFunctionInput_4')
+      MaterialExpressionEditorX=-1140
+      MaterialExpressionEditorY=-12
+      MaterialExpressionGuid=4D9F98C94E724D986680FD9428A5BACA
+      Function=MaterialFunction'CheapContrast'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_3"
+      A=(Expression=MaterialExpressionSubtract'CheapContrast:MaterialExpressionSubtract_0')
+      B=(Expression=MaterialExpressionAdd'CheapContrast:MaterialExpressionAdd_0')
+      Alpha=(Expression=MaterialExpressionFunctionInput'CheapContrast:MaterialExpressionFunctionInput_3')
+      MaterialExpressionEditorX=-701
+      MaterialExpressionEditorY=72
+      MaterialExpressionGuid=0CBE74C5498AB62FB373FAA63210CFCA
+      Function=MaterialFunction'CheapContrast'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_3"
+      A=(Expression=MaterialExpressionClamp'CheapContrast:MaterialExpressionClamp_3')
+      bLastPreviewed=True
+      Id=5067ED8C4A2EFE82DB33F99EBE37E80E
+      MaterialExpressionEditorX=113
+      MaterialExpressionEditorY=127
+      MaterialExpressionGuid=77EA2F8D40D814E1BAE69E94AD73DFB2
+      Function=MaterialFunction'CheapContrast'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_1"
+      OutputName="Result Offset"
+      A=(Expression=MaterialExpressionClamp'CheapContrast:MaterialExpressionClamp_1')
+      bLastPreviewed=True
+      Id=3459391743AAEEA9E8411088A7A12FF2
+      MaterialExpressionEditorX=105
+      MaterialExpressionEditorY=315
+      MaterialExpressionGuid=F15522994A30B0A2A79E3BA7333CC746
+      Function=MaterialFunction'CheapContrast'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_4"
+      InputName="Contrast"
+      Description="0 is default contrast"
+      Id=3C3E177E485D8FFFC35D1482F0A20020
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=1
+      MaterialExpressionEditorX=-1472
+      MaterialExpressionEditorY=122
+      MaterialExpressionGuid=AF9ED15D4798B2193B830AB84A74DF93
+      Function=MaterialFunction'CheapContrast'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_3"
+      Id=95C9DA0E48D34168E34AD3A607BAA34E
+      InputType=FunctionInput_Scalar
+      MaterialExpressionEditorX=-1472
+      MaterialExpressionEditorY=623
+      MaterialExpressionGuid=7F56266F4ACEEC21FDA294BA62B037B2
+      Function=MaterialFunction'CheapContrast'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_1"
+      Preview=(Expression=MaterialExpressionConstant'CheapContrast:MaterialExpressionConstant_8')
+      InputName="In Offset"
+      Id=DF9FDEE14A598C1E26CF7CA9D7A93E07
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      MaterialExpressionEditorX=-1038
+      MaterialExpressionEditorY=725
+      MaterialExpressionGuid=B99147B24DF54543C8D00F9A226E60B5
+      Function=MaterialFunction'CheapContrast'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_8"
+      MaterialExpressionEditorX=-1457
+      MaterialExpressionEditorY=890
+      MaterialExpressionGuid=0F6AFEEF4A694524908D36BB404BA4E9
+      Function=MaterialFunction'CheapContrast'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_3"
+      MaterialExpressionEditorX=-1491
+      MaterialExpressionEditorY=-105
+      MaterialExpressionGuid=6A8D1EE74C7A57429128249DD6BC9A79
+      Function=MaterialFunction'CheapContrast'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_2"
+      R=1.000000
+      MaterialExpressionEditorX=-1480
+      MaterialExpressionEditorY=298
+      MaterialExpressionGuid=C422D64A42C9ADFE18D5718BDE51CD8F
+      Function=MaterialFunction'CheapContrast'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_3"
+      Input=(Expression=MaterialExpressionLinearInterpolate'CheapContrast:MaterialExpressionLinearInterpolate_3')
+      MaterialExpressionEditorX=-231
+      MaterialExpressionEditorY=21
+      MaterialExpressionGuid=C9F30E1A4B15F5B9526D35BC67A0E846
+      Function=MaterialFunction'CheapContrast'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_1"
+      Input=(Expression=MaterialExpressionAdd'CheapContrast:MaterialExpressionAdd_5')
+      MaterialExpressionEditorX=-220
+      MaterialExpressionEditorY=271
+      MaterialExpressionGuid=974CE0324A99E4E724F629B2CCB9B01E
+      Function=MaterialFunction'CheapContrast'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_5"
+      A=(Expression=MaterialExpressionLinearInterpolate'CheapContrast:MaterialExpressionLinearInterpolate_3')
+      B=(Expression=MaterialExpressionFunctionInput'CheapContrast:MaterialExpressionFunctionInput_1')
+      MaterialExpressionEditorX=-461
+      MaterialExpressionEditorY=262
+      MaterialExpressionGuid=E2C279294387BB481E8077BE4A777BF8
+      Function=MaterialFunction'CheapContrast'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_0"
+      A=(Expression=MaterialExpressionFunctionInput'CheapContrast:MaterialExpressionFunctionInput_4')
+      B=(Expression=MaterialExpressionConstant'CheapContrast:MaterialExpressionConstant_2')
+      MaterialExpressionEditorX=-1275
+      MaterialExpressionEditorY=186
+      MaterialExpressionGuid=778642A64D6ED882A820A386DCBB01D0
+      Function=MaterialFunction'CheapContrast'
+   End Object
+   StateId=473575E74672E1830AA7248AFAF8BBDA
+   Description="Cheaply adds contrast similar to pulling in edges in Photoshops Levels tool"
+   bExposeToLibrary=True
+   LibraryCategories(0)="Image Adjustment"
+   LibraryCategoriesText(0)=()
+   LibraryCategoriesText(1)="Image Adjustment"
+   FunctionExpressions(0)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_3'
+   FunctionExpressions(1)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_3'
+   FunctionExpressions(2)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_3'
+   FunctionExpressions(3)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_4'
+   FunctionExpressions(4)=MaterialExpressionAdd'MaterialExpressionAdd_0'
+   FunctionExpressions(5)=MaterialExpressionConstant'MaterialExpressionConstant_2'
+   FunctionExpressions(6)=MaterialExpressionSubtract'MaterialExpressionSubtract_0'
+   FunctionExpressions(7)=MaterialExpressionConstant'MaterialExpressionConstant_3'
+   FunctionExpressions(8)=MaterialExpressionAdd'MaterialExpressionAdd_5'
+   FunctionExpressions(9)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_1'
+   FunctionExpressions(10)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_1'
+   FunctionExpressions(11)=MaterialExpressionConstant'MaterialExpressionConstant_8'
+   FunctionExpressions(12)=MaterialExpressionClamp'MaterialExpressionClamp_1'
+   FunctionExpressions(13)=MaterialExpressionClamp'MaterialExpressionClamp_3'
+   CombinedInputTypes=15
+   CombinedOutputTypes=15
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+End Object

@@ -1,0 +1,349 @@
+Begin Object Class=/Script/Engine.MaterialFunction Name="MF_RB_Land_TexCoords_01"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_27"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionWorldPosition Name="MaterialExpressionWorldPosition_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_0"
+   End Object
+   Begin Object Class=/Script/Landscape.MaterialExpressionLandscapeLayerCoords Name="MaterialExpressionTerrainLayerCoords_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_51"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_15"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_70"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_24"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_22"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_19"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_17"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_24"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDistance Name="MaterialExpressionDistance_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_23"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_15"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionCameraPositionWS Name="MaterialExpressionCameraPositionWS_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_27"
+   End Object
+   Begin Object Name="MaterialExpressionWorldPosition_11"
+      MaterialExpressionEditorX=-1613
+      MaterialExpressionEditorY=1227
+      MaterialExpressionGuid=60EA3EEC4D0B46A828B12982C9C2CCCC
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_3"
+      UTiling=0.300000
+      VTiling=0.300000
+      MaterialExpressionEditorX=-1460
+      MaterialExpressionEditorY=680
+      MaterialExpressionGuid=EE4804C04999ABA2AAA9BE90420969E9
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_2"
+      UTiling=0.300000
+      VTiling=0.300000
+      MaterialExpressionEditorX=-1360
+      MaterialExpressionEditorY=400
+      MaterialExpressionGuid=A160FF824377CC42C82DEDB45BAA692F
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_0"
+      MaterialExpressionEditorX=-1280
+      MaterialExpressionEditorY=180
+      MaterialExpressionGuid=14D87FD84DDC998DD7B6A9AD5DA4F8A9
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionTerrainLayerCoords_2"
+      MaterialExpressionEditorX=-1160
+      MaterialExpressionEditorY=20
+      MaterialExpressionGuid=982595684DBD06ED690A0889288BEC3D
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_9"
+      OutputName="Tiling FarFAR"
+      SortPriority=1
+      A=(Expression=MaterialExpressionDivide'MF_RB_Land_TexCoords_01:MaterialExpressionDivide_4')
+      bLastPreviewed=True
+      Id=101E3CB847545D940AE3C1BB317C45A3
+      MaterialExpressionEditorX=-312
+      MaterialExpressionEditorY=770
+      MaterialExpressionGuid=25A75A324210DDC4029354A161BC2FD4
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_51"
+      OutputName="Far Blend Distance"
+      SortPriority=2
+      A=(Expression=MaterialExpressionClamp'MF_RB_Land_TexCoords_01:MaterialExpressionClamp_0')
+      bLastPreviewed=True
+      Id=730DC33D4A0662C9ECA49CAC187D874A
+      MaterialExpressionEditorX=-232
+      MaterialExpressionEditorY=1031
+      MaterialExpressionGuid=E112738548134854D41BBEBED2A77072
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_15"
+      OutputName="Tiling Far"
+      SortPriority=1
+      A=(Expression=MaterialExpressionDivide'MF_RB_Land_TexCoords_01:MaterialExpressionDivide_11')
+      bLastPreviewed=True
+      Id=96B6F28247245C24C383A58AE6303A85
+      MaterialExpressionEditorX=-291
+      MaterialExpressionEditorY=518
+      MaterialExpressionGuid=CF5D0F834987D7177FC314AD29537EFF
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_13"
+      OutputName="Tiling Near"
+      A=(Expression=MaterialExpressionDivide'MF_RB_Land_TexCoords_01:MaterialExpressionDivide_9')
+      bLastPreviewed=True
+      Id=2045667B44FB6B9C77CFD4AB905B2A7A
+      MaterialExpressionEditorX=-272
+      MaterialExpressionEditorY=238
+      MaterialExpressionGuid=78EA9C4448A7DDCA0078A09B8214F410
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_11"
+      OutputName="FarFAR Blend Distance"
+      SortPriority=2
+      A=(Expression=MaterialExpressionClamp'MF_RB_Land_TexCoords_01:MaterialExpressionClamp_2')
+      bLastPreviewed=True
+      Id=C83602ED46F1871EF7D88A9E70B484E9
+      MaterialExpressionEditorX=-150
+      MaterialExpressionEditorY=1257
+      MaterialExpressionGuid=139E3E294AD80C96208A1B954E9B3E95
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_70"
+      Preview=(Expression=MaterialExpressionConstant'MF_RB_Land_TexCoords_01:MaterialExpressionConstant_23')
+      InputName="In Far Blend Distance"
+      Id=5FD6E39D4848CECC20B96BAFC6E9C20D
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=2
+      MaterialExpressionEditorX=-1400
+      MaterialExpressionEditorY=980
+      MaterialExpressionGuid=C4B1D75E48C1653672860D865C49C3A6
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_24"
+      Preview=(Expression=MaterialExpressionConstant'MF_RB_Land_TexCoords_01:MaterialExpressionConstant_15')
+      InputName="In FARFAR Blend Distance"
+      Id=262496194C0CBB8BCD13A2BDACB784ED
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=2
+      MaterialExpressionEditorX=-1580
+      MaterialExpressionEditorY=1580
+      MaterialExpressionGuid=91E78F074202A83D25690D888FCD6145
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_22"
+      Preview=(Expression=MaterialExpressionTextureCoordinate'MF_RB_Land_TexCoords_01:MaterialExpressionTextureCoordinate_3')
+      InputName="In Tiling FARFAR"
+      Id=33A24FCE4219609ADD2539BC43C5AED5
+      InputType=FunctionInput_Scalar
+      SortPriority=1
+      MaterialExpressionEditorX=-1320
+      MaterialExpressionEditorY=640
+      MaterialExpressionGuid=63D2545042E38CF1DB8BEE96048EA4FD
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_19"
+      Preview=(Expression=MaterialExpressionTextureCoordinate'MF_RB_Land_TexCoords_01:MaterialExpressionTextureCoordinate_2')
+      InputName="In Tiling Far"
+      Id=4FBCF6FC46464110EEFD158529D6A2A4
+      InputType=FunctionInput_Scalar
+      SortPriority=1
+      MaterialExpressionEditorX=-1220
+      MaterialExpressionEditorY=400
+      MaterialExpressionGuid=8DA3DCBF47A388A4AD94E6AABE251C16
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_17"
+      Preview=(Expression=MaterialExpressionTextureCoordinate'MF_RB_Land_TexCoords_01:MaterialExpressionTextureCoordinate_0')
+      InputName="In Tiling Near"
+      Id=DA0D8AFB4E199959C508F5A810BA83E7
+      InputType=FunctionInput_Scalar
+      MaterialExpressionEditorX=-1160
+      MaterialExpressionEditorY=160
+      MaterialExpressionGuid=87D844CE4305C54803248194E0E7F43D
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionDivide_9"
+      A=(Expression=MaterialExpressionLandscapeLayerCoords'MF_RB_Land_TexCoords_01:MaterialExpressionTerrainLayerCoords_2')
+      B=(Expression=MaterialExpressionAppendVector'MF_RB_Land_TexCoords_01:MaterialExpressionAppendVector_0')
+      MaterialExpressionEditorX=-515
+      MaterialExpressionEditorY=201
+      MaterialExpressionGuid=45219E464228438FA6B2F2B8F40E7440
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionDivide_6"
+      A=(Expression=MaterialExpressionDistance'MF_RB_Land_TexCoords_01:MaterialExpressionDistance_11')
+      B=(Expression=MaterialExpressionFunctionInput'MF_RB_Land_TexCoords_01:MaterialExpressionFunctionInput_24')
+      MaterialExpressionEditorX=-910
+      MaterialExpressionEditorY=1198
+      MaterialExpressionGuid=1BC94D5942C6CFDD5CC56F9E0E0E2A0A
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionDivide_4"
+      A=(Expression=MaterialExpressionLandscapeLayerCoords'MF_RB_Land_TexCoords_01:MaterialExpressionTerrainLayerCoords_2')
+      B=(Expression=MaterialExpressionAppendVector'MF_RB_Land_TexCoords_01:MaterialExpressionAppendVector_9')
+      MaterialExpressionEditorX=-541
+      MaterialExpressionEditorY=711
+      MaterialExpressionGuid=F57B383442EE7DAB9B12CA85D62B989E
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionDivide_24"
+      A=(Expression=MaterialExpressionDistance'MF_RB_Land_TexCoords_01:MaterialExpressionDistance_11')
+      B=(Expression=MaterialExpressionFunctionInput'MF_RB_Land_TexCoords_01:MaterialExpressionFunctionInput_70')
+      MaterialExpressionEditorX=-992
+      MaterialExpressionEditorY=972
+      MaterialExpressionGuid=DBE8A47945D18CE6E3BF10AECDC356D5
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionDivide_11"
+      A=(Expression=MaterialExpressionLandscapeLayerCoords'MF_RB_Land_TexCoords_01:MaterialExpressionTerrainLayerCoords_2')
+      B=(Expression=MaterialExpressionAppendVector'MF_RB_Land_TexCoords_01:MaterialExpressionAppendVector_2')
+      MaterialExpressionEditorX=-520
+      MaterialExpressionEditorY=460
+      MaterialExpressionGuid=FE15A6AA40A6A32E11283EB22E1CCE8E
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionDistance_11"
+      A=(Expression=MaterialExpressionWorldPosition'MF_RB_Land_TexCoords_01:MaterialExpressionWorldPosition_11')
+      B=(Expression=MaterialExpressionCameraPositionWS'MF_RB_Land_TexCoords_01:MaterialExpressionCameraPositionWS_0')
+      MaterialExpressionEditorX=-1300
+      MaterialExpressionEditorY=1260
+      MaterialExpressionGuid=1FF8C0CE43A640B8F86931BAD8635539
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_23"
+      R=2500.000000
+      MaterialExpressionEditorX=-1520
+      MaterialExpressionEditorY=980
+      MaterialExpressionGuid=BBD4B70E42BC069F2D2CE8AA19664C20
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_15"
+      R=2500.000000
+      MaterialExpressionEditorX=-1717
+      MaterialExpressionEditorY=1575
+      MaterialExpressionGuid=BFF21AF54F715CE6B0FABEB083B141E4
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_2"
+      Input=(Expression=MaterialExpressionDivide'MF_RB_Land_TexCoords_01:MaterialExpressionDivide_6')
+      MaterialExpressionEditorX=-665
+      MaterialExpressionEditorY=1233
+      MaterialExpressionGuid=3ED3774A49D947D27F8F51AA141A25E7
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_0"
+      Input=(Expression=MaterialExpressionDivide'MF_RB_Land_TexCoords_01:MaterialExpressionDivide_24')
+      MaterialExpressionEditorX=-658
+      MaterialExpressionEditorY=1026
+      MaterialExpressionGuid=37E28A86483804A497A365917BE0BD94
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionCameraPositionWS_0"
+      MaterialExpressionEditorX=-1601
+      MaterialExpressionEditorY=1346
+      MaterialExpressionGuid=B4F9DCCE47D013598C426DA6F228B6DF
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_9"
+      A=(Expression=MaterialExpressionFunctionInput'MF_RB_Land_TexCoords_01:MaterialExpressionFunctionInput_22')
+      B=(Expression=MaterialExpressionFunctionInput'MF_RB_Land_TexCoords_01:MaterialExpressionFunctionInput_22')
+      MaterialExpressionEditorX=-988
+      MaterialExpressionEditorY=617
+      MaterialExpressionGuid=3865C3F3497503750E19079BAF4E1D6E
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_2"
+      A=(Expression=MaterialExpressionFunctionInput'MF_RB_Land_TexCoords_01:MaterialExpressionFunctionInput_19')
+      B=(Expression=MaterialExpressionFunctionInput'MF_RB_Land_TexCoords_01:MaterialExpressionFunctionInput_19')
+      MaterialExpressionEditorX=-955
+      MaterialExpressionEditorY=418
+      MaterialExpressionGuid=DA5F8CE04E40351B2B6EA29A188C98EA
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_0"
+      A=(Expression=MaterialExpressionFunctionInput'MF_RB_Land_TexCoords_01:MaterialExpressionFunctionInput_17')
+      B=(Expression=MaterialExpressionFunctionInput'MF_RB_Land_TexCoords_01:MaterialExpressionFunctionInput_17')
+      MaterialExpressionEditorX=-841
+      MaterialExpressionEditorY=212
+      MaterialExpressionGuid=B95E773A4162BC96F0A1708B93F715E2
+      Function=MaterialFunction'MF_RB_Land_TexCoords_01'
+   End Object
+   StateId=B578385E4737EC2F5C53C4B227C16C5D
+   FunctionExpressions(0)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_13'
+   FunctionExpressions(1)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_15'
+   FunctionExpressions(2)=MaterialExpressionTextureCoordinate'MaterialExpressionTextureCoordinate_0'
+   FunctionExpressions(3)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_17'
+   FunctionExpressions(4)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_19'
+   FunctionExpressions(5)=MaterialExpressionTextureCoordinate'MaterialExpressionTextureCoordinate_2'
+   FunctionExpressions(6)=MaterialExpressionDivide'MaterialExpressionDivide_9'
+   FunctionExpressions(7)=MaterialExpressionDivide'MaterialExpressionDivide_11'
+   FunctionExpressions(8)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_0'
+   FunctionExpressions(9)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_2'
+   FunctionExpressions(10)=MaterialExpressionDivide'MaterialExpressionDivide_24'
+   FunctionExpressions(11)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_70'
+   FunctionExpressions(12)=MaterialExpressionConstant'MaterialExpressionConstant_23'
+   FunctionExpressions(13)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_51'
+   FunctionExpressions(14)=MaterialExpressionWorldPosition'MaterialExpressionWorldPosition_11'
+   FunctionExpressions(15)=MaterialExpressionDistance'MaterialExpressionDistance_11'
+   FunctionExpressions(16)=MaterialExpressionLandscapeLayerCoords'MaterialExpressionTerrainLayerCoords_2'
+   FunctionExpressions(17)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_22'
+   FunctionExpressions(18)=MaterialExpressionTextureCoordinate'MaterialExpressionTextureCoordinate_3'
+   FunctionExpressions(19)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_24'
+   FunctionExpressions(20)=MaterialExpressionConstant'MaterialExpressionConstant_15'
+   FunctionExpressions(21)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_9'
+   FunctionExpressions(22)=MaterialExpressionDivide'MaterialExpressionDivide_4'
+   FunctionExpressions(23)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_9'
+   FunctionExpressions(24)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_11'
+   FunctionExpressions(25)=MaterialExpressionDivide'MaterialExpressionDivide_6'
+   FunctionExpressions(26)=MaterialExpressionCameraPositionWS'MaterialExpressionCameraPositionWS_0'
+   FunctionExpressions(27)=MaterialExpressionClamp'MaterialExpressionClamp_0'
+   FunctionExpressions(28)=MaterialExpressionClamp'MaterialExpressionClamp_2'
+   CombinedInputTypes=15
+   CombinedOutputTypes=15
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_27'
+End Object

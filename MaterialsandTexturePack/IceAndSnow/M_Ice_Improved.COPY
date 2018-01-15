@@ -1,0 +1,413 @@
+Begin Object Class=/Script/Engine.Material Name="M_Ice_Improved"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVertexNormalWS Name="MaterialExpressionVertexNormalWS_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionOneMinus Name="MaterialExpressionOneMinus_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNoise Name="MaterialExpressionNoise_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFresnel Name="MaterialExpressionFresnel_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFresnel Name="MaterialExpressionFresnel_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVertexNormalWS_0"
+      MaterialExpressionEditorX=-2510
+      MaterialExpressionEditorY=114
+      MaterialExpressionGuid=BA35B93A4DA35626FB92D891D1096308
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_3"
+      DefaultValue=(R=0.000000,G=0.000000,B=50.000000,A=1.000000)
+      ParameterName="CoOrdinates"
+      ExpressionGUID=E5562DBC486B8E10D22B68878D8A9A6C
+      MaterialExpressionEditorX=-1742
+      MaterialExpressionEditorY=322
+      MaterialExpressionGuid=7C687A9447B1293F2B40BFAF07AB5AB3
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_2"
+      DefaultValue=(R=0.075000,G=0.376000,B=0.470000,A=1.000000)
+      ParameterName="Subsurface"
+      ExpressionGUID=BAD4CF264D1662852D24AE9FC23AAC72
+      MaterialExpressionEditorX=-590
+      MaterialExpressionEditorY=946
+      MaterialExpressionGuid=F6D4C8194E95900EAFA441BC686DC7D4
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_1"
+      DefaultValue=(R=0.075000,G=0.165000,B=0.215000,A=1.000000)
+      ParameterName="DarkTone"
+      ExpressionGUID=3ECEE3F84B3533A9AE180F9CFD4DE717
+      MaterialExpressionEditorX=-1488
+      MaterialExpressionEditorY=-352
+      MaterialExpressionGuid=4CA0659046A1E73E547C2DB8EA9D6AE8
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.398000,G=0.570000,B=0.830000,A=1.000000)
+      ParameterName="LightTone"
+      ExpressionGUID=4172C78C4502068DA7125A93989E20EF
+      MaterialExpressionEditorX=-1488
+      MaterialExpressionEditorY=-544
+      MaterialExpressionGuid=21B6EFF148482B8B46E6179DD5C7912C
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_2"
+      Texture=Texture2D'/Game/TDA_Textures/Misc/TilingNoise05.TilingNoise05'
+      MaterialExpressionEditorX=-2000
+      MaterialExpressionEditorY=267
+      MaterialExpressionGuid=738073FC49450CFAB22B52A0F701CDAA
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_1"
+      Coordinates=(Expression=MaterialExpressionMultiply'M_Ice_Improved:MaterialExpressionMultiply_0')
+      Texture=Texture2D'/Game/TDA_Textures/Misc/Snow_N_T.Snow_N_T'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-512
+      MaterialExpressionEditorY=528
+      MaterialExpressionGuid=5A2B836549F5F7C94CE125A935667D49
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Coordinates=(Expression=MaterialExpressionMultiply'M_Ice_Improved:MaterialExpressionMultiply_0')
+      Texture=Texture2D'/Game/TDA_Textures/Misc/Rock_N_T.Rock_N_T'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-512
+      MaterialExpressionEditorY=320
+      MaterialExpressionGuid=8B3B85394BDD67195728A5BFC0789F50
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_0"
+      MaterialExpressionEditorX=-864
+      MaterialExpressionEditorY=320
+      MaterialExpressionGuid=132CA316409C836879DFCE9B13B1E8CE
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_1"
+      DefaultValue=2.000000
+      ParameterName="Tessalation Intensity Multiplier"
+      ExpressionGUID=F612F910493B167A735D579220A18CC7
+      MaterialExpressionEditorX=-1200
+      MaterialExpressionEditorY=256
+      MaterialExpressionGuid=02CAA9914A99CC0EFE4F0FBB293458E8
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_0"
+      DefaultValue=1.000000
+      ParameterName="Roughness Inensity"
+      ExpressionGUID=99C5A5794E1808F93B008B9AF3F2D59E
+      MaterialExpressionEditorX=-864
+      MaterialExpressionEditorY=448
+      MaterialExpressionGuid=8480A0E2403038F9BFEF6EAF48E26B57
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionOneMinus_0"
+      Input=(Expression=MaterialExpressionFresnel'M_Ice_Improved:MaterialExpressionFresnel_0')
+      MaterialExpressionEditorX=-1248
+      MaterialExpressionEditorY=-112
+      MaterialExpressionGuid=6FDAA44D46EFF5BF3198D687AA30A11D
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionNoise_0"
+      MaterialExpressionEditorX=-864
+      MaterialExpressionEditorY=48
+      MaterialExpressionGuid=1FDF3840414C5F84764754B020B9615C
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_4"
+      A=(Expression=MaterialExpressionVectorParameter'M_Ice_Improved:MaterialExpressionVectorParameter_3',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      ConstB=-1.000000
+      MaterialExpressionEditorX=-1486
+      MaterialExpressionEditorY=338
+      MaterialExpressionGuid=90F76922454ABA3A0E0F30AEC8E09D34
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_3"
+      A=(Expression=MaterialExpressionMultiply'M_Ice_Improved:MaterialExpressionMultiply_1')
+      B=(Expression=MaterialExpressionMultiply'M_Ice_Improved:MaterialExpressionMultiply_4')
+      MaterialExpressionEditorX=-1358
+      MaterialExpressionEditorY=194
+      MaterialExpressionGuid=6406DD57434CB971E878F68731222C22
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_2"
+      A=(Expression=MaterialExpressionComponentMask'M_Ice_Improved:MaterialExpressionComponentMask_0')
+      ConstB=-1.000000
+      MaterialExpressionEditorX=-2126
+      MaterialExpressionEditorY=130
+      MaterialExpressionGuid=367BCA954323C575C94148AAD48E2AE6
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_1"
+      A=(Expression=MaterialExpressionClamp'M_Ice_Improved:MaterialExpressionClamp_0')
+      B=(Expression=MaterialExpressionTextureSample'M_Ice_Improved:MaterialExpressionTextureSample_2',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=-1742
+      MaterialExpressionEditorY=194
+      MaterialExpressionGuid=E77B9E284A716B061F6730A2FE5D3ED1
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0"
+      A=(Expression=MaterialExpressionTextureCoordinate'M_Ice_Improved:MaterialExpressionTextureCoordinate_0')
+      B=(Expression=MaterialExpressionScalarParameter'M_Ice_Improved:MaterialExpressionScalarParameter_0')
+      MaterialExpressionEditorX=-704
+      MaterialExpressionEditorY=320
+      MaterialExpressionGuid=5D4DAF92457D3CFA3E88679E94C9D849
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_0"
+      A=(Expression=MaterialExpressionVectorParameter'M_Ice_Improved:MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionVectorParameter'M_Ice_Improved:MaterialExpressionVectorParameter_1',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      Alpha=(Expression=MaterialExpressionOneMinus'M_Ice_Improved:MaterialExpressionOneMinus_0')
+      MaterialExpressionEditorX=-1120
+      MaterialExpressionEditorY=-368
+      MaterialExpressionGuid=02EACE674CC5D12B061495B1AB4026CC
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionFresnel_1"
+      MaterialExpressionEditorX=-590
+      MaterialExpressionEditorY=818
+      MaterialExpressionGuid=3C775A5F462956F6EF27E8B54581A414
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionFresnel_0"
+      MaterialExpressionEditorX=-1488
+      MaterialExpressionEditorY=-112
+      MaterialExpressionGuid=47E7FFDA4023E274534C4897AD8956A3
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_3"
+      R=0.200000
+      MaterialExpressionEditorX=-352
+      MaterialExpressionEditorY=144
+      MaterialExpressionGuid=18C3076C46C4EBC0E0D664987C721CA0
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_1"
+      R=0.300000
+      MaterialExpressionEditorX=-864
+      MaterialExpressionEditorY=144
+      MaterialExpressionGuid=BECA84A148693F89F5DD3E9CDA17E77A
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_0"
+      MaterialExpressionEditorX=-256
+      MaterialExpressionEditorY=32
+      MaterialExpressionGuid=30A174E94F6667F61F344C8CFB7AEE1C
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_0"
+      Input=(Expression=MaterialExpressionVertexNormalWS'M_Ice_Improved:MaterialExpressionVertexNormalWS_0')
+      B=True
+      MaterialExpressionEditorX=-2254
+      MaterialExpressionEditorY=130
+      MaterialExpressionGuid=510E478B4967655103C264809569420B
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionComment_4"
+      SizeX=1349
+      SizeY=464
+      Text="Tessalation Factor"
+      CommentColor=(R=0.009300,G=0.310000,B=0.036641,A=0.781000)
+      MaterialExpressionEditorX=-2560
+      MaterialExpressionEditorY=64
+      MaterialExpressionGuid=2350A7AC42CB46C7245429ACF6AD3BA3
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionComment_3"
+      SizeX=418
+      SizeY=402
+      Text="Subsurface Color"
+      CommentColor=(R=0.075000,G=0.376000,B=0.470000,A=1.000000)
+      MaterialExpressionEditorX=-640
+      MaterialExpressionEditorY=768
+      MaterialExpressionGuid=B9E81938433D77E2C0FF3599159E87CE
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionComment_2"
+      SizeX=624
+      SizeY=480
+      Text="Normals"
+      CommentColor=(R=0.174976,G=0.275408,B=1.000000,A=1.000000)
+      MaterialExpressionEditorX=-880
+      MaterialExpressionEditorY=256
+      MaterialExpressionGuid=3F685FF645EF9A8CB6DABABB07811CBD
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionComment_14"
+      SizeX=352
+      SizeY=128
+      Text="Opacity to boost subsurface"
+      MaterialExpressionEditorX=-418
+      MaterialExpressionEditorY=94
+      MaterialExpressionGuid=F4F984BB45D6DC1B8AA972BBF0191603
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionComment_1"
+      SizeX=368
+      SizeY=208
+      Text="Roughness"
+      MaterialExpressionEditorX=-880
+      MaterialExpressionGuid=7D61D37040A556C20FF21FA87EC8C167
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionComment_0"
+      SizeX=512
+      SizeY=608
+      Text="Base Colors"
+      MaterialExpressionEditorX=-1536
+      MaterialExpressionEditorY=-608
+      MaterialExpressionGuid=2819245C42B1F907C2CCFEB859AF3547
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_0"
+      Input=(Expression=MaterialExpressionMultiply'M_Ice_Improved:MaterialExpressionMultiply_2')
+      MaterialExpressionEditorX=-1998
+      MaterialExpressionEditorY=130
+      MaterialExpressionGuid=0731CCCC4965893C5959A4812B6ACCE7
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_2"
+      A=(Expression=MaterialExpressionFresnel'M_Ice_Improved:MaterialExpressionFresnel_1')
+      B=(Expression=MaterialExpressionVectorParameter'M_Ice_Improved:MaterialExpressionVectorParameter_2',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=-350
+      MaterialExpressionEditorY=898
+      MaterialExpressionGuid=67160F4F417AAC096D82848760CBF9D4
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_1"
+      A=(Expression=MaterialExpressionTextureSample'M_Ice_Improved:MaterialExpressionTextureSample_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionTextureSample'M_Ice_Improved:MaterialExpressionTextureSample_1',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=-352
+      MaterialExpressionEditorY=384
+      MaterialExpressionGuid=F44F5141462A648E3A519B968DB21729
+      Material=Material'M_Ice_Improved'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_0"
+      A=(Expression=MaterialExpressionNoise'M_Ice_Improved:MaterialExpressionNoise_0')
+      B=(Expression=MaterialExpressionConstant'M_Ice_Improved:MaterialExpressionConstant_1')
+      MaterialExpressionEditorX=-624
+      MaterialExpressionEditorY=64
+      MaterialExpressionGuid=C494FFBC4FBB5F6BAACB5D92A2245025
+      Material=Material'M_Ice_Improved'
+   End Object
+   BaseColor=(Expression=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_0')
+   Metallic=(Expression=MaterialExpressionConstant'MaterialExpressionConstant_0')
+   Roughness=(Expression=MaterialExpressionAdd'MaterialExpressionAdd_0')
+   Normal=(Expression=MaterialExpressionAdd'MaterialExpressionAdd_1')
+   Opacity=(Expression=MaterialExpressionConstant'MaterialExpressionConstant_3')
+   ShadingModel=MSM_Subsurface
+   WorldDisplacement=(Expression=MaterialExpressionMultiply'MaterialExpressionMultiply_3')
+   TessellationMultiplier=(Expression=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_1')
+   SubsurfaceColor=(Expression=MaterialExpressionAdd'MaterialExpressionAdd_2')
+   bUsedWithSkeletalMesh=True
+   D3D11TessellationMode=MTM_FlatTessellation
+   bEnableCrackFreeDisplacement=True
+   Expressions(0)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_0'
+   Expressions(1)=MaterialExpressionConstant'MaterialExpressionConstant_0'
+   Expressions(2)=MaterialExpressionAdd'MaterialExpressionAdd_0'
+   Expressions(3)=MaterialExpressionAdd'MaterialExpressionAdd_1'
+   Expressions(4)=MaterialExpressionMultiply'MaterialExpressionMultiply_3'
+   Expressions(5)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_1'
+   Expressions(6)=MaterialExpressionAdd'MaterialExpressionAdd_2'
+   Expressions(7)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_0'
+   Expressions(8)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_1'
+   Expressions(9)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   Expressions(10)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_1'
+   Expressions(11)=MaterialExpressionFresnel'MaterialExpressionFresnel_0'
+   Expressions(12)=MaterialExpressionOneMinus'MaterialExpressionOneMinus_0'
+   Expressions(13)=MaterialExpressionConstant'MaterialExpressionConstant_1'
+   Expressions(14)=MaterialExpressionNoise'MaterialExpressionNoise_0'
+   Expressions(15)=MaterialExpressionMultiply'MaterialExpressionMultiply_0'
+   Expressions(16)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_0'
+   Expressions(17)=MaterialExpressionTextureCoordinate'MaterialExpressionTextureCoordinate_0'
+   Expressions(18)=MaterialExpressionFresnel'MaterialExpressionFresnel_1'
+   Expressions(19)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_2'
+   Expressions(20)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_2'
+   Expressions(21)=MaterialExpressionMultiply'MaterialExpressionMultiply_1'
+   Expressions(22)=MaterialExpressionVertexNormalWS'MaterialExpressionVertexNormalWS_0'
+   Expressions(23)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_0'
+   Expressions(24)=MaterialExpressionMultiply'MaterialExpressionMultiply_2'
+   Expressions(25)=MaterialExpressionClamp'MaterialExpressionClamp_0'
+   Expressions(26)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_3'
+   Expressions(27)=MaterialExpressionMultiply'MaterialExpressionMultiply_4'
+   Expressions(28)=MaterialExpressionConstant'MaterialExpressionConstant_3'
+   EditorComments(0)=MaterialExpressionComment'MaterialExpressionComment_0'
+   EditorComments(1)=MaterialExpressionComment'MaterialExpressionComment_1'
+   EditorComments(2)=MaterialExpressionComment'MaterialExpressionComment_2'
+   EditorComments(3)=MaterialExpressionComment'MaterialExpressionComment_3'
+   EditorComments(4)=MaterialExpressionComment'MaterialExpressionComment_4'
+   EditorComments(5)=MaterialExpressionComment'MaterialExpressionComment_14'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=A4B4FA6C4A9FDA335FAE84B989A387DD
+   ReferencedTextureGuids(0)=9658D20442182336BECEA78EE1C161D5
+   ReferencedTextureGuids(1)=F438E2B544A543BDBD5243A0F0D367E4
+   ReferencedTextureGuids(2)=204816B241849C12AC0440A8C5E0628B
+   TextureStreamingData(0)=(SamplingScale=0.015625,UVChannelIndex=0,TextureName="Rock_N_T",TextureReference=/Game/TDA_Textures/Misc/Rock_N_T.Rock_N_T)
+   TextureStreamingData(1)=(SamplingScale=0.015625,UVChannelIndex=0,TextureName="Snow_N_T",TextureReference=/Game/TDA_Textures/Misc/Snow_N_T.Snow_N_T)
+   TextureStreamingData(2)=(SamplingScale=0.015625,UVChannelIndex=0,TextureName="TilingNoise05",TextureReference=/Game/TDA_Textures/Misc/TilingNoise05.TilingNoise05)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=2B98B1E9479E689F1577BD8FCD5AB75D
+End Object

@@ -1,0 +1,19 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="M_GDC_Landscape_Mesh_SnowyRock_INST_4"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_8"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_8"
+   End Object
+   Parent=MaterialInstanceConstant'/Game/Elemental/Landscape/RB_Landscape3/Materials/M_GDC_Landscape_Mesh_SnowyRock_Base_01.M_GDC_Landscape_Mesh_SnowyRock_Base_01'
+   ScalarParameterValues(0)=(ParameterName="Rock Tile Far",ParameterValue=220.000000,ExpressionGUID=FD95D23A425E35A7C7EFEABB0C8B3E8E)
+   ScalarParameterValues(1)=(ParameterName="Snow Modulation Max",ExpressionGUID=7392FE3A4CF5E7AACC1FA192F0BCE338)
+   ScalarParameterValues(2)=(ParameterName="Snow Modulation Min",ParameterValue=-3.000000,ExpressionGUID=954250944BAEC8C6EC809E8A2C99A334)
+   ScalarParameterValues(3)=(ParameterName="World Modulation Max",ParameterValue=1.500000,ExpressionGUID=35788A104D68029B6D17FEA068C62B3A)
+   ScalarParameterValues(4)=(ParameterName="World Modulation Min",ParameterValue=-8.000000,ExpressionGUID=9322675149A1844296D3B5992ED3191B)
+   ReferencedTextureGuids(0)=12B796C04C6ADA66B05054B749F14DD2
+   ReferencedTextureGuids(1)=76B669B44B38157773E996B502077439
+   ReferencedTextureGuids(2)=D73738F74ABD0CA460B196B2BD472A06
+   ReferencedTextureGuids(3)=37AE4DC34C7BA46542EF798FBF9F605F
+   ReferencedTextureGuids(4)=1568AC5D4E8709B549192289CE1597BB
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_8'
+   LightingGuid=D1E9E1BD421528AF8A9C4DA8C44816A2
+End Object

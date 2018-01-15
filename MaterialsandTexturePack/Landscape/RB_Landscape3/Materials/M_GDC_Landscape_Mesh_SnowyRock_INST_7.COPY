@@ -1,0 +1,25 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="M_GDC_Landscape_Mesh_SnowyRock_INST_7"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_10"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_10"
+   End Object
+   Parent=MaterialInstanceConstant'/Game/Elemental/Landscape/RB_Landscape3/Materials/M_GDC_Landscape_Mesh_SnowyRock_Base_01.M_GDC_Landscape_Mesh_SnowyRock_Base_01'
+   ScalarParameterValues(0)=(ParameterName="Rock Tile Far",ParameterValue=1024.000000,ExpressionGUID=FD95D23A425E35A7C7EFEABB0C8B3E8E)
+   ScalarParameterValues(1)=(ParameterName="Snow Edge Intensity",ExpressionGUID=8530BBA94148516B4382669F738C55D1)
+   ScalarParameterValues(2)=(ParameterName="Snow Far Normal Intensity",ParameterValue=0.500000,ExpressionGUID=8935710E4C89CB24A3B6FC9E553601F3)
+   ScalarParameterValues(3)=(ParameterName="Snow Modulation Max",ExpressionGUID=7392FE3A4CF5E7AACC1FA192F0BCE338)
+   ScalarParameterValues(4)=(ParameterName="Snow Modulation Min",ParameterValue=-4.000000,ExpressionGUID=954250944BAEC8C6EC809E8A2C99A334)
+   ScalarParameterValues(5)=(ParameterName="Snow Tile Far",ParameterValue=0.008000,ExpressionGUID=F8B6451E48387B6B3EBDF0BA09D83C5C)
+   ScalarParameterValues(6)=(ParameterName="Snow Tile Near",ParameterValue=0.001000,ExpressionGUID=9CDFBBC248071DB0B18E6DA96AE13C2C)
+   ScalarParameterValues(7)=(ParameterName="World Modulation Max",ParameterValue=1.500000,ExpressionGUID=35788A104D68029B6D17FEA068C62B3A)
+   ScalarParameterValues(8)=(ParameterName="World Modulation Min",ParameterValue=-6.000000,ExpressionGUID=9322675149A1844296D3B5992ED3191B)
+   VectorParameterValues(0)=(ParameterName="Rock Color",ParameterValue=(R=0.800000,G=0.875000,B=1.000000,A=2.000000),ExpressionGUID=3F3E874F40343ED2743FE694384970A1)
+   VectorParameterValues(1)=(ParameterName="RockShinyColor",ParameterValue=(R=1.000000,G=1.000000,B=1.000000,A=16.000000),ExpressionGUID=9AAD31DA4DD75ED2B2932FBDC5B3300B)
+   ReferencedTextureGuids(0)=12B796C04C6ADA66B05054B749F14DD2
+   ReferencedTextureGuids(1)=76B669B44B38157773E996B502077439
+   ReferencedTextureGuids(2)=D73738F74ABD0CA460B196B2BD472A06
+   ReferencedTextureGuids(3)=37AE4DC34C7BA46542EF798FBF9F605F
+   ReferencedTextureGuids(4)=1568AC5D4E8709B549192289CE1597BB
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_10'
+   LightingGuid=B830A2D349E9A77E5E4EC193BD4FD610
+End Object

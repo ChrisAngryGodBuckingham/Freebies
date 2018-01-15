@@ -1,0 +1,1720 @@
+Begin Object Class=/Script/Engine.MaterialFunction Name="MF_GDC_Landscape_LayerBlend_Snow"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_23"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTransform Name="MaterialExpressionTransform_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTransform Name="MaterialExpressionTransform_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_38"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_36"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_35"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_30"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_29"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_28"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_27"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_18"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_17"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSubtract Name="MaterialExpressionSubtract_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSubtract Name="MaterialExpressionSubtract_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSubtract Name="MaterialExpressionSubtract_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticBool Name="MaterialExpressionStaticBool_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticBool Name="MaterialExpressionStaticBool_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticBool Name="MaterialExpressionStaticBool_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNormalize Name="MaterialExpressionNormalize_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNormalize Name="MaterialExpressionNormalize_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNormalize Name="MaterialExpressionNormalize_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_55"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_30"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_29"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_28"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_27"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_22"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_20"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_24"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_23"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_40"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_38"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_36"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_34"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_31"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_26"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_24"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_90"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_64"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_63"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_62"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_61"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_60"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_59"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_57"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_54"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_52"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_50"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_49"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_44"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_43"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_42"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_34"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_32"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_15"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDotProduct Name="MaterialExpressionDotProduct_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDotProduct Name="MaterialExpressionDotProduct_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_86"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_53"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_52"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_51"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_50"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_49"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_48"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_23"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_22"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_21"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_23"
+   End Object
+   Begin Object Name="MaterialExpressionTransform_4"
+      Input=(Expression=MaterialExpressionConstant3Vector'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant3Vector_1')
+      MaterialExpressionEditorX=-5640
+      MaterialExpressionEditorY=1800
+      MaterialExpressionGuid=459C3B1D4BDC2CC392E0D68F5D1C851C
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionTransform_2"
+      Input=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_49')
+      MaterialExpressionEditorX=-4892
+      MaterialExpressionEditorY=1387
+      MaterialExpressionGuid=37F8273C4718858D338198803C3042E9
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_38"
+      Coordinates=(OutputIndex=-1)
+      MaterialExpressionEditorX=-3000
+      MaterialExpressionEditorY=2620
+      MaterialExpressionGuid=C027F20643B652D04D261D9B1C130314
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_36"
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_GDC_Rocktest_01_N.T_GDC_Rocktest_01_N'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-712
+      MaterialExpressionEditorY=1320
+      MaterialExpressionGuid=03561CD440874418F375C5B572F19230
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_35"
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_GDC_Rocktest_01_N.T_GDC_Rocktest_01_N'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-712
+      MaterialExpressionEditorY=1118
+      MaterialExpressionGuid=417FE1564445153255116C8327EE2B74
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_30"
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_LS_Snow_01_D_Disp.T_LS_Snow_01_D_Disp'
+      MaterialExpressionEditorX=-2455
+      MaterialExpressionEditorY=1128
+      MaterialExpressionGuid=015D8AFC45FA9D50E4821B8C6B991792
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_29"
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_LS_Snow_01_D_Disp.T_LS_Snow_01_D_Disp'
+      MaterialExpressionEditorX=-2451
+      MaterialExpressionEditorY=946
+      MaterialExpressionGuid=033E65C842353F2A809E6F989FE4D1CB
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_28"
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_LS_Snow_01_D_Disp.T_LS_Snow_01_D_Disp'
+      MaterialExpressionEditorX=-2878
+      MaterialExpressionEditorY=908
+      MaterialExpressionGuid=23936FE94CDC4C471390238B884106FF
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_27"
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_LS_Snow_01_D_Disp.T_LS_Snow_01_D_Disp'
+      MaterialExpressionEditorX=-2875
+      MaterialExpressionEditorY=726
+      MaterialExpressionGuid=E14477874CD05201A93F8EBD38455227
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_18"
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_RB_LS_Dirt_01_DispAlpha03.T_RB_LS_Dirt_01_DispAlpha03'
+      MaterialExpressionEditorX=-2930
+      MaterialExpressionEditorY=-346
+      MaterialExpressionGuid=EB71DDE44E5473F91EBAA59912BD3547
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_17"
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_RB_LS_Dirt_01_DispAlpha03.T_RB_LS_Dirt_01_DispAlpha03'
+      MaterialExpressionEditorX=-2926
+      MaterialExpressionEditorY=-528
+      MaterialExpressionGuid=4F2F833347396784C81E31992A862B9E
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_1"
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_GDC_Rocktest_01_N.T_GDC_Rocktest_01_N'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-702
+      MaterialExpressionEditorY=1493
+      MaterialExpressionGuid=D1420B5E46FC5282D35FC98D6A7BD787
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionSubtract_5"
+      A=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionStaticSwitch_3')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_2')
+      MaterialExpressionEditorX=-542
+      MaterialExpressionEditorY=1957
+      MaterialExpressionGuid=41002D854363F5C763B2B1B9D6DDAD90
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionSubtract_2"
+      A=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_12')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_2')
+      MaterialExpressionEditorX=-3920
+      MaterialExpressionEditorY=2120
+      MaterialExpressionGuid=BE67092D4C23362C79C0A3AC21A8AA66
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionSubtract_0"
+      A=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionStaticSwitch_12')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_2')
+      MaterialExpressionEditorX=-581
+      MaterialExpressionEditorY=2101
+      MaterialExpressionGuid=664398524878D6D4050FB2905D120411
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_9"
+      A=(Expression=MaterialExpressionComponentMask'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionComponentMask_0')
+      B=(Expression=MaterialExpressionComponentMask'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionComponentMask_0')
+      Value=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_32')
+      MaterialExpressionEditorX=-1288
+      MaterialExpressionEditorY=-158
+      MaterialExpressionGuid=91DF9ACC45326F0867CD41A17C706F96
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_7"
+      A=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_42')
+      B=(Expression=MaterialExpressionAppendVector'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionAppendVector_13')
+      Value=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_32')
+      MaterialExpressionEditorX=-1213
+      MaterialExpressionEditorY=835
+      MaterialExpressionGuid=B47C147D4CF84E17FEEFD6A703C5BFE5
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_5"
+      A=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_34')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_34')
+      Value=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_32')
+      MaterialExpressionEditorX=-1257
+      MaterialExpressionEditorY=-393
+      MaterialExpressionGuid=BA78D23349E809164B916CA15D2CEE23
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_3"
+      A=(Expression=MaterialExpressionAdd'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionAdd_4')
+      B=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionStaticSwitch_13')
+      Value=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_15')
+      MaterialExpressionEditorX=-757
+      MaterialExpressionEditorY=1910
+      MaterialExpressionGuid=685F84764AD858DB1C6417A81FC7FA5E
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_13"
+      A=(Expression=MaterialExpressionAdd'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionAdd_0')
+      B=(Expression=MaterialExpressionAdd'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionAdd_2')
+      Value=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_54')
+      MaterialExpressionEditorX=-1593
+      MaterialExpressionEditorY=1930
+      MaterialExpressionGuid=7E4E9365411C43BDAFABF7AD5C1614E7
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_12"
+      A=(Expression=MaterialExpressionAdd'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionAdd_9')
+      B=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionStaticSwitch_13')
+      Value=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_15')
+      MaterialExpressionEditorX=-796
+      MaterialExpressionEditorY=2053
+      MaterialExpressionGuid=53FA70FC46AA009946CA86A5CC361502
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_11"
+      A=(Expression=MaterialExpressionComponentMask'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionComponentMask_2')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_44')
+      Value=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_32')
+      MaterialExpressionEditorX=-1237
+      MaterialExpressionEditorY=1117
+      MaterialExpressionGuid=18DFB6534D038CBDDF5A63A0D8C69F6F
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionStaticBool_5"
+      Value=True
+      MaterialExpressionEditorX=-2280
+      MaterialExpressionEditorY=2580
+      MaterialExpressionGuid=BE9C812841BE010842A6AD869E50116E
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionStaticBool_3"
+      Value=True
+      MaterialExpressionEditorX=-3128
+      MaterialExpressionEditorY=240
+      MaterialExpressionGuid=33F3158042EC6F10DAEF9E9A81A4CAC1
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionStaticBool_2"
+      MaterialExpressionEditorX=-1440
+      MaterialExpressionEditorY=2180
+      MaterialExpressionGuid=BB2FE7554D7B076B6054ACBC88F365A0
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionNormalize_7"
+      VectorInput=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_10')
+      MaterialExpressionEditorX=-4836
+      MaterialExpressionEditorY=1623
+      MaterialExpressionGuid=F6DAFFEC4BB236A78A69BB996038BC06
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionNormalize_4"
+      VectorInput=(Expression=MaterialExpressionTransform'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionTransform_2')
+      MaterialExpressionEditorX=-4691
+      MaterialExpressionEditorY=1411
+      MaterialExpressionGuid=29D0751C4951EA6F5F307A81A8ED85E8
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionNormalize_3"
+      VectorInput=(Expression=MaterialExpressionTransform'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionTransform_4')
+      MaterialExpressionEditorX=-5362
+      MaterialExpressionEditorY=1821
+      MaterialExpressionGuid=2093A93B41A3E56B77C21A88B6BA9910
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_55"
+      A=(Expression=MaterialExpressionConstant'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant_8')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_90')
+      MaterialExpressionEditorX=-2567
+      MaterialExpressionEditorY=2165
+      MaterialExpressionGuid=61F65E9847855166793EC0AD676EA295
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_4"
+      A=(Expression=MaterialExpressionDotProduct'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionDotProduct_2')
+      B=(Expression=MaterialExpressionConstant'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant_21')
+      MaterialExpressionEditorX=-4260
+      MaterialExpressionEditorY=1580
+      MaterialExpressionGuid=77F433B24CA06D58D1FDBC80C36289DB
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_30"
+      A=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_62')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_64')
+      MaterialExpressionEditorX=-2236
+      MaterialExpressionEditorY=-1155
+      MaterialExpressionGuid=4759B0CC4334B1C3956358A0745847D1
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_29"
+      A=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_62')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_63')
+      MaterialExpressionEditorX=-2172
+      MaterialExpressionEditorY=-1312
+      MaterialExpressionGuid=BCF0CEBD4119295A0E8D7FA8C9BBDC1D
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_28"
+      A=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_59')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_61')
+      MaterialExpressionEditorX=-1823
+      MaterialExpressionEditorY=-1646
+      MaterialExpressionGuid=03393BF84968B35D28542FAA2AB9711C
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_27"
+      A=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_59')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_60')
+      MaterialExpressionEditorX=-1776
+      MaterialExpressionEditorY=-1870
+      MaterialExpressionGuid=63704B934E5C4F09BE74198D88072AD5
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_22"
+      A=(Expression=MaterialExpressionDotProduct'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionDotProduct_1')
+      B=(Expression=MaterialExpressionConstant'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant_12')
+      MaterialExpressionEditorX=-4892
+      MaterialExpressionEditorY=1958
+      MaterialExpressionGuid=36D465334BEC4AC1F5EBAAA610E9BC58
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_20"
+      A=(Expression=MaterialExpressionSubtract'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionSubtract_5')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_57')
+      MaterialExpressionEditorX=-320
+      MaterialExpressionEditorY=1960
+      MaterialExpressionGuid=E52461B04FEA2BAB268CE1BC42FE6A40
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_11"
+      A=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_14')
+      B=(Expression=MaterialExpressionClamp'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionClamp_8')
+      MaterialExpressionEditorX=-1177
+      MaterialExpressionEditorY=407
+      MaterialExpressionGuid=E78570454F196ED0470D278C191635DF
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0"
+      A=(Expression=MaterialExpressionSubtract'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionSubtract_0')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_57')
+      MaterialExpressionEditorX=-358
+      MaterialExpressionEditorY=2103
+      MaterialExpressionGuid=8FD7191E4CFD63BF1AF96AB544E3F234
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_9"
+      A=(Expression=MaterialExpressionMultiply'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionMultiply_55')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_90')
+      Alpha=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_52')
+      MaterialExpressionEditorX=-2316
+      MaterialExpressionEditorY=2281
+      MaterialExpressionGuid=5F2C48C64F4926843FC2429007E43C3B
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_7"
+      A=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionStaticSwitch_5')
+      B=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionStaticSwitch_7')
+      Alpha=(Expression=MaterialExpressionClamp'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionClamp_8')
+      MaterialExpressionEditorX=233
+      MaterialExpressionEditorY=707
+      MaterialExpressionGuid=2A5FDDA24C31D6EFC1128687F3BA7617
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_6"
+      A=(Expression=MaterialExpressionAdd'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionAdd_5')
+      B=(Expression=MaterialExpressionAdd'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionAdd_7')
+      Alpha=(Expression=MaterialExpressionAdd'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionAdd_11')
+      MaterialExpressionEditorX=-3460
+      MaterialExpressionEditorY=2360
+      MaterialExpressionGuid=AE90B50448E041CFA9BEE58622B3C2E2
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_4"
+      A=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionStaticSwitch_9')
+      B=(Expression=MaterialExpressionAdd'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionAdd_1')
+      Alpha=(Expression=MaterialExpressionClamp'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionClamp_8')
+      MaterialExpressionEditorX=-498
+      MaterialExpressionEditorY=361
+      MaterialExpressionGuid=BE898DA64B4388F76B266D945342C980
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_24"
+      A=(Expression=MaterialExpressionMultiply'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionMultiply_28')
+      B=(Expression=MaterialExpressionMultiply'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionMultiply_30')
+      Alpha=(Expression=MaterialExpressionClamp'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionClamp_8')
+      MaterialExpressionEditorX=-1517
+      MaterialExpressionEditorY=-1240
+      MaterialExpressionGuid=DE28BD6F4E1F558A1DBF14B7364186B7
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_23"
+      A=(Expression=MaterialExpressionMultiply'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionMultiply_27')
+      B=(Expression=MaterialExpressionMultiply'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionMultiply_29')
+      Alpha=(Expression=MaterialExpressionClamp'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionClamp_8')
+      MaterialExpressionEditorX=-1500
+      MaterialExpressionEditorY=-1478
+      MaterialExpressionGuid=B6852A5B4D9E4B0CA6A485B911571CE6
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_2"
+      A=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_3')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_0')
+      Alpha=(Expression=MaterialExpressionComponentMask'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionComponentMask_0')
+      MaterialExpressionEditorX=-1997
+      MaterialExpressionEditorY=1748
+      MaterialExpressionGuid=549A973A4DB076B938D40380DED546EF
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_13"
+      A=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_11')
+      B=(Expression=MaterialExpressionSubtract'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionSubtract_2')
+      Alpha=(Expression=MaterialExpressionAdd'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionAdd_8')
+      MaterialExpressionEditorX=-3671
+      MaterialExpressionEditorY=1691
+      MaterialExpressionGuid=13A522B24611EE65A2B54BBEA42E69BA
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_12"
+      A=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_8')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_50')
+      Alpha=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionLinearInterpolate_1')
+      MaterialExpressionEditorX=462
+      MaterialExpressionEditorY=1593
+      MaterialExpressionGuid=A577CBD640FD3E3F8C4DB3BE9413D287
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_11"
+      A=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_49')
+      B=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionLinearInterpolate_12')
+      Alpha=(Expression=MaterialExpressionClamp'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionClamp_8')
+      MaterialExpressionEditorX=828
+      MaterialExpressionEditorY=1620
+      MaterialExpressionGuid=D3D0E6D94ECEFE9F27E1E6B6388C2BEA
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_10"
+      A=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_49')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_50')
+      Alpha=(Expression=MaterialExpressionClamp'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionClamp_8')
+      MaterialExpressionEditorX=853
+      MaterialExpressionEditorY=1375
+      MaterialExpressionGuid=85F30DC341501FB854794FA5CEE25013
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_1"
+      A=(Expression=MaterialExpressionConstant'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant_3')
+      B=(Expression=MaterialExpressionConstant'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant_7')
+      Alpha=(Expression=MaterialExpressionClamp'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionClamp_1')
+      MaterialExpressionEditorX=372
+      MaterialExpressionEditorY=2111
+      MaterialExpressionGuid=757B8C0C43F4FD77FDD490A5D241E797
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_0"
+      A=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_0')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_3')
+      Alpha=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionStaticSwitch_11')
+      MaterialExpressionEditorX=-1917
+      MaterialExpressionEditorY=1516
+      MaterialExpressionGuid=67D76EF74B544E64098D33BB3F94C3BC
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_9"
+      OutputName="World Vector Mask"
+      SortPriority=5
+      A=(Expression=MaterialExpressionClamp'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionClamp_2')
+      Id=8A93EEEC472F49939DCD268D531341E8
+      MaterialExpressionEditorX=1880
+      MaterialExpressionEditorY=2400
+      MaterialExpressionGuid=0BF22D584B8A141DA91632B67F5D0A99
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_40"
+      OutputName="Bottom Normal1"
+      SortPriority=7
+      A=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_50')
+      bLastPreviewed=True
+      Id=5AEAC958450338FF36EE989FD9783325
+      MaterialExpressionEditorX=1820
+      MaterialExpressionEditorY=1180
+      MaterialExpressionGuid=C755AE7E42DB03DF0DE3039E2C0219A0
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_4"
+      OutputName="Result Normal with Edge"
+      SortPriority=3
+      A=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionLinearInterpolate_11')
+      Id=94E1573D413D9D9B15A2A68F1BD7C7A0
+      MaterialExpressionEditorX=1840
+      MaterialExpressionEditorY=1720
+      MaterialExpressionGuid=13AD11474CCFFC177E573E8EB89BF466
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_38"
+      OutputName="Bottom Normal"
+      SortPriority=5
+      A=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_49')
+      bLastPreviewed=True
+      Id=183CA2CC4904836BB4BB4D932A84F783
+      MaterialExpressionEditorX=1840
+      MaterialExpressionEditorY=940
+      MaterialExpressionGuid=124422D94452D8ED36CF068690FA3507
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_36"
+      OutputName="Result Diffuse Blend RGB"
+      SortPriority=1
+      A=(Expression=MaterialExpressionComponentMask'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionComponentMask_7')
+      bLastPreviewed=True
+      Id=225D38054B7F5D2BB3A8D49B842C86E7
+      MaterialExpressionEditorX=1812
+      MaterialExpressionEditorY=715
+      MaterialExpressionGuid=7D226E3D4B875B49B80BDFABF22FFECE
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_34"
+      OutputName="Result Normal"
+      SortPriority=3
+      A=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionLinearInterpolate_10')
+      Id=0A60406547FB855AC95AA9B3438012AF
+      MaterialExpressionEditorX=1860
+      MaterialExpressionEditorY=1420
+      MaterialExpressionGuid=BAF9656B40CACE7D768B109A39F3E913
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_31"
+      OutputName="Result Diffuse Blend RGBA"
+      A=(Expression=MaterialExpressionAppendVector'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionAppendVector_1')
+      bLastPreviewed=True
+      Id=0DFA28E14FFDBD69FA4664A2D4C3691B
+      MaterialExpressionEditorX=1832
+      MaterialExpressionEditorY=497
+      MaterialExpressionGuid=A6F040644CFE77B64AC7C18C3FE9B434
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_26"
+      OutputName="Bottom Diffuse"
+      SortPriority=4
+      A=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionStaticSwitch_5')
+      bLastPreviewed=True
+      Id=339A43D74A4011CBD051C891093E5BC8
+      MaterialExpressionEditorX=1917
+      MaterialExpressionEditorY=-297
+      MaterialExpressionGuid=13DA4ED94AAF670025C651A849BCF117
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_24"
+      OutputName="Top Diffuse"
+      SortPriority=6
+      A=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionStaticSwitch_7')
+      bLastPreviewed=True
+      Id=6BFE9F1744B345D342DE08A4B771FEAE
+      MaterialExpressionEditorX=-337
+      MaterialExpressionEditorY=630
+      MaterialExpressionGuid=7F6084A04D982C8A5FB1AC89A1726570
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_2"
+      OutputName="Result Offset Blend"
+      SortPriority=5
+      A=(Expression=MaterialExpressionClamp'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionClamp_1')
+      Id=F453DF2248B9F9F3900F369A62FB880C
+      MaterialExpressionEditorX=1620
+      MaterialExpressionEditorY=2700
+      MaterialExpressionGuid=CA42B6EC44F277FDDD37628EB79E5C44
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_14"
+      OutputName="Result Displace Far"
+      SortPriority=15
+      A=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionLinearInterpolate_24')
+      Id=57B270024D905801875ABDBE2D08C16D
+      MaterialExpressionEditorX=1380
+      MaterialExpressionEditorY=-1260
+      MaterialExpressionGuid=E1CAB77E47CCDF91E760D88A938A0EAB
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_13"
+      OutputName="Result Displace Near"
+      SortPriority=14
+      A=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionLinearInterpolate_23')
+      Id=8EB4BB6C498515642046B29115C815EE
+      MaterialExpressionEditorX=1320
+      MaterialExpressionEditorY=-1560
+      MaterialExpressionGuid=D4C78F1544C473160D1DACBF332534AA
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_1"
+      OutputName="Result Blend Mask"
+      SortPriority=5
+      A=(Expression=MaterialExpressionClamp'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionClamp_8')
+      Id=1DCBF0194D13E996FE89598E3BCC16ED
+      MaterialExpressionEditorX=1858
+      MaterialExpressionEditorY=2056
+      MaterialExpressionGuid=840BA86243BEA8720B0CA9A3969A158D
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_90"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant_86')
+      InputName="In Upper Contrast"
+      Id=9F7CF35045F5948B0CD3C9BD4A5A5A11
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=10
+      MaterialExpressionEditorX=-2671
+      MaterialExpressionEditorY=2355
+      MaterialExpressionGuid=F85B07BC4B9291AFEA2821A1DC5540F9
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_8"
+      Preview=(Expression=MaterialExpressionTextureSample'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionTextureSample_1',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      InputName="In Soft Normal"
+      Id=F087CE924CD4DAFDC9E9D39F1C18FD59
+      bUsePreviewValueAsDefault=True
+      SortPriority=8
+      MaterialExpressionEditorX=-300
+      MaterialExpressionEditorY=1520
+      MaterialExpressionGuid=04EA735044BD5D8A0F8CF795973CBC9B
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_64"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant_53')
+      InputName="In Top Displace Far"
+      Id=1804219A4E7A2A8D0EEE9EA4CE651898
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=71
+      MaterialExpressionEditorX=-2551
+      MaterialExpressionEditorY=-1131
+      MaterialExpressionGuid=40C7089B4AAD993A34663580EE638782
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_63"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant_52')
+      InputName="In Top Displace Near"
+      Id=3B6E6A9B4D0A5648F416D48A14ECD318
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=70
+      MaterialExpressionEditorX=-2527
+      MaterialExpressionEditorY=-1302
+      MaterialExpressionGuid=EB1877514292E889379590B9CE661155
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_62"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant_51')
+      InputName="In Top Displace Intensity"
+      Id=040589B248348C454360B0998F0248BC
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=72
+      MaterialExpressionEditorX=-3261
+      MaterialExpressionEditorY=-1530
+      MaterialExpressionGuid=42AFA5964CBAEDA2D93F5689DA29E5F0
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_61"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant_50')
+      InputName="In Bottom Displace Far"
+      Id=84F9C07B459C2DBFDE260DA70FD2FE21
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=61
+      MaterialExpressionEditorX=-2096
+      MaterialExpressionEditorY=-1673
+      MaterialExpressionGuid=9A14A82C4A8825A9D06CCF922414DCC2
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_60"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant_49')
+      InputName="In Bottom Displace Near"
+      Id=9CA97AD9458A009F8AE0E4B351C1A843
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=60
+      MaterialExpressionEditorX=-2072
+      MaterialExpressionEditorY=-1845
+      MaterialExpressionGuid=4688539A4C6B13E5FDD52CBE0E8B5802
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_6"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant_5')
+      InputName="World Vector, Offset max"
+      Id=7BE8A9FE4CC7B8C86C8F6A900FBBB466
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=16
+      MaterialExpressionEditorX=-4540
+      MaterialExpressionEditorY=2680
+      MaterialExpressionGuid=9057C58E4FE78D9BCF3F708D11E650B9
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_59"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant_48')
+      InputName="In Bottom Displace Intensity"
+      Id=702842A94DAAC809063A67B012F983EE
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=62
+      MaterialExpressionEditorX=-2428
+      MaterialExpressionEditorY=-2077
+      MaterialExpressionGuid=C2317B464F5E5A499CF0F586E02F2567
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_57"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant_11')
+      InputName="In Upper Density(2)"
+      Id=D07F985E4363D56D21C1DEA57CE05BB0
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=10
+      MaterialExpressionEditorX=-800
+      MaterialExpressionEditorY=2340
+      MaterialExpressionGuid=FF6591D14661DB17C1C24F84D4F662F7
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_54"
+      Preview=(Expression=MaterialExpressionStaticBool'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionStaticBool_5')
+      InputName="Use Only Bottom Modulation"
+      Id=C077B3214E3D6EE4BD3AB49152D8CDF0
+      InputType=FunctionInput_StaticBool
+      bUsePreviewValueAsDefault=True
+      SortPriority=11
+      MaterialExpressionEditorX=-2020
+      MaterialExpressionEditorY=2560
+      MaterialExpressionGuid=C41C78DD489C83F65C7F55B752325E28
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_52"
+      Preview=(Expression=MaterialExpressionTextureSample'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionTextureSample_38',OutputIndex=1,Mask=1,MaskR=1)
+      InputName="In Top Layer Weight(*)"
+      Id=B792BC79439C32F0B39B47BBD48EB9D1
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=9
+      MaterialExpressionEditorX=-2760
+      MaterialExpressionEditorY=2580
+      MaterialExpressionGuid=0FD6508E46CE0706A18A1EB696BEA4BD
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_50"
+      Preview=(Expression=MaterialExpressionTextureSample'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionTextureSample_36',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      InputName="In Top Normal"
+      Id=D1A7BCF24E44340129BFFEA31462E7D7
+      bUsePreviewValueAsDefault=True
+      SortPriority=8
+      MaterialExpressionEditorX=-320
+      MaterialExpressionEditorY=1311
+      MaterialExpressionGuid=F736E27F49EC85F6C852E89F27C5615A
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_5"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant_6')
+      InputName="World Vector, Offset Min"
+      Id=C02658F74BCF256948F34998C8E32C71
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=15
+      MaterialExpressionEditorX=-4520
+      MaterialExpressionEditorY=2400
+      MaterialExpressionGuid=A024979D425EFA707B96E1BC1EF5F855
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_49"
+      Preview=(Expression=MaterialExpressionTextureSample'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionTextureSample_35',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      InputName="In Bottom Normal"
+      Id=328C5F984EEBE9155AB958A9A6C7CACF
+      bUsePreviewValueAsDefault=True
+      SortPriority=4
+      MaterialExpressionEditorX=-313
+      MaterialExpressionEditorY=1116
+      MaterialExpressionGuid=5A9FE2974213E95D42DC0B97512C0AD9
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_44"
+      Preview=(Expression=MaterialExpressionTextureSample'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionTextureSample_30',OutputIndex=1,Mask=1,MaskR=1)
+      InputName="In Top Blend Modulation"
+      Id=4363F0BB404E0A1238AF07B6FAF9A671
+      InputType=FunctionInput_Scalar
+      SortPriority=7
+      MaterialExpressionEditorX=-1885
+      MaterialExpressionEditorY=1077
+      MaterialExpressionGuid=42D6C5A34A40D102E1DEF78B2E2C74C3
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_43"
+      Preview=(Expression=MaterialExpressionTextureSample'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionTextureSample_29',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      InputName="In Top Diffuse"
+      Id=B412C92A4F19BED6BDFA59B569DCDABA
+      SortPriority=6
+      MaterialExpressionEditorX=-1882
+      MaterialExpressionEditorY=882
+      MaterialExpressionGuid=F184A4FB4FF15282D1E3A69D6214EAED
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_42"
+      Preview=(Expression=MaterialExpressionAppendVector'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionAppendVector_12')
+      InputName="In Top Diffuse + Modulate (RGBA)"
+      Id=8B88035A4F00BBE860D2FF9FD45DE303
+      InputType=FunctionInput_Vector4
+      SortPriority=5
+      MaterialExpressionEditorX=-1813
+      MaterialExpressionEditorY=670
+      MaterialExpressionGuid=0C74D7F74C81C93B72EC8C8F04785D63
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_34"
+      Preview=(Expression=MaterialExpressionAppendVector'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionAppendVector_8')
+      InputName="In Bottom Diffuse + Modulate (RGBA)"
+      Id=C5D29B114D9CB5C662F9429F795B4566
+      InputType=FunctionInput_Vector4
+      SortPriority=1
+      MaterialExpressionEditorX=-1865
+      MaterialExpressionEditorY=-585
+      MaterialExpressionGuid=D11D8B20401A8C9B637C0F83E7FE6D68
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_32"
+      Preview=(Expression=MaterialExpressionStaticBool'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionStaticBool_3')
+      InputName="In Diffuse Alpha as Modulation"
+      Id=1338D97444E41E5A6299D59B023817E6
+      InputType=FunctionInput_StaticBool
+      bUsePreviewValueAsDefault=True
+      MaterialExpressionEditorX=-2578
+      MaterialExpressionEditorY=240
+      MaterialExpressionGuid=436326084509097237706FB2EC2A51AE
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_3"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant_4')
+      InputName="Top Modulation Max"
+      Id=42F37AFE4FCFAD830497B2AE73587DE0
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=16
+      MaterialExpressionEditorX=-2351
+      MaterialExpressionEditorY=1700
+      MaterialExpressionGuid=B02757D04F4ED4E31C0B86A524309ACF
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_2"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant_1')
+      InputName="In Bottom Modulation Offset"
+      Id=AD1610C9407D76CA8B58829066FBEBFB
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=3
+      MaterialExpressionEditorX=-1682
+      MaterialExpressionEditorY=290
+      MaterialExpressionGuid=DC64BBCC4F177FC78865C981FCE77D50
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_15"
+      Preview=(Expression=MaterialExpressionStaticBool'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionStaticBool_2')
+      InputName="Use Use World Vector"
+      Id=06E90A5E4779FA0BC2385CAF462A0AFD
+      InputType=FunctionInput_StaticBool
+      bUsePreviewValueAsDefault=True
+      SortPriority=11
+      MaterialExpressionEditorX=-1200
+      MaterialExpressionEditorY=2120
+      MaterialExpressionGuid=4106F18A431C521B8F9CBA8569F0F4C1
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_14"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant_10')
+      InputName="In Top Modulation Offset"
+      Id=4DE883E64F620704096D7B95ECC28716
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=3
+      MaterialExpressionEditorX=-1705
+      MaterialExpressionEditorY=100
+      MaterialExpressionGuid=EFDA20C349F635CA403727A55D225C8A
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_12"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant_23')
+      InputName="World Vector Max"
+      Id=31C6E0634593B3962A78F694BD77EBE8
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=16
+      MaterialExpressionEditorX=-4400
+      MaterialExpressionEditorY=2080
+      MaterialExpressionGuid=0CA8D2F942F39B43EB1ACB822FA86460
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_11"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant_22')
+      InputName="World Vector Min"
+      Id=F4461132482CF8819F8AA18DDFA901A8
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=15
+      MaterialExpressionEditorX=-4480
+      MaterialExpressionEditorY=1800
+      MaterialExpressionGuid=D2B1BAE44E1B321E06A41ABFF84B7F64
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_10"
+      Preview=(Expression=MaterialExpressionConstant3Vector'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant3Vector_2')
+      InputName="In World Heap Vector"
+      Id=42AF73A84298D98825106D8078B1A9F9
+      bUsePreviewValueAsDefault=True
+      SortPriority=63
+      MaterialExpressionEditorX=-5152
+      MaterialExpressionEditorY=1576
+      MaterialExpressionGuid=081251E1434D5EBB9FA8A8AC6EACF028
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_0"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant_2')
+      InputName="Top Modulation Min"
+      Id=CE38CCD440BE7D289B45C89CEDA9F5AA
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=15
+      MaterialExpressionEditorX=-2358
+      MaterialExpressionEditorY=1486
+      MaterialExpressionGuid=941C6C52482DAE534AFEAFBBB5DB8822
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionDotProduct_2"
+      A=(Expression=MaterialExpressionNormalize'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionNormalize_4')
+      B=(Expression=MaterialExpressionNormalize'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionNormalize_7')
+      MaterialExpressionEditorX=-4435
+      MaterialExpressionEditorY=1563
+      MaterialExpressionGuid=C60E85EC47A23E9E45A001AAED5B7782
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionDotProduct_1"
+      A=(Expression=MaterialExpressionNormalize'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionNormalize_3')
+      B=(Expression=MaterialExpressionNormalize'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionNormalize_7')
+      MaterialExpressionEditorX=-5105
+      MaterialExpressionEditorY=1883
+      MaterialExpressionGuid=487C3BC94521D92968EE94853F73D8FB
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_2"
+      Constant=(R=0.000000,G=0.000000,B=1.000000,A=0.000000)
+      MaterialExpressionEditorX=-5280
+      MaterialExpressionEditorY=1580
+      MaterialExpressionGuid=EA2FCD8B40D2780012EF97A6FB3CC878
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_1"
+      Constant=(R=0.000000,G=0.000000,B=1.000000,A=0.000000)
+      MaterialExpressionEditorX=-5858
+      MaterialExpressionEditorY=1745
+      MaterialExpressionGuid=345071044EA63B544AB72CA176DBC686
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionConstant_86"
+      R=2.000000
+      MaterialExpressionEditorX=-2980
+      MaterialExpressionEditorY=2400
+      MaterialExpressionGuid=E9093C87485B0EAF75D3049AEA619A82
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_8"
+      R=-1.000000
+      MaterialExpressionEditorX=-2803
+      MaterialExpressionEditorY=2122
+      MaterialExpressionGuid=E407BE024B1258D38AB9B3885DA5729F
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_7"
+      R=1.000000
+      MaterialExpressionEditorX=101
+      MaterialExpressionEditorY=2340
+      MaterialExpressionGuid=6CD6023E4E7400E4D386F9BB579001AF
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_6"
+      MaterialExpressionEditorX=-4733
+      MaterialExpressionEditorY=2380
+      MaterialExpressionGuid=48068E0247739EBA27CC51B66C6156FB
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_53"
+      MaterialExpressionEditorX=-3032
+      MaterialExpressionEditorY=-1173
+      MaterialExpressionGuid=8B22ECC44137437F0BB4B9B4A66092F9
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_52"
+      MaterialExpressionEditorX=-3020
+      MaterialExpressionEditorY=-1318
+      MaterialExpressionGuid=B98745D640F993B0D4CFA99575C240D5
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_51"
+      R=1.000000
+      MaterialExpressionEditorX=-3742
+      MaterialExpressionEditorY=-1572
+      MaterialExpressionGuid=F9258BBA4E6F73F9A1C5A1B5061C0308
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_50"
+      MaterialExpressionEditorX=-2551
+      MaterialExpressionEditorY=-1707
+      MaterialExpressionGuid=85EA6A7A47C510141D7808BB3EA0467F
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_5"
+      R=1.000000
+      MaterialExpressionEditorX=-4660
+      MaterialExpressionEditorY=2700
+      MaterialExpressionGuid=36961E1846E4A9D01DCE0AA078740474
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_49"
+      MaterialExpressionEditorX=-2570
+      MaterialExpressionEditorY=-1893
+      MaterialExpressionGuid=A4BE93EA48F1583BC3E5D7B01A4256D4
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_48"
+      R=1.000000
+      MaterialExpressionEditorX=-2910
+      MaterialExpressionEditorY=-2120
+      MaterialExpressionGuid=7DB7964D48679D9A79D9A2BEC036D25F
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_4"
+      R=1.000000
+      MaterialExpressionEditorX=-2836
+      MaterialExpressionEditorY=1728
+      MaterialExpressionGuid=A695035B41786C56CCCD5BA8DBA1BE3D
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_3"
+      R=0.500000
+      MaterialExpressionEditorX=136
+      MaterialExpressionEditorY=2085
+      MaterialExpressionGuid=9F4C615841EB8836E9B97092247ED41A
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_23"
+      R=1.000000
+      MaterialExpressionEditorX=-4500
+      MaterialExpressionEditorY=2100
+      MaterialExpressionGuid=D6FF11A543F0DCFBCAE686A276AB1982
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_22"
+      MaterialExpressionEditorX=-4580
+      MaterialExpressionEditorY=1840
+      MaterialExpressionGuid=E030382C4B1CCF1B439CA197A1B3D68E
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_21"
+      R=0.500000
+      MaterialExpressionEditorX=-4460
+      MaterialExpressionEditorY=1700
+      MaterialExpressionGuid=628F37C8460E2D3AF96CDAA21E30F391
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_2"
+      MaterialExpressionEditorX=-2837
+      MaterialExpressionEditorY=1481
+      MaterialExpressionGuid=A6474AE9479BCC27E868EA9CC49EE73A
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_12"
+      R=0.500000
+      MaterialExpressionEditorX=-5040
+      MaterialExpressionEditorY=2060
+      MaterialExpressionGuid=B7C5E4594AD86CBB9248F5B0869B1CFE
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_11"
+      R=2.000000
+      MaterialExpressionEditorX=-920
+      MaterialExpressionEditorY=2380
+      MaterialExpressionGuid=B22239BD4001293A9B0BCEBFF8638EB7
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_10"
+      MaterialExpressionEditorX=-2306
+      MaterialExpressionEditorY=202
+      MaterialExpressionGuid=B01C715D4FDA288DA9643DA32033D2D3
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_1"
+      MaterialExpressionEditorX=-2316
+      MaterialExpressionEditorY=373
+      MaterialExpressionGuid=C78D68904820D8643F33EA82969E9015
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_7"
+      Input=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionLinearInterpolate_7')
+      R=True
+      G=True
+      B=True
+      MaterialExpressionEditorX=600
+      MaterialExpressionEditorY=707
+      MaterialExpressionGuid=C4751778480AE89E2DE9D8A312C7D88B
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_2"
+      Input=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_42')
+      A=True
+      MaterialExpressionEditorX=-1512
+      MaterialExpressionEditorY=1061
+      MaterialExpressionGuid=67FD20424EE6B00AC67E6485A83A9376
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_0"
+      Input=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_34')
+      A=True
+      MaterialExpressionEditorX=-1563
+      MaterialExpressionEditorY=-186
+      MaterialExpressionGuid=88F2EC2043D0731934D8859551DD4B84
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionComment_9"
+      SizeX=1580
+      SizeY=800
+      Text="Blend Modulation"
+      MaterialExpressionEditorX=-3072
+      MaterialExpressionEditorY=2067
+      MaterialExpressionGuid=3ACF96184A37B98BF4D197865BD38ACF
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionComment_8"
+      SizeX=1240
+      SizeY=700
+      Text="Normals"
+      MaterialExpressionEditorX=-916
+      MaterialExpressionEditorY=1063
+      MaterialExpressionGuid=1A21B4CD42F23C048FF51B9804650B1F
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionComment_7"
+      SizeX=1906
+      SizeY=693
+      Text="Top Layer"
+      MaterialExpressionEditorX=-3075
+      MaterialExpressionEditorY=645
+      MaterialExpressionGuid=D3A7144C4572CE6BD88E58B18F6411BD
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionComment_6"
+      SizeX=1897
+      SizeY=671
+      Text="Bottom Layer"
+      MaterialExpressionEditorX=-3117
+      MaterialExpressionEditorY=-610
+      MaterialExpressionGuid=409140084BDD8F24D085DA9F5B0E1750
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionComment_3"
+      SizeX=3240
+      SizeY=1200
+      Text="Displacement - Tesselation"
+      MaterialExpressionEditorX=-3930
+      MaterialExpressionEditorY=-2145
+      MaterialExpressionGuid=33E1D4494238884E887175AFF08DF1B1
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionComment_2"
+      SizeX=1145
+      SizeY=480
+      Text="Modulation Contrast"
+      MaterialExpressionEditorX=-3025
+      MaterialExpressionEditorY=1456
+      MaterialExpressionGuid=773A1A4F4FCD0C0D809BB3A280C240AB
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionComment_1"
+      SizeX=2320
+      SizeY=980
+      Text="World Normal Blend"
+      MaterialExpressionEditorX=-5913
+      MaterialExpressionEditorY=1318
+      MaterialExpressionGuid=791B7C194583A1673768239111CD68D8
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionComment_0"
+      SizeX=335
+      SizeY=252
+      Text="Blend Result"
+      MaterialExpressionEditorX=40
+      MaterialExpressionEditorY=1780
+      MaterialExpressionGuid=C4F3962549EC0FAACE053F875EFDD3CC
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_8"
+      Input=(Expression=MaterialExpressionMultiply'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionMultiply_0')
+      MaterialExpressionEditorX=101
+      MaterialExpressionEditorY=1833
+      MaterialExpressionGuid=03FE2F7C445E3FA52CB838B2D6BE6AE7
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_2"
+      Input=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionLinearInterpolate_13')
+      MaterialExpressionEditorX=-3340
+      MaterialExpressionEditorY=1860
+      MaterialExpressionGuid=F834829F42A0B0EE1C5EA08587CD007E
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_1"
+      Input=(Expression=MaterialExpressionMultiply'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionMultiply_20')
+      MaterialExpressionEditorX=450
+      MaterialExpressionEditorY=2668
+      MaterialExpressionGuid=8079190B4993B6AE446FC3A5F33D2E31
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_8"
+      A=(Expression=MaterialExpressionTextureSample'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionTextureSample_17',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionTextureSample'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionTextureSample_18',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-2700
+      MaterialExpressionEditorY=-478
+      MaterialExpressionGuid=54C216C84875FE1FB7F9A887B944AB48
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_13"
+      A=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_43')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_44')
+      MaterialExpressionEditorX=-1530
+      MaterialExpressionEditorY=830
+      MaterialExpressionGuid=67D5C87143BD708715C4989AD7B5B40F
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_12"
+      A=(Expression=MaterialExpressionTextureSample'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionTextureSample_27',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionTextureSample'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionTextureSample_28',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-2648
+      MaterialExpressionEditorY=776
+      MaterialExpressionGuid=EF1ECEB24D611C71F200AB81A4D690B6
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_1"
+      A=(Expression=MaterialExpressionComponentMask'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionComponentMask_7')
+      B=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionLinearInterpolate_4')
+      MaterialExpressionEditorX=621
+      MaterialExpressionEditorY=433
+      MaterialExpressionGuid=C919BEF74C6DA7264A7646AF1AD23BF5
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_9"
+      A=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionLinearInterpolate_13')
+      B=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionStaticSwitch_13')
+      MaterialExpressionEditorX=-1237
+      MaterialExpressionEditorY=1723
+      MaterialExpressionGuid=26EFF65C49EFF9109ADB75B281850D3C
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_8"
+      A=(Expression=MaterialExpressionMultiply'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionMultiply_4')
+      B=(Expression=MaterialExpressionConstant'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant_21')
+      MaterialExpressionEditorX=-4100
+      MaterialExpressionEditorY=1620
+      MaterialExpressionGuid=B0AC93C5492729C97D43CD9EE87251CC
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_7"
+      A=(Expression=MaterialExpressionSubtract'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionSubtract_2')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_6')
+      MaterialExpressionEditorX=-3660
+      MaterialExpressionEditorY=2460
+      MaterialExpressionGuid=B7AC4A934079FB3AEE461BB0A02ED7ED
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_5"
+      A=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_11')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionFunctionInput_5')
+      MaterialExpressionEditorX=-3903
+      MaterialExpressionEditorY=2326
+      MaterialExpressionGuid=8B4EF43F4A9824D786DD77A5328CA4B0
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_4"
+      A=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionLinearInterpolate_6')
+      B=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionStaticSwitch_13')
+      MaterialExpressionEditorX=-1238
+      MaterialExpressionEditorY=2015
+      MaterialExpressionGuid=4CFE6E5A455C90F30F1B7C98E331B63E
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_2"
+      A=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionLinearInterpolate_0')
+      B=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionLinearInterpolate_9')
+      MaterialExpressionEditorX=-1618
+      MaterialExpressionEditorY=1643
+      MaterialExpressionGuid=D2A7453A4EF16AD773C11590919A5E9F
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_11"
+      A=(Expression=MaterialExpressionMultiply'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionMultiply_22')
+      B=(Expression=MaterialExpressionConstant'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionConstant_12')
+      MaterialExpressionEditorX=-4660
+      MaterialExpressionEditorY=2017
+      MaterialExpressionGuid=69A51EB64F0A86E1FC48ABBB79170D73
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_1"
+      A=(Expression=MaterialExpressionMultiply'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionMultiply_11')
+      B=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionStaticSwitch_11')
+      MaterialExpressionEditorX=-910
+      MaterialExpressionEditorY=475
+      MaterialExpressionGuid=78313F4B46722414F11AEBB2DE1F4FFF
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_0"
+      A=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionLinearInterpolate_9')
+      B=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Landscape_LayerBlend_Snow:MaterialExpressionLinearInterpolate_2')
+      MaterialExpressionEditorX=-1743
+      MaterialExpressionEditorY=2261
+      MaterialExpressionGuid=F7E01E744E591F45B757DE9445CE8095
+      Function=MaterialFunction'MF_GDC_Landscape_LayerBlend_Snow'
+   End Object
+   FunctionExpressions(0)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_24'
+   FunctionExpressions(1)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_32'
+   FunctionExpressions(2)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_34'
+   FunctionExpressions(3)=MaterialExpressionStaticBool'MaterialExpressionStaticBool_3'
+   FunctionExpressions(4)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_8'
+   FunctionExpressions(5)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_17'
+   FunctionExpressions(6)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_18'
+   FunctionExpressions(7)=MaterialExpressionStaticSwitch'MaterialExpressionStaticSwitch_5'
+   FunctionExpressions(8)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_26'
+   FunctionExpressions(9)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_42'
+   FunctionExpressions(10)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_27'
+   FunctionExpressions(11)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_12'
+   FunctionExpressions(12)=MaterialExpressionStaticSwitch'MaterialExpressionStaticSwitch_7'
+   FunctionExpressions(13)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_13'
+   FunctionExpressions(14)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_43'
+   FunctionExpressions(15)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_28'
+   FunctionExpressions(16)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_29'
+   FunctionExpressions(17)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_44'
+   FunctionExpressions(18)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_30'
+   FunctionExpressions(19)=MaterialExpressionStaticSwitch'MaterialExpressionStaticSwitch_9'
+   FunctionExpressions(20)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_0'
+   FunctionExpressions(21)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_2'
+   FunctionExpressions(22)=MaterialExpressionStaticSwitch'MaterialExpressionStaticSwitch_11'
+   FunctionExpressions(23)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_7'
+   FunctionExpressions(24)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_31'
+   FunctionExpressions(25)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_49'
+   FunctionExpressions(26)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_35'
+   FunctionExpressions(27)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_50'
+   FunctionExpressions(28)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_36'
+   FunctionExpressions(29)=MaterialExpressionConstant'MaterialExpressionConstant_8'
+   FunctionExpressions(30)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_38'
+   FunctionExpressions(31)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_52'
+   FunctionExpressions(32)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_9'
+   FunctionExpressions(33)=MaterialExpressionAdd'MaterialExpressionAdd_0'
+   FunctionExpressions(34)=MaterialExpressionStaticSwitch'MaterialExpressionStaticSwitch_13'
+   FunctionExpressions(35)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_54'
+   FunctionExpressions(36)=MaterialExpressionStaticBool'MaterialExpressionStaticBool_5'
+   FunctionExpressions(37)=MaterialExpressionMultiply'MaterialExpressionMultiply_0'
+   FunctionExpressions(38)=MaterialExpressionConstant'MaterialExpressionConstant_11'
+   FunctionExpressions(39)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_57'
+   FunctionExpressions(40)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_10'
+   FunctionExpressions(41)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_34'
+   FunctionExpressions(42)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_7'
+   FunctionExpressions(43)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_36'
+   FunctionExpressions(44)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_38'
+   FunctionExpressions(45)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_40'
+   FunctionExpressions(46)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_1'
+   FunctionExpressions(47)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_0'
+   FunctionExpressions(48)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_0'
+   FunctionExpressions(49)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_3'
+   FunctionExpressions(50)=MaterialExpressionConstant'MaterialExpressionConstant_2'
+   FunctionExpressions(51)=MaterialExpressionConstant'MaterialExpressionConstant_4'
+   FunctionExpressions(52)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_2'
+   FunctionExpressions(53)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_1'
+   FunctionExpressions(54)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_4'
+   FunctionExpressions(55)=MaterialExpressionAdd'MaterialExpressionAdd_2'
+   FunctionExpressions(56)=MaterialExpressionAdd'MaterialExpressionAdd_1'
+   FunctionExpressions(57)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_14'
+   FunctionExpressions(58)=MaterialExpressionConstant'MaterialExpressionConstant_10'
+   FunctionExpressions(59)=MaterialExpressionMultiply'MaterialExpressionMultiply_11'
+   FunctionExpressions(60)=MaterialExpressionSubtract'MaterialExpressionSubtract_0'
+   FunctionExpressions(61)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_2'
+   FunctionExpressions(62)=MaterialExpressionConstant'MaterialExpressionConstant_1'
+   FunctionExpressions(63)=MaterialExpressionTransform'MaterialExpressionTransform_2'
+   FunctionExpressions(64)=MaterialExpressionNormalize'MaterialExpressionNormalize_4'
+   FunctionExpressions(65)=MaterialExpressionDotProduct'MaterialExpressionDotProduct_2'
+   FunctionExpressions(66)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_10'
+   FunctionExpressions(67)=MaterialExpressionConstant3Vector'MaterialExpressionConstant3Vector_2'
+   FunctionExpressions(68)=MaterialExpressionMultiply'MaterialExpressionMultiply_4'
+   FunctionExpressions(69)=MaterialExpressionAdd'MaterialExpressionAdd_8'
+   FunctionExpressions(70)=MaterialExpressionConstant'MaterialExpressionConstant_21'
+   FunctionExpressions(71)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_13'
+   FunctionExpressions(72)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_11'
+   FunctionExpressions(73)=MaterialExpressionConstant'MaterialExpressionConstant_22'
+   FunctionExpressions(74)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_12'
+   FunctionExpressions(75)=MaterialExpressionConstant'MaterialExpressionConstant_23'
+   FunctionExpressions(76)=MaterialExpressionAdd'MaterialExpressionAdd_9'
+   FunctionExpressions(77)=MaterialExpressionStaticSwitch'MaterialExpressionStaticSwitch_12'
+   FunctionExpressions(78)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_15'
+   FunctionExpressions(79)=MaterialExpressionStaticBool'MaterialExpressionStaticBool_2'
+   FunctionExpressions(80)=MaterialExpressionConstant'MaterialExpressionConstant_48'
+   FunctionExpressions(81)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_59'
+   FunctionExpressions(82)=MaterialExpressionConstant'MaterialExpressionConstant_49'
+   FunctionExpressions(83)=MaterialExpressionMultiply'MaterialExpressionMultiply_27'
+   FunctionExpressions(84)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_60'
+   FunctionExpressions(85)=MaterialExpressionConstant'MaterialExpressionConstant_50'
+   FunctionExpressions(86)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_61'
+   FunctionExpressions(87)=MaterialExpressionMultiply'MaterialExpressionMultiply_28'
+   FunctionExpressions(88)=MaterialExpressionConstant'MaterialExpressionConstant_51'
+   FunctionExpressions(89)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_13'
+   FunctionExpressions(90)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_62'
+   FunctionExpressions(91)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_23'
+   FunctionExpressions(92)=MaterialExpressionConstant'MaterialExpressionConstant_52'
+   FunctionExpressions(93)=MaterialExpressionMultiply'MaterialExpressionMultiply_29'
+   FunctionExpressions(94)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_63'
+   FunctionExpressions(95)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_14'
+   FunctionExpressions(96)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_24'
+   FunctionExpressions(97)=MaterialExpressionConstant'MaterialExpressionConstant_53'
+   FunctionExpressions(98)=MaterialExpressionMultiply'MaterialExpressionMultiply_30'
+   FunctionExpressions(99)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_64'
+   FunctionExpressions(100)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_90'
+   FunctionExpressions(101)=MaterialExpressionConstant'MaterialExpressionConstant_86'
+   FunctionExpressions(102)=MaterialExpressionMultiply'MaterialExpressionMultiply_55'
+   FunctionExpressions(103)=MaterialExpressionSubtract'MaterialExpressionSubtract_2'
+   FunctionExpressions(104)=MaterialExpressionClamp'MaterialExpressionClamp_8'
+   FunctionExpressions(105)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_2'
+   FunctionExpressions(106)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_5'
+   FunctionExpressions(107)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_6'
+   FunctionExpressions(108)=MaterialExpressionConstant'MaterialExpressionConstant_5'
+   FunctionExpressions(109)=MaterialExpressionConstant'MaterialExpressionConstant_6'
+   FunctionExpressions(110)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_6'
+   FunctionExpressions(111)=MaterialExpressionStaticSwitch'MaterialExpressionStaticSwitch_3'
+   FunctionExpressions(112)=MaterialExpressionSubtract'MaterialExpressionSubtract_5'
+   FunctionExpressions(113)=MaterialExpressionMultiply'MaterialExpressionMultiply_20'
+   FunctionExpressions(114)=MaterialExpressionAdd'MaterialExpressionAdd_4'
+   FunctionExpressions(115)=MaterialExpressionClamp'MaterialExpressionClamp_1'
+   FunctionExpressions(116)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_4'
+   FunctionExpressions(117)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_11'
+   FunctionExpressions(118)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_8'
+   FunctionExpressions(119)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_1'
+   FunctionExpressions(120)=MaterialExpressionAdd'MaterialExpressionAdd_5'
+   FunctionExpressions(121)=MaterialExpressionAdd'MaterialExpressionAdd_7'
+   FunctionExpressions(122)=MaterialExpressionDotProduct'MaterialExpressionDotProduct_1'
+   FunctionExpressions(123)=MaterialExpressionMultiply'MaterialExpressionMultiply_22'
+   FunctionExpressions(124)=MaterialExpressionAdd'MaterialExpressionAdd_11'
+   FunctionExpressions(125)=MaterialExpressionConstant'MaterialExpressionConstant_12'
+   FunctionExpressions(126)=MaterialExpressionConstant3Vector'MaterialExpressionConstant3Vector_1'
+   FunctionExpressions(127)=MaterialExpressionClamp'MaterialExpressionClamp_2'
+   FunctionExpressions(128)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_9'
+   FunctionExpressions(129)=MaterialExpressionTransform'MaterialExpressionTransform_4'
+   FunctionExpressions(130)=MaterialExpressionNormalize'MaterialExpressionNormalize_3'
+   FunctionExpressions(131)=MaterialExpressionNormalize'MaterialExpressionNormalize_7'
+   FunctionExpressions(132)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_12'
+   FunctionExpressions(133)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_1'
+   FunctionExpressions(134)=MaterialExpressionConstant'MaterialExpressionConstant_3'
+   FunctionExpressions(135)=MaterialExpressionConstant'MaterialExpressionConstant_7'
+   FunctionEditorComments(0)=MaterialExpressionComment'MaterialExpressionComment_6'
+   FunctionEditorComments(1)=MaterialExpressionComment'MaterialExpressionComment_7'
+   FunctionEditorComments(2)=MaterialExpressionComment'MaterialExpressionComment_8'
+   FunctionEditorComments(3)=MaterialExpressionComment'MaterialExpressionComment_9'
+   FunctionEditorComments(4)=MaterialExpressionComment'MaterialExpressionComment_0'
+   FunctionEditorComments(5)=MaterialExpressionComment'MaterialExpressionComment_1'
+   FunctionEditorComments(6)=MaterialExpressionComment'MaterialExpressionComment_2'
+   FunctionEditorComments(7)=MaterialExpressionComment'MaterialExpressionComment_3'
+   CombinedInputTypes=79
+   CombinedOutputTypes=15
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_23'
+End Object

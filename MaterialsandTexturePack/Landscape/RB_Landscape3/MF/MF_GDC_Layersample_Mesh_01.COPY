@@ -1,0 +1,1809 @@
+Begin Object Class=/Script/Engine.MaterialFunction Name="MF_GDC_Layersample_Mesh_01"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_25"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObject Name="MaterialExpressionTextureObject_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObject Name="MaterialExpressionTextureObject_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObject Name="MaterialExpressionTextureObject_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObject Name="MaterialExpressionTextureObject_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObject Name="MaterialExpressionTextureObject_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObject Name="MaterialExpressionTextureObject_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_16"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitch Name="MaterialExpressionStaticSwitch_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticBool Name="MaterialExpressionStaticBool_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticBool Name="MaterialExpressionStaticBool_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticBool Name="MaterialExpressionStaticBool_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNormalize Name="MaterialExpressionNormalize_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_18"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_16"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_15"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_45"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_25"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_24"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_19"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_17"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_16"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_15"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_23"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_21"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_19"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_17"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionOutput Name="MaterialExpressionFunctionOutput_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_95"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_66"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_32"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_31"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_29"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_28"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_26"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_24"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_22"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_21"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_20"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_18"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_17"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFunctionInput Name="MaterialExpressionFunctionInput_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant4Vector Name="MaterialExpressionConstant4Vector_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant4Vector Name="MaterialExpressionConstant4Vector_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_96"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_95"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_32"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_29"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_28"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_27"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_26"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_22"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_20"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_19"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_17"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_16"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_15"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_25"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_9"
+      Coordinates=(Expression=MaterialExpressionMultiply'MF_GDC_Layersample_Mesh_01:MaterialExpressionMultiply_4')
+      TextureObject=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_4')
+      MaterialExpressionEditorX=646
+      MaterialExpressionEditorY=-2766
+      MaterialExpressionGuid=8772CDF4420EA121C8D6ECB12D1767D8
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_6"
+      Coordinates=(Expression=MaterialExpressionMultiply'MF_GDC_Layersample_Mesh_01:MaterialExpressionMultiply_18')
+      TextureObject=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_21')
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=291
+      MaterialExpressionEditorY=1751
+      MaterialExpressionGuid=350DE98642CE5449DDC78888E2427ED9
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_4"
+      Coordinates=(Expression=MaterialExpressionMaterialFunctionCall'MF_GDC_Layersample_Mesh_01:MaterialExpressionMaterialFunctionCall_3',OutputIndex=2)
+      TextureObject=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_4')
+      MaterialExpressionEditorX=1080
+      MaterialExpressionEditorY=-56
+      MaterialExpressionGuid=C7C2DBF44B9E33DF072869A9E15C2A37
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_2"
+      Coordinates=(Expression=MaterialExpressionMultiply'MF_GDC_Layersample_Mesh_01:MaterialExpressionMultiply_14')
+      TextureObject=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_11')
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=298
+      MaterialExpressionEditorY=1481
+      MaterialExpressionGuid=85AB247F4316BB06501339B26E7DB614
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_14"
+      Coordinates=(Expression=MaterialExpressionMultiply'MF_GDC_Layersample_Mesh_01:MaterialExpressionMultiply_0')
+      TextureObject=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_29')
+      MaterialExpressionEditorX=257
+      MaterialExpressionEditorY=3258
+      MaterialExpressionGuid=9874FA5E46339CE3BC6BE2B109AB5B0C
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_13"
+      Coordinates=(Expression=MaterialExpressionMultiply'MF_GDC_Layersample_Mesh_01:MaterialExpressionMultiply_4')
+      TextureObject=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_29')
+      MaterialExpressionEditorX=437
+      MaterialExpressionEditorY=3038
+      MaterialExpressionGuid=B7E5911F439C364A461978B8B1E0E996
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_10"
+      Coordinates=(Expression=MaterialExpressionMultiply'MF_GDC_Layersample_Mesh_01:MaterialExpressionMultiply_0')
+      TextureObject=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_4')
+      MaterialExpressionEditorX=616
+      MaterialExpressionEditorY=-2580
+      MaterialExpressionGuid=E1C5A7804B25654464E6A1843CFFF109
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Coordinates=(Expression=MaterialExpressionMaterialFunctionCall'MF_GDC_Layersample_Mesh_01:MaterialExpressionMaterialFunctionCall_3')
+      TextureObject=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_7')
+      MaterialExpressionEditorX=920
+      MaterialExpressionEditorY=-476
+      MaterialExpressionGuid=CC90F8A14C0C781ABD797D95BB92B1DF
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureObject_9"
+      Texture=None
+      MaterialExpressionEditorX=-4656
+      MaterialExpressionEditorY=1441
+      MaterialExpressionGuid=423757EA40488F467C916EA9A5DE4598
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureObject_7"
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_GDC_Rocktest_01_N.T_GDC_Rocktest_01_N'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-5340
+      MaterialExpressionEditorY=480
+      MaterialExpressionGuid=08D669044EB55DCF852301BD6BEC27E9
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureObject_5"
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_RB_LS_Dirt_01_DispAlpha03.T_RB_LS_Dirt_01_DispAlpha03'
+      MaterialExpressionEditorX=-4700
+      MaterialExpressionEditorY=-1080
+      MaterialExpressionGuid=B55D8125437AD811F18B80935A4A371A
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionTextureObject_4"
+      Texture=None
+      MaterialExpressionEditorX=-9492
+      MaterialExpressionEditorY=-2436
+      MaterialExpressionGuid=15AD6B3041896643A579CC99E1AD84A7
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureObject_3"
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_GDC_Rocktest_01_N.T_GDC_Rocktest_01_N'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-3720
+      MaterialExpressionEditorY=600
+      MaterialExpressionGuid=56C1BAB64101FF1C3F315B93DFDD11BF
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureObject_1"
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_RB_LS_Dirt_01_DispAlpha03.T_RB_LS_Dirt_01_DispAlpha03'
+      MaterialExpressionEditorX=-4640
+      MaterialExpressionEditorY=-720
+      MaterialExpressionGuid=9C55B43241A3AD550A7417AF1711181E
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_8"
+      A=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Layersample_Mesh_01:MaterialExpressionStaticSwitch_3')
+      B=(Expression=MaterialExpressionTextureSample'MF_GDC_Layersample_Mesh_01:MaterialExpressionTextureSample_13',OutputIndex=1,Mask=1,MaskR=1)
+      Value=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_31')
+      MaterialExpressionEditorX=4406
+      MaterialExpressionEditorY=1462
+      MaterialExpressionGuid=B68BF9A34F4D542639816299DF3E7A3F
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_7"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'MF_GDC_Layersample_Mesh_01:MaterialExpressionMaterialFunctionCall_0',OutputIndex=5)
+      B=(Expression=MaterialExpressionMaterialFunctionCall'MF_GDC_Layersample_Mesh_01:MaterialExpressionMaterialFunctionCall_0',OutputIndex=4)
+      Value=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_6')
+      MaterialExpressionEditorX=620
+      MaterialExpressionEditorY=-660
+      MaterialExpressionGuid=898B19D6467FFD93678237A493C9C603
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_6"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'MF_GDC_Layersample_Mesh_01:MaterialExpressionMaterialFunctionCall_2',OutputIndex=6)
+      B=(Expression=MaterialExpressionTextureSample'MF_GDC_Layersample_Mesh_01:MaterialExpressionTextureSample_10',OutputIndex=4,Mask=1,MaskA=1)
+      Value=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_5')
+      MaterialExpressionEditorX=843
+      MaterialExpressionEditorY=-2536
+      MaterialExpressionGuid=9E24BFF842050B969D5DECB8E4340ABA
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_5"
+      A=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Layersample_Mesh_01:MaterialExpressionLinearInterpolate_15')
+      B=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Layersample_Mesh_01:MaterialExpressionLinearInterpolate_4')
+      Value=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_5')
+      MaterialExpressionEditorX=1505
+      MaterialExpressionEditorY=-1433
+      MaterialExpressionGuid=A8E92BA94BDF5006456342841915777A
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_4"
+      A=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Layersample_Mesh_01:MaterialExpressionStaticSwitch_6')
+      B=(Expression=MaterialExpressionTextureSample'MF_GDC_Layersample_Mesh_01:MaterialExpressionTextureSample_14',OutputIndex=1,Mask=1,MaskR=1)
+      Value=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_31')
+      MaterialExpressionEditorX=4391
+      MaterialExpressionEditorY=1702
+      MaterialExpressionGuid=2210A3EA4340E066629F9EA66FC4CCB1
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_3"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'MF_GDC_Layersample_Mesh_01:MaterialExpressionMaterialFunctionCall_0',OutputIndex=6)
+      B=(Expression=MaterialExpressionTextureSample'MF_GDC_Layersample_Mesh_01:MaterialExpressionTextureSample_9',OutputIndex=4,Mask=1,MaskA=1)
+      Value=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_5')
+      MaterialExpressionEditorX=912
+      MaterialExpressionEditorY=-2777
+      MaterialExpressionGuid=A77AD7FE4771B4D462ABD894D89614D7
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_2"
+      A=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Layersample_Mesh_01:MaterialExpressionStaticSwitch_5')
+      B=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Layersample_Mesh_01:MaterialExpressionLinearInterpolate_6')
+      Value=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_31')
+      MaterialExpressionEditorX=4410
+      MaterialExpressionEditorY=1196
+      MaterialExpressionGuid=87E28CD648889772A68F3B9EC258F2D9
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_16"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'MF_GDC_Layersample_Mesh_01:MaterialExpressionMaterialFunctionCall_6',OutputIndex=1)
+      B=(Expression=MaterialExpressionTextureSample'MF_GDC_Layersample_Mesh_01:MaterialExpressionTextureSample_2',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      Value=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_5')
+      MaterialExpressionEditorX=570
+      MaterialExpressionEditorY=1493
+      MaterialExpressionGuid=3C2E9031452813FF55328682ABFA74BD
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_14"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'MF_GDC_Layersample_Mesh_01:MaterialExpressionMaterialFunctionCall_5',OutputIndex=1)
+      B=(Expression=MaterialExpressionTextureSample'MF_GDC_Layersample_Mesh_01:MaterialExpressionTextureSample_6',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      Value=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_5')
+      MaterialExpressionEditorX=570
+      MaterialExpressionEditorY=1668
+      MaterialExpressionGuid=B03590C74376C1CD973DDBB2C98DCD3D
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_12"
+      A=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Layersample_Mesh_01:MaterialExpressionStaticSwitch_11')
+      B=(Expression=MaterialExpressionTextureSample'MF_GDC_Layersample_Mesh_01:MaterialExpressionTextureSample_4',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      Value=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_5')
+      MaterialExpressionEditorX=1420
+      MaterialExpressionEditorY=-96
+      MaterialExpressionGuid=5435EBC242A8D238B1D4408B3542960F
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_11"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'MF_GDC_Layersample_Mesh_01:MaterialExpressionMaterialFunctionCall_2',OutputIndex=5)
+      B=(Expression=MaterialExpressionMaterialFunctionCall'MF_GDC_Layersample_Mesh_01:MaterialExpressionMaterialFunctionCall_2',OutputIndex=4)
+      Value=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_6')
+      MaterialExpressionEditorX=940
+      MaterialExpressionEditorY=-236
+      MaterialExpressionGuid=5110690D44BB53D072F78D87C9381BD9
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_10"
+      A=(Expression=MaterialExpressionMultiply'MF_GDC_Layersample_Mesh_01:MaterialExpressionMultiply_5')
+      B=(Expression=MaterialExpressionTextureSample'MF_GDC_Layersample_Mesh_01:MaterialExpressionTextureSample_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      Value=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_5')
+      MaterialExpressionEditorX=1460
+      MaterialExpressionEditorY=-316
+      MaterialExpressionGuid=F40938994DE080585BD4C4ABCD5805FD
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitch_0"
+      A=(Expression=MaterialExpressionAppendVector'MF_GDC_Layersample_Mesh_01:MaterialExpressionAppendVector_3')
+      B=(Expression=MaterialExpressionAppendVector'MF_GDC_Layersample_Mesh_01:MaterialExpressionAppendVector_5')
+      Value=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_31')
+      MaterialExpressionEditorX=4146
+      MaterialExpressionEditorY=-48
+      MaterialExpressionGuid=D0305B9844F76AED6F9BDF8A89D8EFB2
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticBool_3"
+      MaterialExpressionEditorX=-4380
+      MaterialExpressionEditorY=-1520
+      MaterialExpressionGuid=590FDC9D457E452AC16CAFB9C3122AE4
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticBool_2"
+      MaterialExpressionEditorX=641
+      MaterialExpressionEditorY=1900
+      MaterialExpressionGuid=72A6309342303E9B449DFFA36FAF9D37
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticBool_1"
+      MaterialExpressionEditorX=-4360
+      MaterialExpressionEditorY=-1300
+      MaterialExpressionGuid=9E0A33CB42D7D69F3BAEB1865E0EC41C
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionNormalize_0"
+      VectorInput=(Expression=MaterialExpressionAdd'MF_GDC_Layersample_Mesh_01:MaterialExpressionAdd_0')
+      MaterialExpressionEditorX=1155
+      MaterialExpressionEditorY=1283
+      MaterialExpressionGuid=600CC929475BFF090B698AA68F5B2813
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_9"
+      A=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Layersample_Mesh_01:MaterialExpressionLinearInterpolate_10')
+      B=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_11')
+      MaterialExpressionEditorX=1180
+      MaterialExpressionEditorY=-496
+      MaterialExpressionGuid=340DF02C46278A95963F02B62E6D5445
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_6"
+      A=(Expression=MaterialExpressionComponentMask'MF_GDC_Layersample_Mesh_01:MaterialExpressionComponentMask_13')
+      B=(Expression=MaterialExpressionComponentMask'MF_GDC_Layersample_Mesh_01:MaterialExpressionComponentMask_14')
+      MaterialExpressionEditorX=-9152
+      MaterialExpressionEditorY=-2136
+      MaterialExpressionGuid=E3917E31413771023D2D108D2F4113F9
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_5"
+      A=(Expression=MaterialExpressionMultiply'MF_GDC_Layersample_Mesh_01:MaterialExpressionMultiply_9')
+      B=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Layersample_Mesh_01:MaterialExpressionLinearInterpolate_16')
+      MaterialExpressionEditorX=1320
+      MaterialExpressionEditorY=-396
+      MaterialExpressionGuid=A6DFBD564824A8EEA597A0A6407FED07
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_4"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'MF_GDC_Layersample_Mesh_01:MaterialExpressionMaterialFunctionCall_3')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_2')
+      MaterialExpressionEditorX=-4308
+      MaterialExpressionEditorY=1080
+      MaterialExpressionGuid=F670F3144D8362739DFACCA9D420983D
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_2"
+      A=(Expression=MaterialExpressionComponentMask'MF_GDC_Layersample_Mesh_01:MaterialExpressionComponentMask_0')
+      B=(Expression=MaterialExpressionComponentMask'MF_GDC_Layersample_Mesh_01:MaterialExpressionComponentMask_2')
+      MaterialExpressionEditorX=-2720
+      MaterialExpressionEditorY=-2700
+      MaterialExpressionGuid=5F88E19A4CD0B060337C638EA599434D
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_18"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'MF_GDC_Layersample_Mesh_01:MaterialExpressionMaterialFunctionCall_3',OutputIndex=2)
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_10')
+      MaterialExpressionEditorX=-4498
+      MaterialExpressionEditorY=322
+      MaterialExpressionGuid=E8297BFD44D9012235FFD1A62A3DD8D6
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_16"
+      A=(Expression=MaterialExpressionMultiply'MF_GDC_Layersample_Mesh_01:MaterialExpressionMultiply_13')
+      B=(Expression=MaterialExpressionConstant3Vector'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant3Vector_6')
+      MaterialExpressionEditorX=1050
+      MaterialExpressionEditorY=1611
+      MaterialExpressionGuid=D10B5AF9415748F29497F881490EF5AA
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_15"
+      A=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_10')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_22')
+      MaterialExpressionEditorX=-4477
+      MaterialExpressionEditorY=-518
+      MaterialExpressionGuid=CFC7123C4A4100CB7D17D7A824D7C944
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_14"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'MF_GDC_Layersample_Mesh_01:MaterialExpressionMaterialFunctionCall_3')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_10')
+      MaterialExpressionEditorX=-4503
+      MaterialExpressionEditorY=150
+      MaterialExpressionGuid=91D609FC4A598818C3427A9FB477ED69
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_13"
+      A=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Layersample_Mesh_01:MaterialExpressionLinearInterpolate_14')
+      B=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Layersample_Mesh_01:MaterialExpressionStaticSwitch_14')
+      MaterialExpressionEditorX=823
+      MaterialExpressionEditorY=1525
+      MaterialExpressionGuid=A45B770A4CF5A9598A7E7087E4083FD8
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_12"
+      A=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_10')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_24')
+      MaterialExpressionEditorX=-4497
+      MaterialExpressionEditorY=-336
+      MaterialExpressionGuid=A1E897964ECE402D01D942B77982D121
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_11"
+      A=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Layersample_Mesh_01:MaterialExpressionLinearInterpolate_12')
+      B=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Layersample_Mesh_01:MaterialExpressionStaticSwitch_16')
+      MaterialExpressionEditorX=683
+      MaterialExpressionEditorY=1137
+      MaterialExpressionGuid=989217A549E8DA5F21346C920C18E1BE
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_10"
+      A=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_10')
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_26')
+      MaterialExpressionEditorX=-4257
+      MaterialExpressionEditorY=-402
+      MaterialExpressionGuid=3D871349477A7D8817F01BAB9191ADE5
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_1"
+      A=(Expression=MaterialExpressionMultiply'MF_GDC_Layersample_Mesh_01:MaterialExpressionMultiply_2')
+      B=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Layersample_Mesh_01:MaterialExpressionLinearInterpolate_0')
+      MaterialExpressionEditorX=1800
+      MaterialExpressionEditorY=-296
+      MaterialExpressionGuid=0A0DF0D5434312E2CB470497E01118DF
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'MF_GDC_Layersample_Mesh_01:MaterialExpressionMaterialFunctionCall_3',OutputIndex=2)
+      B=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_2')
+      MaterialExpressionEditorX=-4330
+      MaterialExpressionEditorY=1218
+      MaterialExpressionGuid=CBEC1D924BA5523AB45C91BC2E92D510
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_7"
+      MaterialFunction=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape3/MF/WorldAlignedTexture_Normal_Mesh.WorldAlignedTexture_Normal_Mesh'
+      FunctionInputs(0)=(ExpressionInputId=4EE64DD049AC714D089AD6AAB1BFA0C8,Input=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_4',InputName="TextureObject"))
+      FunctionInputs(1)=(ExpressionInputId=2C710AD6489D7B7213E379AD4846EBBB,Input=(Expression=MaterialExpressionMultiply'MF_GDC_Layersample_Mesh_01:MaterialExpressionMultiply_10',InputName="TextureSize"))
+      FunctionInputs(2)=(ExpressionInputId=0E20D9374FD822EF082441BC994E2781,Input=(InputName="Stripe Texture"))
+      FunctionInputs(3)=(ExpressionInputId=993AB7C44E6110F9D99C8582E12C7967,Input=(InputName="Stripe Size"))
+      FunctionInputs(4)=(ExpressionInputId=7ABCF8324D9527C9A4655E9D65B09A2A,Input=(InputName="Stripe Offset"))
+      FunctionInputs(5)=(ExpressionInputId=68527E7A42A62649FDD754950698AC70,Input=(InputName="Stripe Color"))
+      FunctionInputs(6)=(ExpressionInputId=ABB498D643904DF08C37A0B911766DDB,Input=(Expression=MaterialExpressionConstant3Vector'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant3Vector_3',InputName="Normal"))
+      FunctionOutputs(0)=(ExpressionOutputId=E76139354AFEC315B6F8BEB602E0858A,Output=(OutputName="Z Mask"))
+      FunctionOutputs(1)=(ExpressionOutputId=33D744E0417A31C70E80059F1F0AAFC7,Output=(OutputName="XYZ Normal"))
+      FunctionOutputs(2)=(ExpressionOutputId=DC35E13448C6765AA54072B08874BFD4,Output=(OutputName="Z Texture"))
+      FunctionOutputs(3)=(ExpressionOutputId=C73948F34CBC303FB1D8F3A99E6B0324,Output=(OutputName="XY Texture"))
+      FunctionOutputs(4)=(ExpressionOutputId=1B6AC1E04D115FD30866E4A895261285,Output=(OutputName="XYZ Texture"))
+      FunctionOutputs(5)=(ExpressionOutputId=738AA72849CBCC3C780AEDA7DEB6D94E,Output=(OutputName="XYZ Striped"))
+      FunctionOutputs(6)=(ExpressionOutputId=AA50E83C42EF827BDFD9C58F3D37D106,Output=(OutputName="XYZ Alpha"))
+      MaterialExpressionEditorX=-797
+      MaterialExpressionEditorY=-565
+      MaterialExpressionGuid=C9125C67489876412FEFC8ABCA6B8D54
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+      Outputs(0)=(OutputName="Z Mask")
+      Outputs(1)=(OutputName="XYZ Normal")
+      Outputs(2)=(OutputName="Z Texture")
+      Outputs(3)=(OutputName="XY Texture")
+      Outputs(4)=(OutputName="XYZ Texture")
+      Outputs(5)=(OutputName="XYZ Striped")
+      Outputs(6)=(OutputName="XYZ Alpha")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_6"
+      MaterialFunction=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape3/MF/WorldAlignedTexture_Normal_Mesh.WorldAlignedTexture_Normal_Mesh'
+      FunctionInputs(0)=(ExpressionInputId=4EE64DD049AC714D089AD6AAB1BFA0C8,Input=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_21',InputName="TextureObject"))
+      FunctionInputs(1)=(ExpressionInputId=2C710AD6489D7B7213E379AD4846EBBB,Input=(Expression=MaterialExpressionMultiply'MF_GDC_Layersample_Mesh_01:MaterialExpressionMultiply_15',InputName="TextureSize"))
+      FunctionInputs(2)=(ExpressionInputId=0E20D9374FD822EF082441BC994E2781,Input=(OutputIndex=-1,InputName="Stripe Texture"))
+      FunctionInputs(3)=(ExpressionInputId=993AB7C44E6110F9D99C8582E12C7967,Input=(OutputIndex=-1,InputName="Stripe Size"))
+      FunctionInputs(4)=(ExpressionInputId=7ABCF8324D9527C9A4655E9D65B09A2A,Input=(OutputIndex=-1,InputName="Stripe Offset"))
+      FunctionInputs(5)=(ExpressionInputId=68527E7A42A62649FDD754950698AC70,Input=(OutputIndex=-1,InputName="Stripe Color"))
+      FunctionInputs(6)=(ExpressionInputId=ABB498D643904DF08C37A0B911766DDB,Input=(Expression=MaterialExpressionConstant3Vector'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant3Vector_3',InputName="Normal"))
+      FunctionOutputs(0)=(ExpressionOutputId=E76139354AFEC315B6F8BEB602E0858A,Output=(OutputName="Z Mask"))
+      FunctionOutputs(1)=(ExpressionOutputId=33D744E0417A31C70E80059F1F0AAFC7,Output=(OutputName="XYZ Normal"))
+      FunctionOutputs(2)=(ExpressionOutputId=DC35E13448C6765AA54072B08874BFD4,Output=(OutputName="Z Texture"))
+      FunctionOutputs(3)=(ExpressionOutputId=C73948F34CBC303FB1D8F3A99E6B0324,Output=(OutputName="XY Texture"))
+      FunctionOutputs(4)=(ExpressionOutputId=1B6AC1E04D115FD30866E4A895261285,Output=(OutputName="XYZ Texture"))
+      FunctionOutputs(5)=(ExpressionOutputId=738AA72849CBCC3C780AEDA7DEB6D94E,Output=(OutputName="XYZ Striped"))
+      FunctionOutputs(6)=(ExpressionOutputId=AA50E83C42EF827BDFD9C58F3D37D106,Output=(OutputName="XYZ Alpha"))
+      MaterialExpressionEditorX=-1088
+      MaterialExpressionEditorY=-301
+      MaterialExpressionGuid=F974362E47FD1FDCA33868AA57A2D9F6
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+      Outputs(0)=(OutputName="Z Mask")
+      Outputs(1)=(OutputName="XYZ Normal")
+      Outputs(2)=(OutputName="Z Texture")
+      Outputs(3)=(OutputName="XY Texture")
+      Outputs(4)=(OutputName="XYZ Texture")
+      Outputs(5)=(OutputName="XYZ Striped")
+      Outputs(6)=(OutputName="XYZ Alpha")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_5"
+      MaterialFunction=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape3/MF/WorldAlignedTexture_Normal_Mesh.WorldAlignedTexture_Normal_Mesh'
+      FunctionInputs(0)=(ExpressionInputId=4EE64DD049AC714D089AD6AAB1BFA0C8,Input=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_21',InputName="TextureObject"))
+      FunctionInputs(1)=(ExpressionInputId=2C710AD6489D7B7213E379AD4846EBBB,Input=(Expression=MaterialExpressionMultiply'MF_GDC_Layersample_Mesh_01:MaterialExpressionMultiply_12',InputName="TextureSize"))
+      FunctionInputs(2)=(ExpressionInputId=0E20D9374FD822EF082441BC994E2781,Input=(OutputIndex=-1,InputName="Stripe Texture"))
+      FunctionInputs(3)=(ExpressionInputId=993AB7C44E6110F9D99C8582E12C7967,Input=(OutputIndex=-1,InputName="Stripe Size"))
+      FunctionInputs(4)=(ExpressionInputId=7ABCF8324D9527C9A4655E9D65B09A2A,Input=(OutputIndex=-1,InputName="Stripe Offset"))
+      FunctionInputs(5)=(ExpressionInputId=68527E7A42A62649FDD754950698AC70,Input=(OutputIndex=-1,InputName="Stripe Color"))
+      FunctionInputs(6)=(ExpressionInputId=ABB498D643904DF08C37A0B911766DDB,Input=(Expression=MaterialExpressionConstant3Vector'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant3Vector_3',InputName="Normal"))
+      FunctionOutputs(0)=(ExpressionOutputId=E76139354AFEC315B6F8BEB602E0858A,Output=(OutputName="Z Mask"))
+      FunctionOutputs(1)=(ExpressionOutputId=33D744E0417A31C70E80059F1F0AAFC7,Output=(OutputName="XYZ Normal"))
+      FunctionOutputs(2)=(ExpressionOutputId=DC35E13448C6765AA54072B08874BFD4,Output=(OutputName="Z Texture"))
+      FunctionOutputs(3)=(ExpressionOutputId=C73948F34CBC303FB1D8F3A99E6B0324,Output=(OutputName="XY Texture"))
+      FunctionOutputs(4)=(ExpressionOutputId=1B6AC1E04D115FD30866E4A895261285,Output=(OutputName="XYZ Texture"))
+      FunctionOutputs(5)=(ExpressionOutputId=738AA72849CBCC3C780AEDA7DEB6D94E,Output=(OutputName="XYZ Striped"))
+      FunctionOutputs(6)=(ExpressionOutputId=AA50E83C42EF827BDFD9C58F3D37D106,Output=(OutputName="XYZ Alpha"))
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=-20
+      MaterialExpressionGuid=582016C041E7C6EF676B80A9BD88888C
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+      Outputs(0)=(OutputName="Z Mask")
+      Outputs(1)=(OutputName="XYZ Normal")
+      Outputs(2)=(OutputName="Z Texture")
+      Outputs(3)=(OutputName="XY Texture")
+      Outputs(4)=(OutputName="XYZ Texture")
+      Outputs(5)=(OutputName="XYZ Striped")
+      Outputs(6)=(OutputName="XYZ Alpha")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_3"
+      MaterialFunction=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape3/MF/MF_GDC_Landscape_TexCoords_mesh.MF_GDC_Landscape_TexCoords_mesh'
+      FunctionInputs(0)=(ExpressionInputId=DA0D8AFB4E199959C508F5A810BA83E7,Input=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_22',InputName="In Tiling Near"))
+      FunctionInputs(1)=(ExpressionInputId=33A24FCE4219609ADD2539BC43C5AED5,Input=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_26',InputName="In Tiling FARFAR"))
+      FunctionInputs(2)=(ExpressionInputId=4FBCF6FC46464110EEFD158529D6A2A4,Input=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_24',InputName="In Tiling Far"))
+      FunctionInputs(3)=(ExpressionInputId=262496194C0CBB8BCD13A2BDACB784ED,Input=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_32',InputName="In FARFAR Blend Distance"))
+      FunctionInputs(4)=(ExpressionInputId=5FD6E39D4848CECC20B96BAFC6E9C20D,Input=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_66',InputName="In Far Blend Distance"))
+      FunctionOutputs(0)=(ExpressionOutputId=2045667B44FB6B9C77CFD4AB905B2A7A,Output=(OutputName="Tiling Near"))
+      FunctionOutputs(1)=(ExpressionOutputId=101E3CB847545D940AE3C1BB317C45A3,Output=(OutputName="Tiling FarFAR"))
+      FunctionOutputs(2)=(ExpressionOutputId=96B6F28247245C24C383A58AE6303A85,Output=(OutputName="Tiling Far"))
+      FunctionOutputs(3)=(ExpressionOutputId=C83602ED46F1871EF7D88A9E70B484E9,Output=(OutputName="FarFAR Blend Distance"))
+      FunctionOutputs(4)=(ExpressionOutputId=730DC33D4A0662C9ECA49CAC187D874A,Output=(OutputName="Far Blend Distance"))
+      MaterialExpressionEditorX=-5020
+      MaterialExpressionEditorY=40
+      MaterialExpressionGuid=530D890241AAA26B27EA589BFC99DF67
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+      Outputs(0)=(OutputName="Tiling Near")
+      Outputs(1)=(OutputName="Tiling FarFAR")
+      Outputs(2)=(OutputName="Tiling Far")
+      Outputs(3)=(OutputName="FarFAR Blend Distance")
+      Outputs(4)=(OutputName="Far Blend Distance")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_2"
+      MaterialFunction=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape3/MF/WorldAlignedTexture_Normal_Mesh.WorldAlignedTexture_Normal_Mesh'
+      FunctionInputs(0)=(ExpressionInputId=4EE64DD049AC714D089AD6AAB1BFA0C8,Input=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_4',InputName="TextureObject"))
+      FunctionInputs(1)=(ExpressionInputId=2C710AD6489D7B7213E379AD4846EBBB,Input=(Expression=MaterialExpressionMultiply'MF_GDC_Layersample_Mesh_01:MaterialExpressionMultiply_12',InputName="TextureSize"))
+      FunctionInputs(2)=(ExpressionInputId=0E20D9374FD822EF082441BC994E2781,Input=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_13',InputName="Stripe Texture"))
+      FunctionInputs(3)=(ExpressionInputId=993AB7C44E6110F9D99C8582E12C7967,Input=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_17',InputName="Stripe Size"))
+      FunctionInputs(4)=(ExpressionInputId=7ABCF8324D9527C9A4655E9D65B09A2A,Input=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_18',InputName="Stripe Offset"))
+      FunctionInputs(5)=(ExpressionInputId=68527E7A42A62649FDD754950698AC70,Input=(Expression=MaterialExpressionMultiply'MF_GDC_Layersample_Mesh_01:MaterialExpressionMultiply_6',InputName="Stripe Color"))
+      FunctionInputs(6)=(ExpressionInputId=ABB498D643904DF08C37A0B911766DDB,Input=(Expression=MaterialExpressionConstant3Vector'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant3Vector_3',InputName="Normal"))
+      FunctionOutputs(0)=(ExpressionOutputId=E76139354AFEC315B6F8BEB602E0858A,Output=(OutputName="Z Mask"))
+      FunctionOutputs(1)=(ExpressionOutputId=33D744E0417A31C70E80059F1F0AAFC7,Output=(OutputName="XYZ Normal"))
+      FunctionOutputs(2)=(ExpressionOutputId=DC35E13448C6765AA54072B08874BFD4,Output=(OutputName="Z Texture"))
+      FunctionOutputs(3)=(ExpressionOutputId=C73948F34CBC303FB1D8F3A99E6B0324,Output=(OutputName="XY Texture"))
+      FunctionOutputs(4)=(ExpressionOutputId=1B6AC1E04D115FD30866E4A895261285,Output=(OutputName="XYZ Texture"))
+      FunctionOutputs(5)=(ExpressionOutputId=738AA72849CBCC3C780AEDA7DEB6D94E,Output=(OutputName="XYZ Striped"))
+      FunctionOutputs(6)=(ExpressionOutputId=AA50E83C42EF827BDFD9C58F3D37D106,Output=(OutputName="XYZ Alpha"))
+      MaterialExpressionEditorX=-1028
+      MaterialExpressionEditorY=-841
+      MaterialExpressionGuid=290091BC491E0580DBBE969E53BA9509
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+      Outputs(0)=(OutputName="Z Mask")
+      Outputs(1)=(OutputName="XYZ Normal")
+      Outputs(2)=(OutputName="Z Texture")
+      Outputs(3)=(OutputName="XY Texture")
+      Outputs(4)=(OutputName="XYZ Texture")
+      Outputs(5)=(OutputName="XYZ Striped")
+      Outputs(6)=(OutputName="XYZ Alpha")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_0"
+      MaterialFunction=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape3/MF/WorldAlignedTexture_Normal_Mesh.WorldAlignedTexture_Normal_Mesh'
+      FunctionInputs(0)=(ExpressionInputId=4EE64DD049AC714D089AD6AAB1BFA0C8,Input=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_4',InputName="TextureObject"))
+      FunctionInputs(1)=(ExpressionInputId=2C710AD6489D7B7213E379AD4846EBBB,Input=(Expression=MaterialExpressionMultiply'MF_GDC_Layersample_Mesh_01:MaterialExpressionMultiply_15',InputName="TextureSize"))
+      FunctionInputs(2)=(ExpressionInputId=0E20D9374FD822EF082441BC994E2781,Input=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_13',InputName="Stripe Texture"))
+      FunctionInputs(3)=(ExpressionInputId=993AB7C44E6110F9D99C8582E12C7967,Input=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_17',InputName="Stripe Size"))
+      FunctionInputs(4)=(ExpressionInputId=7ABCF8324D9527C9A4655E9D65B09A2A,Input=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_18',InputName="Stripe Offset"))
+      FunctionInputs(5)=(ExpressionInputId=68527E7A42A62649FDD754950698AC70,Input=(Expression=MaterialExpressionMultiply'MF_GDC_Layersample_Mesh_01:MaterialExpressionMultiply_6',InputName="Stripe Color"))
+      FunctionInputs(6)=(ExpressionInputId=ABB498D643904DF08C37A0B911766DDB,Input=(Expression=MaterialExpressionConstant3Vector'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant3Vector_3',InputName="Normal"))
+      FunctionOutputs(0)=(ExpressionOutputId=E76139354AFEC315B6F8BEB602E0858A,Output=(OutputName="Z Mask"))
+      FunctionOutputs(1)=(ExpressionOutputId=33D744E0417A31C70E80059F1F0AAFC7,Output=(OutputName="XYZ Normal"))
+      FunctionOutputs(2)=(ExpressionOutputId=DC35E13448C6765AA54072B08874BFD4,Output=(OutputName="Z Texture"))
+      FunctionOutputs(3)=(ExpressionOutputId=C73948F34CBC303FB1D8F3A99E6B0324,Output=(OutputName="XY Texture"))
+      FunctionOutputs(4)=(ExpressionOutputId=1B6AC1E04D115FD30866E4A895261285,Output=(OutputName="XYZ Texture"))
+      FunctionOutputs(5)=(ExpressionOutputId=738AA72849CBCC3C780AEDA7DEB6D94E,Output=(OutputName="XYZ Striped"))
+      FunctionOutputs(6)=(ExpressionOutputId=AA50E83C42EF827BDFD9C58F3D37D106,Output=(OutputName="XYZ Alpha"))
+      MaterialExpressionEditorX=-847
+      MaterialExpressionEditorY=-1137
+      MaterialExpressionGuid=0DB303D548B8A61C749E438E9B16D4FE
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+      Outputs(0)=(OutputName="Z Mask")
+      Outputs(1)=(OutputName="XYZ Normal")
+      Outputs(2)=(OutputName="Z Texture")
+      Outputs(3)=(OutputName="XY Texture")
+      Outputs(4)=(OutputName="XYZ Texture")
+      Outputs(5)=(OutputName="XYZ Striped")
+      Outputs(6)=(OutputName="XYZ Alpha")
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_7"
+      A=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Layersample_Mesh_01:MaterialExpressionStaticSwitch_6')
+      B=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Layersample_Mesh_01:MaterialExpressionStaticSwitch_3')
+      Alpha=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Layersample_Mesh_01:MaterialExpressionLinearInterpolate_5')
+      MaterialExpressionEditorX=1235
+      MaterialExpressionEditorY=-2763
+      MaterialExpressionGuid=4848BDE442C52D2A1A1EEF939DE45778
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_6"
+      A=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Layersample_Mesh_01:MaterialExpressionLinearInterpolate_25')
+      B=(Expression=MaterialExpressionTextureSample'MF_GDC_Layersample_Mesh_01:MaterialExpressionTextureSample_14',OutputIndex=1,Mask=1,MaskR=1)
+      Alpha=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Layersample_Mesh_01:MaterialExpressionLinearInterpolate_45')
+      MaterialExpressionEditorX=997
+      MaterialExpressionEditorY=3298
+      MaterialExpressionGuid=8073F26B4D46F2A02FB3109E99C59AD6
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_5"
+      A=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Layersample_Mesh_01:MaterialExpressionStaticSwitch_6')
+      B=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_26')
+      Alpha=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_28')
+      MaterialExpressionEditorX=1100
+      MaterialExpressionEditorY=-2517
+      MaterialExpressionGuid=3525BA1C4DAC59A957E03FB38A6815FB
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_45"
+      A=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_95')
+      B=(Expression=MaterialExpressionMaterialFunctionCall'MF_GDC_Layersample_Mesh_01:MaterialExpressionMaterialFunctionCall_3',OutputIndex=4)
+      Alpha=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_95')
+      MaterialExpressionEditorX=-7926
+      MaterialExpressionEditorY=2560
+      MaterialExpressionGuid=8E3DC56E452BDC499F9577871DC791CC
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_4"
+      A=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Layersample_Mesh_01:MaterialExpressionLinearInterpolate_7')
+      B=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Layersample_Mesh_01:MaterialExpressionStaticSwitch_6')
+      Alpha=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Layersample_Mesh_01:MaterialExpressionLinearInterpolate_45')
+      MaterialExpressionEditorX=1315
+      MaterialExpressionEditorY=-2542
+      MaterialExpressionGuid=BFE156A946432D249EE35A80D0409B41
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_25"
+      A=(Expression=MaterialExpressionTextureSample'MF_GDC_Layersample_Mesh_01:MaterialExpressionTextureSample_14',OutputIndex=1,Mask=1,MaskR=1)
+      B=(Expression=MaterialExpressionTextureSample'MF_GDC_Layersample_Mesh_01:MaterialExpressionTextureSample_13',OutputIndex=1,Mask=1,MaskR=1)
+      Alpha=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Layersample_Mesh_01:MaterialExpressionLinearInterpolate_24')
+      MaterialExpressionEditorX=817
+      MaterialExpressionEditorY=3338
+      MaterialExpressionGuid=EDB7635C4F52F07E855AB99BDBBFCC3A
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_24"
+      A=(Expression=MaterialExpressionTextureSample'MF_GDC_Layersample_Mesh_01:MaterialExpressionTextureSample_14',OutputIndex=1,Mask=1,MaskR=1)
+      B=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_29')
+      Alpha=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_14')
+      MaterialExpressionEditorX=637
+      MaterialExpressionEditorY=3558
+      MaterialExpressionGuid=C60833904225F1EDFD3A43B187CE6E33
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_2"
+      A=(Expression=MaterialExpressionNormalize'MF_GDC_Layersample_Mesh_01:MaterialExpressionNormalize_0')
+      B=(Expression=MaterialExpressionMultiply'MF_GDC_Layersample_Mesh_01:MaterialExpressionMultiply_13')
+      Alpha=(Expression=MaterialExpressionMaterialFunctionCall'MF_GDC_Layersample_Mesh_01:MaterialExpressionMaterialFunctionCall_3',OutputIndex=4)
+      MaterialExpressionEditorX=1370
+      MaterialExpressionEditorY=1373
+      MaterialExpressionGuid=409DF4D243459D70DAC2309BF5A1491E
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_19"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'MF_GDC_Layersample_Mesh_01:MaterialExpressionMaterialFunctionCall_7',OutputIndex=6)
+      B=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Layersample_Mesh_01:MaterialExpressionLinearInterpolate_4')
+      Alpha=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Layersample_Mesh_01:MaterialExpressionLinearInterpolate_17')
+      MaterialExpressionEditorX=1071
+      MaterialExpressionEditorY=-1473
+      MaterialExpressionGuid=2E7E8BDE472F5FDCF2C2BEB1E9252ECC
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_17"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'MF_GDC_Layersample_Mesh_01:MaterialExpressionMaterialFunctionCall_7',OutputIndex=6)
+      B=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_22')
+      Alpha=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_28')
+      MaterialExpressionEditorX=868
+      MaterialExpressionEditorY=-1382
+      MaterialExpressionGuid=F664DEAA4A6407D62CA543A63AB602A5
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_16"
+      A=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Layersample_Mesh_01:MaterialExpressionStaticSwitch_11')
+      B=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_8')
+      Alpha=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_5')
+      MaterialExpressionEditorX=1100
+      MaterialExpressionEditorY=-216
+      MaterialExpressionGuid=701704064BBDA2C83FF1EB8242CEB1B9
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_15"
+      A=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Layersample_Mesh_01:MaterialExpressionLinearInterpolate_4')
+      B=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Layersample_Mesh_01:MaterialExpressionLinearInterpolate_19')
+      Alpha=(Expression=MaterialExpressionMaterialFunctionCall'MF_GDC_Layersample_Mesh_01:MaterialExpressionMaterialFunctionCall_3',OutputIndex=3)
+      MaterialExpressionEditorX=1280
+      MaterialExpressionEditorY=-1460
+      MaterialExpressionGuid=8AE941DA490DDBEAE5CE238361890C1B
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_14"
+      A=(Expression=MaterialExpressionConstant3Vector'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant3Vector_3')
+      B=(Expression=MaterialExpressionConstant3Vector'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant3Vector_5')
+      Alpha=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_3')
+      MaterialExpressionEditorX=132
+      MaterialExpressionEditorY=1248
+      MaterialExpressionGuid=BFDA97BD4D6C1593DCF40AB7C4C11887
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_12"
+      A=(Expression=MaterialExpressionConstant3Vector'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant3Vector_3')
+      B=(Expression=MaterialExpressionConstant3Vector'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant3Vector_5')
+      Alpha=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_8')
+      MaterialExpressionEditorX=-60
+      MaterialExpressionEditorY=520
+      MaterialExpressionGuid=42A189BB40C1C83DF615528E889CC1E3
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_10"
+      A=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Layersample_Mesh_01:MaterialExpressionStaticSwitch_7')
+      B=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_8')
+      Alpha=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_17')
+      MaterialExpressionEditorX=1020
+      MaterialExpressionEditorY=-656
+      MaterialExpressionGuid=6AB59F8F4D5854B3C380CF82DF0A1517
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_0"
+      A=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Layersample_Mesh_01:MaterialExpressionStaticSwitch_10')
+      B=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Layersample_Mesh_01:MaterialExpressionStaticSwitch_12')
+      Alpha=(Expression=MaterialExpressionMaterialFunctionCall'MF_GDC_Layersample_Mesh_01:MaterialExpressionMaterialFunctionCall_3',OutputIndex=4)
+      MaterialExpressionEditorX=1640
+      MaterialExpressionEditorY=-236
+      MaterialExpressionGuid=CF62702E40AA3FAE130D7787AF283A7A
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_6"
+      OutputName="Result Blend Modulation Near"
+      SortPriority=4
+      A=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Layersample_Mesh_01:MaterialExpressionStaticSwitch_8')
+      bLastPreviewed=True
+      Id=7487AA6E46382179A5DDB199FF4CEB36
+      MaterialExpressionEditorX=4872
+      MaterialExpressionEditorY=1495
+      MaterialExpressionGuid=622E81A3437856DBDE04AC87198E4D85
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_23"
+      OutputName="Result Blend Modulation Far"
+      SortPriority=4
+      A=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Layersample_Mesh_01:MaterialExpressionStaticSwitch_4')
+      bLastPreviewed=True
+      Id=DA82682645375D0C0635B1A6AD73CBF2
+      MaterialExpressionEditorX=4857
+      MaterialExpressionEditorY=1735
+      MaterialExpressionGuid=345DE0FE4514C2BBE68A07B687806EC1
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_21"
+      OutputName="Result Diffuse RGBA"
+      SortPriority=1
+      A=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Layersample_Mesh_01:MaterialExpressionStaticSwitch_0')
+      bLastPreviewed=True
+      Id=0EFF63EE4EA52644536246A8B1841D7D
+      MaterialExpressionEditorX=4600
+      MaterialExpressionEditorY=-100
+      MaterialExpressionGuid=FA55E7DB48442FA68A150FBBF63A4FB5
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_19"
+      OutputName="Result Normal"
+      SortPriority=2
+      A=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Layersample_Mesh_01:MaterialExpressionLinearInterpolate_2')
+      bLastPreviewed=True
+      Id=5FF253C2474AE551373D628582DEAE76
+      MaterialExpressionEditorX=3883
+      MaterialExpressionEditorY=597
+      MaterialExpressionGuid=309545D248E921E9ED3B0DACA640429C
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_17"
+      OutputName="Result Blend Modulation"
+      SortPriority=3
+      A=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Layersample_Mesh_01:MaterialExpressionStaticSwitch_2')
+      bLastPreviewed=True
+      Id=154E85DB4B5E56AC433DFDA96C3D166C
+      MaterialExpressionEditorX=4872
+      MaterialExpressionEditorY=1258
+      MaterialExpressionGuid=D66F5125441279E8E52353B5075BAF64
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionOutput_0"
+      OutputName="Result Diffuse RGB"
+      A=(Expression=MaterialExpressionMultiply'MF_GDC_Layersample_Mesh_01:MaterialExpressionMultiply_1')
+      bLastPreviewed=True
+      Id=CB77F7A646D4FCFA5D2A8DA6628A740B
+      MaterialExpressionEditorX=4573
+      MaterialExpressionEditorY=-361
+      MaterialExpressionGuid=0EEC9D2B4AE9B8B643C651A071304FBB
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_95"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_96')
+      InputName="In Modulation Near Fade"
+      Id=1745E0FB4BAC3F6B608540A0FDCE6503
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      MaterialExpressionEditorX=-8320
+      MaterialExpressionEditorY=2680
+      MaterialExpressionGuid=5CF90040488C6294A9CBE4A0E2E6E9B4
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_8"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_3')
+      InputName="In Normal Near Intensity"
+      Id=2C02FE444BF049B61D799FA4C9EF3FD4
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=20
+      MaterialExpressionEditorX=-3960
+      MaterialExpressionEditorY=380
+      MaterialExpressionGuid=3F10189C4DCE33A26579DD97D6B4C727
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_7"
+      Preview=(Expression=MaterialExpressionTextureObject'MF_GDC_Layersample_Mesh_01:MaterialExpressionTextureObject_1')
+      InputName="In Diffuse 01 Detail"
+      Id=C38865F44976282A0032A48517A056C6
+      InputType=FunctionInput_Texture2D
+      bUsePreviewValueAsDefault=True
+      MaterialExpressionEditorX=-4420
+      MaterialExpressionEditorY=-740
+      MaterialExpressionGuid=1011327A46757183F068E9BB2B07FCBC
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_66"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_19')
+      InputName="In Blend Distance Far"
+      Id=B48D39D44182ABE01EF3D6A982577E12
+      InputType=FunctionInput_Scalar
+      SortPriority=6
+      MaterialExpressionEditorX=-5460
+      MaterialExpressionEditorY=260
+      MaterialExpressionGuid=BCD0893548730B1ACE0FD0BD0EC14657
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_6"
+      Preview=(Expression=MaterialExpressionStaticBool'MF_GDC_Layersample_Mesh_01:MaterialExpressionStaticBool_1')
+      InputName="In Use Stripe"
+      Id=883B4A3C418F44779289768485A57A80
+      InputType=FunctionInput_StaticBool
+      bUsePreviewValueAsDefault=True
+      SortPriority=10
+      MaterialExpressionEditorX=-4115
+      MaterialExpressionEditorY=-1306
+      MaterialExpressionGuid=8C8AB358421B61EF70C83CBBE6D7F237
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_5"
+      Preview=(Expression=MaterialExpressionStaticBool'MF_GDC_Layersample_Mesh_01:MaterialExpressionStaticBool_3')
+      InputName="In Use World Aligned"
+      Id=E320071B4D8A0A909E6ECB9F8057D2F8
+      InputType=FunctionInput_StaticBool
+      bUsePreviewValueAsDefault=True
+      SortPriority=10
+      MaterialExpressionEditorX=-4140
+      MaterialExpressionEditorY=-1520
+      MaterialExpressionGuid=7BCF1B5643E32475AB38F295A3360362
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_4"
+      Preview=(Expression=MaterialExpressionTextureObject'MF_GDC_Layersample_Mesh_01:MaterialExpressionTextureObject_5')
+      InputName="In Diffuse 01"
+      Id=AB95B7CD484F851368FE598F45A7E0BB
+      InputType=FunctionInput_Texture2D
+      MaterialExpressionEditorX=-4470
+      MaterialExpressionEditorY=-1123
+      MaterialExpressionGuid=71732565479C4A04B77A5F82D04AD80B
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_32"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_32')
+      InputName="In Blend Distance FARFAR"
+      Id=E69108B54AC2D38FFF74B3A40076D0C6
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=5
+      MaterialExpressionEditorX=-8467
+      MaterialExpressionEditorY=996
+      MaterialExpressionGuid=65F531E6462D008A0A895CB07B4CA5C8
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_31"
+      Preview=(Expression=MaterialExpressionStaticBool'MF_GDC_Layersample_Mesh_01:MaterialExpressionStaticBool_2')
+      InputName="In Use Diffuse Alpha as Modulation"
+      Id=29FEC1D14DE0576FF953C6985560EDAD
+      InputType=FunctionInput_StaticBool
+      SortPriority=9
+      MaterialExpressionEditorX=1211
+      MaterialExpressionEditorY=1913
+      MaterialExpressionGuid=AC296DE04C5CFC86FDCEB7A367AA49A4
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_3"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_3')
+      InputName="In Normal Far Intensity"
+      Id=706B43AC46D70ACA10390F988B8BB69A
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=21
+      MaterialExpressionEditorX=-3960
+      MaterialExpressionEditorY=460
+      MaterialExpressionGuid=7DF0D1E74B8A26B7F5639D9AB886B432
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_29"
+      Preview=(Expression=MaterialExpressionTextureObject'MF_GDC_Layersample_Mesh_01:MaterialExpressionTextureObject_9')
+      InputName="In Modulation 01"
+      Id=DF9A15724EEAE29B47C494AB6A383472
+      InputType=FunctionInput_Texture2D
+      bUsePreviewValueAsDefault=True
+      SortPriority=2
+      MaterialExpressionEditorX=-4268
+      MaterialExpressionEditorY=1450
+      MaterialExpressionGuid=65F8A5844CBE3996228007BA46DE7883
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_28"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_27')
+      InputName="In FARFAR Blend Detail"
+      Id=0C216C2A44AE64DB52412AB8E28D18DA
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=5
+      MaterialExpressionEditorX=-4820
+      MaterialExpressionEditorY=-1300
+      MaterialExpressionGuid=2127526C4C7A07A19B6050A97903F0AD
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_26"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_16')
+      InputName="In Tiling FarFAR"
+      Id=96336EE0476768F54988C68755A3A19E
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=5
+      MaterialExpressionEditorX=-8447
+      MaterialExpressionEditorY=796
+      MaterialExpressionGuid=47284A6F461629905F4F75870CFFDB61
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_24"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_7')
+      InputName="In Tiling Far"
+      Id=83B39F484CABD4F55D3D47A958449FBA
+      InputType=FunctionInput_Scalar
+      SortPriority=5
+      MaterialExpressionEditorX=-8443
+      MaterialExpressionEditorY=562
+      MaterialExpressionGuid=100210574648AF131849FB929B9087A2
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_22"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_7')
+      InputName="In Tiling Near"
+      Id=3D5F7F1B40FD84687DDF02BE2169CD1F
+      InputType=FunctionInput_Scalar
+      SortPriority=4
+      MaterialExpressionEditorX=-8467
+      MaterialExpressionEditorY=336
+      MaterialExpressionGuid=A6AF84F846560933BF66A79E3532A34F
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_21"
+      Preview=(Expression=MaterialExpressionTextureObject'MF_GDC_Layersample_Mesh_01:MaterialExpressionTextureObject_7')
+      InputName="In Normal 01"
+      Id=73EA07124605306792F1F89292047E73
+      InputType=FunctionInput_Texture2D
+      bUsePreviewValueAsDefault=True
+      SortPriority=1
+      MaterialExpressionEditorX=-4820
+      MaterialExpressionEditorY=520
+      MaterialExpressionGuid=6ED844774375085F55B7F1AFB00492E7
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_20"
+      Preview=(Expression=MaterialExpressionConstant4Vector'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant4Vector_1')
+      InputName="In Stripe Color"
+      Id=D2755D5D46E278A900FFAEA7D6778C4D
+      InputType=FunctionInput_Vector4
+      bUsePreviewValueAsDefault=True
+      SortPriority=12
+      MaterialExpressionEditorX=-9733
+      MaterialExpressionEditorY=-2118
+      MaterialExpressionGuid=FA50D8554766334F205C6985FDFBDCA5
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_2"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_0')
+      InputName="In Modulation Scale 1"
+      Id=AF9D55F64C1E489729A337A166777E7E
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=7
+      MaterialExpressionEditorX=-4775
+      MaterialExpressionEditorY=1282
+      MaterialExpressionGuid=D2C5EE3F487953C7165A26A5F293694D
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_18"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_13')
+      InputName="In Stripe Offset"
+      Id=473CD705423DAA22EA7E73B169279D24
+      InputType=FunctionInput_Scalar
+      SortPriority=5
+      MaterialExpressionEditorX=-9328
+      MaterialExpressionEditorY=-1672
+      MaterialExpressionGuid=576499E044BD51C549F1CEA2B32A7C9F
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_17"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_13')
+      InputName="In Stripe Scale"
+      Id=A2BD7615438624735AEEE3A9AF4EDDCB
+      InputType=FunctionInput_Scalar
+      SortPriority=4
+      MaterialExpressionEditorX=-9331
+      MaterialExpressionEditorY=-1861
+      MaterialExpressionGuid=D6E44139444652749EE939BA9CDF2476
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_14"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_15')
+      InputName="In Modulation Near"
+      Id=45A990A349461A64C28A13A64D8479F0
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=7
+      MaterialExpressionEditorX=97
+      MaterialExpressionEditorY=3538
+      MaterialExpressionGuid=A3522C4E43B73240140D959DEF1BD0A2
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_13"
+      Preview=(Expression=MaterialExpressionTextureObject'MF_GDC_Layersample_Mesh_01:MaterialExpressionTextureObject_4')
+      InputName="In World Stripe"
+      Id=4848FDD44F394CE6FB6FBC91DC4DE2D9
+      InputType=FunctionInput_Texture2D
+      bUsePreviewValueAsDefault=True
+      SortPriority=2
+      MaterialExpressionEditorX=-9172
+      MaterialExpressionEditorY=-2376
+      MaterialExpressionGuid=5DA5A8544B65D3AE165FF0ADAA63B749
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_11"
+      Preview=(Expression=MaterialExpressionTextureObject'MF_GDC_Layersample_Mesh_01:MaterialExpressionTextureObject_3')
+      InputName="In Normal 01 Detail"
+      Id=861D837F42233E452215C4A8BB91C1BB
+      InputType=FunctionInput_Texture2D
+      bUsePreviewValueAsDefault=True
+      SortPriority=1
+      MaterialExpressionEditorX=-68
+      MaterialExpressionEditorY=1551
+      MaterialExpressionGuid=E93EF0154DCA05FB7205C1AEE9DEA600
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_10"
+      Preview=(Expression=MaterialExpressionConstant'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant_20')
+      InputName="In Normal Tiling"
+      Id=F478E2934061DA99107E4EBF2C9394E2
+      InputType=FunctionInput_Scalar
+      bUsePreviewValueAsDefault=True
+      SortPriority=5
+      MaterialExpressionEditorX=-8447
+      MaterialExpressionEditorY=1276
+      MaterialExpressionGuid=7A80947D457F7A98105310831F7CFB36
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionFunctionInput_1"
+      Preview=(Expression=MaterialExpressionConstant4Vector'MF_GDC_Layersample_Mesh_01:MaterialExpressionConstant4Vector_2')
+      InputName="In Color"
+      Id=E95A5ACC438C3F3F65172584AE66C091
+      InputType=FunctionInput_Vector4
+      bUsePreviewValueAsDefault=True
+      SortPriority=12
+      MaterialExpressionEditorX=-3640
+      MaterialExpressionEditorY=-2880
+      MaterialExpressionGuid=A67DFA8B4625DAE40C2484A9BE51137F
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant4Vector_2"
+      Constant=(R=1.000000,G=1.000000,B=1.000000,A=1.000000)
+      MaterialExpressionEditorX=-3912
+      MaterialExpressionEditorY=-2818
+      MaterialExpressionGuid=F88F54C04E49D7BF9B8CAEA6863B0416
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant4Vector_1"
+      Constant=(R=1.000000,G=1.000000,B=1.000000,A=1.000000)
+      MaterialExpressionEditorX=-9872
+      MaterialExpressionEditorY=-2116
+      MaterialExpressionGuid=C0A9D4C648948442CC79968BA2B3098C
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_6"
+      Constant=(R=1.000000,G=1.000000,B=0.000000,A=0.000000)
+      MaterialExpressionEditorX=820
+      MaterialExpressionEditorY=1701
+      MaterialExpressionGuid=EF13E50646F117B379812F89399721A8
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_5"
+      Constant=(R=1.000000,G=1.000000,B=1.000000,A=0.000000)
+      MaterialExpressionEditorX=-233
+      MaterialExpressionEditorY=606
+      MaterialExpressionGuid=E54833EF485E918223C9CF9A1E6BA2A5
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_3"
+      Constant=(R=0.000000,G=0.000000,B=1.000000,A=0.000000)
+      MaterialExpressionEditorX=-4440
+      MaterialExpressionEditorY=-120
+      MaterialExpressionGuid=468783064E6D58FA8DB6AF931C11A929
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionConstant_96"
+      R=0.500000
+      MaterialExpressionEditorX=-8420
+      MaterialExpressionEditorY=2700
+      MaterialExpressionGuid=0422F30843484CC029EAF89204EE6E21
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_95"
+      R=1.000000
+      MaterialExpressionEditorX=-8080
+      MaterialExpressionEditorY=2540
+      MaterialExpressionGuid=5EDBCC114180B35AA9D41AB131DBEFAD
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_8"
+      R=1.000000
+      MaterialExpressionEditorX=680
+      MaterialExpressionEditorY=-516
+      MaterialExpressionGuid=41CD702747BDBF02F115E2A4D7532485
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_7"
+      R=1.000000
+      MaterialExpressionEditorX=-8607
+      MaterialExpressionEditorY=436
+      MaterialExpressionGuid=5F8FA9CA4D326F763E8686B21EAB2AD8
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_5"
+      R=0.100000
+      MaterialExpressionEditorX=840
+      MaterialExpressionEditorY=-136
+      MaterialExpressionGuid=5AACAEA04F95E0670D4F9896D58A2D92
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_32"
+      R=64.000000
+      MaterialExpressionEditorX=-8567
+      MaterialExpressionEditorY=1016
+      MaterialExpressionGuid=0702BFFD47F9C11C836EB9BEA73BBD4B
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_3"
+      R=1.000000
+      MaterialExpressionEditorX=-4080
+      MaterialExpressionEditorY=500
+      MaterialExpressionGuid=6436A6604DC59949F9E8D7BD47E05C15
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_29"
+      R=1.000000
+      MaterialExpressionEditorX=517
+      MaterialExpressionEditorY=3558
+      MaterialExpressionGuid=5B6A46014021637293958FBFB032AE98
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_28"
+      R=0.500000
+      MaterialExpressionEditorX=945
+      MaterialExpressionEditorY=-2335
+      MaterialExpressionGuid=8C31E454472054452968D6A0C66EA35D
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_27"
+      R=0.500000
+      MaterialExpressionEditorX=-4960
+      MaterialExpressionEditorY=-1300
+      MaterialExpressionGuid=F0BB893B4223BA77B052DB8F71A1EA07
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_26"
+      R=1.000000
+      MaterialExpressionEditorX=757
+      MaterialExpressionEditorY=-2358
+      MaterialExpressionGuid=C22089A146823781B056AFBAF385A907
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_22"
+      R=1.000000
+      MaterialExpressionEditorX=731
+      MaterialExpressionEditorY=-1333
+      MaterialExpressionGuid=1A280403415AF2EB7F9E988BD0F94F5A
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_20"
+      R=1.000000
+      MaterialExpressionEditorX=-8527
+      MaterialExpressionEditorY=1296
+      MaterialExpressionGuid=09798A854B3545B2EE563E8691845CB4
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_19"
+      MaterialExpressionEditorX=-5560
+      MaterialExpressionEditorY=280
+      MaterialExpressionGuid=E00A6DF04DCB2E84097324B5956B62AF
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_17"
+      R=0.100000
+      MaterialExpressionEditorX=640
+      MaterialExpressionEditorY=-376
+      MaterialExpressionGuid=C276A8C34F00B69CA393A2931AE0E57C
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_16"
+      R=64.000000
+      MaterialExpressionEditorX=-8567
+      MaterialExpressionEditorY=816
+      MaterialExpressionGuid=5A0501834AEE86EF8BDC42AA2010ADEC
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_15"
+      R=0.500000
+      MaterialExpressionEditorX=-22
+      MaterialExpressionEditorY=3538
+      MaterialExpressionGuid=B466A0BD4E9B9641359F6AA0B35CCAE2
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_13"
+      R=1.000000
+      MaterialExpressionEditorX=-9472
+      MaterialExpressionEditorY=-1736
+      MaterialExpressionGuid=85AC0EAD41CD69B2D8FF6CB28A6E4F11
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_11"
+      R=2.000000
+      MaterialExpressionEditorX=1000
+      MaterialExpressionEditorY=-536
+      MaterialExpressionGuid=4CA709DC49C540225BA10BAD38E98EA3
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_10"
+      R=128.000000
+      MaterialExpressionEditorX=-4711
+      MaterialExpressionEditorY=-382
+      MaterialExpressionGuid=18FB5A2C4FE8524472BB00A35A229B03
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_0"
+      R=1.000000
+      MaterialExpressionEditorX=-4900
+      MaterialExpressionEditorY=1340
+      MaterialExpressionGuid=C85FBB414ABCB1377A2283BD8A301842
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_2"
+      Input=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_1')
+      A=True
+      MaterialExpressionEditorX=-3363
+      MaterialExpressionEditorY=-2740
+      MaterialExpressionGuid=7014E6F44EF43244B561BFBF4876BEF2
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_14"
+      Input=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_20')
+      A=True
+      MaterialExpressionEditorX=-9392
+      MaterialExpressionEditorY=-2056
+      MaterialExpressionGuid=C62021DE496D9C8A80D49EB46C5541BF
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_13"
+      Input=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_20')
+      R=True
+      G=True
+      B=True
+      MaterialExpressionEditorX=-9392
+      MaterialExpressionEditorY=-2136
+      MaterialExpressionGuid=943CD31C4902B23C6B0EABB5D7BDD7A4
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_0"
+      Input=(Expression=MaterialExpressionFunctionInput'MF_GDC_Layersample_Mesh_01:MaterialExpressionFunctionInput_1')
+      R=True
+      G=True
+      B=True
+      MaterialExpressionEditorX=-3360
+      MaterialExpressionEditorY=-2908
+      MaterialExpressionGuid=44F5F9E9499EC93EF82F3FB3FAAD68FF
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionComment_9"
+      SizeX=1380
+      SizeY=400
+      Text="FAR FAR Modulation, WorldAlignOnly"
+      MaterialExpressionEditorX=405
+      MaterialExpressionEditorY=-1555
+      MaterialExpressionGuid=F6292AE34A3F0EBEAFAC70A2454588BE
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionComment_8"
+      SizeX=1120
+      SizeY=1160
+      Text="World Stripe"
+      MaterialExpressionEditorX=-9900
+      MaterialExpressionEditorY=-2580
+      MaterialExpressionGuid=30CFF8B74C33EEBFD373CC816717C6DC
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionComment_7"
+      SizeX=2152
+      SizeY=3316
+      Text="Inputs"
+      MaterialExpressionEditorX=-5622
+      MaterialExpressionEditorY=-1582
+      MaterialExpressionGuid=1B19B0124CE70FA2FAFE38A2CA4A702E
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionComment_6"
+      SizeX=986
+      SizeY=381
+      Text="Color"
+      MaterialExpressionEditorX=-4080
+      MaterialExpressionEditorY=-2980
+      MaterialExpressionGuid=69300122428673C8E83A0F918798608F
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionComment_5"
+      SizeX=1220
+      SizeY=820
+      Text="Blend Modulation"
+      MaterialExpressionEditorX=-40
+      MaterialExpressionEditorY=2980
+      MaterialExpressionGuid=EE96E253478D21D968162AB6E7031E7A
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionComment_4"
+      SizeX=460
+      SizeY=560
+      Text="Modulation"
+      MaterialExpressionEditorX=3511
+      MaterialExpressionEditorY=-541
+      MaterialExpressionGuid=BB3F730A4D5FC9972CF6EFBB69490703
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionComment_3"
+      SizeX=1700
+      SizeY=940
+      Text="Diffuse Alpha"
+      MaterialExpressionEditorX=180
+      MaterialExpressionEditorY=-2980
+      MaterialExpressionGuid=9820110340733D48627F00AED7C84CAD
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionComment_2"
+      SizeX=1315
+      SizeY=1055
+      Text="Normal"
+      MaterialExpressionEditorX=-40
+      MaterialExpressionEditorY=1080
+      MaterialExpressionGuid=49E6F42E40D568A2EBA861942DBF9BD4
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionComment_1"
+      SizeX=640
+      SizeY=1260
+      Text="UVs"
+      MaterialExpressionEditorX=-8700
+      MaterialExpressionEditorY=280
+      MaterialExpressionGuid=84A506274ECD60BF5B3FF998A6008446
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionComment_0"
+      SizeX=1800
+      SizeY=940
+      Text="Diffuse"
+      MaterialExpressionEditorX=142
+      MaterialExpressionEditorY=-808
+      MaterialExpressionGuid=958F17AC46F78C5F877E2397DDE19929
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_5"
+      A=(Expression=MaterialExpressionMultiply'MF_GDC_Layersample_Mesh_01:MaterialExpressionMultiply_1')
+      B=(Expression=MaterialExpressionLinearInterpolate'MF_GDC_Layersample_Mesh_01:MaterialExpressionLinearInterpolate_6')
+      MaterialExpressionEditorX=3693
+      MaterialExpressionEditorY=-168
+      MaterialExpressionGuid=A823AEC2422DC01268DAE4A5064E6A84
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_3"
+      A=(Expression=MaterialExpressionMultiply'MF_GDC_Layersample_Mesh_01:MaterialExpressionMultiply_1')
+      B=(Expression=MaterialExpressionStaticSwitch'MF_GDC_Layersample_Mesh_01:MaterialExpressionStaticSwitch_5')
+      MaterialExpressionEditorX=3691
+      MaterialExpressionEditorY=-401
+      MaterialExpressionGuid=D1A8D4604DF5315FAFEC4686B9769783
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_0"
+      A=(Expression=MaterialExpressionMultiply'MF_GDC_Layersample_Mesh_01:MaterialExpressionMultiply_11')
+      B=(Expression=MaterialExpressionMultiply'MF_GDC_Layersample_Mesh_01:MaterialExpressionMultiply_16')
+      MaterialExpressionEditorX=890
+      MaterialExpressionEditorY=1190
+      MaterialExpressionGuid=92D74EED4CC3CA92806F9394FC0DD618
+      Function=MaterialFunction'MF_GDC_Layersample_Mesh_01'
+   End Object
+   FunctionExpressions(0)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_0'
+   FunctionExpressions(1)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_0'
+   FunctionExpressions(2)=MaterialExpressionTextureObject'MaterialExpressionTextureObject_5'
+   FunctionExpressions(3)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_4'
+   FunctionExpressions(4)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_2'
+   FunctionExpressions(5)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_21'
+   FunctionExpressions(6)=MaterialExpressionTextureObject'MaterialExpressionTextureObject_7'
+   FunctionExpressions(7)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_22'
+   FunctionExpressions(8)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_24'
+   FunctionExpressions(9)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_4'
+   FunctionExpressions(10)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_0'
+   FunctionExpressions(11)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_29'
+   FunctionExpressions(12)=MaterialExpressionTextureObject'MaterialExpressionTextureObject_9'
+   FunctionExpressions(13)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_17'
+   FunctionExpressions(14)=MaterialExpressionStaticSwitch'MaterialExpressionStaticSwitch_0'
+   FunctionExpressions(15)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_31'
+   FunctionExpressions(16)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_6'
+   FunctionExpressions(17)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_2'
+   FunctionExpressions(18)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_19'
+   FunctionExpressions(19)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_21'
+   FunctionExpressions(20)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_4'
+   FunctionExpressions(21)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_9'
+   FunctionExpressions(22)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_10'
+   FunctionExpressions(23)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_3'
+   FunctionExpressions(24)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_5'
+   FunctionExpressions(25)=MaterialExpressionStaticBool'MaterialExpressionStaticBool_2'
+   FunctionExpressions(26)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_13'
+   FunctionExpressions(27)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_6'
+   FunctionExpressions(28)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_14'
+   FunctionExpressions(29)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_23'
+   FunctionExpressions(30)=MaterialExpressionStaticSwitch'MaterialExpressionStaticSwitch_2'
+   FunctionExpressions(31)=MaterialExpressionStaticSwitch'MaterialExpressionStaticSwitch_4'
+   FunctionExpressions(32)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_66'
+   FunctionExpressions(33)=MaterialExpressionConstant'MaterialExpressionConstant_19'
+   FunctionExpressions(34)=MaterialExpressionMultiply'MaterialExpressionMultiply_1'
+   FunctionExpressions(35)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_1'
+   FunctionExpressions(36)=MaterialExpressionConstant4Vector'MaterialExpressionConstant4Vector_2'
+   FunctionExpressions(37)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_0'
+   FunctionExpressions(38)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_2'
+   FunctionExpressions(39)=MaterialExpressionMultiply'MaterialExpressionMultiply_2'
+   FunctionExpressions(40)=MaterialExpressionMultiply'MaterialExpressionMultiply_0'
+   FunctionExpressions(41)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_2'
+   FunctionExpressions(42)=MaterialExpressionConstant'MaterialExpressionConstant_0'
+   FunctionExpressions(43)=MaterialExpressionMultiply'MaterialExpressionMultiply_4'
+   FunctionExpressions(44)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_7'
+   FunctionExpressions(45)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_12'
+   FunctionExpressions(46)=MaterialExpressionConstant3Vector'MaterialExpressionConstant3Vector_3'
+   FunctionExpressions(47)=MaterialExpressionConstant3Vector'MaterialExpressionConstant3Vector_5'
+   FunctionExpressions(48)=MaterialExpressionMultiply'MaterialExpressionMultiply_11'
+   FunctionExpressions(49)=MaterialExpressionMultiply'MaterialExpressionMultiply_13'
+   FunctionExpressions(50)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_14'
+   FunctionExpressions(51)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_3'
+   FunctionExpressions(52)=MaterialExpressionConstant'MaterialExpressionConstant_3'
+   FunctionExpressions(53)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_8'
+   FunctionExpressions(54)=MaterialExpressionAdd'MaterialExpressionAdd_0'
+   FunctionExpressions(55)=MaterialExpressionMultiply'MaterialExpressionMultiply_16'
+   FunctionExpressions(56)=MaterialExpressionConstant3Vector'MaterialExpressionConstant3Vector_6'
+   FunctionExpressions(57)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_0'
+   FunctionExpressions(58)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_2'
+   FunctionExpressions(59)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_3'
+   FunctionExpressions(60)=MaterialExpressionConstant'MaterialExpressionConstant_7'
+   FunctionExpressions(61)=MaterialExpressionMultiply'MaterialExpressionMultiply_12'
+   FunctionExpressions(62)=MaterialExpressionMultiply'MaterialExpressionMultiply_15'
+   FunctionExpressions(63)=MaterialExpressionConstant'MaterialExpressionConstant_10'
+   FunctionExpressions(64)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_5'
+   FunctionExpressions(65)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_6'
+   FunctionExpressions(66)=MaterialExpressionStaticSwitch'MaterialExpressionStaticSwitch_3'
+   FunctionExpressions(67)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_5'
+   FunctionExpressions(68)=MaterialExpressionStaticBool'MaterialExpressionStaticBool_3'
+   FunctionExpressions(69)=MaterialExpressionStaticSwitch'MaterialExpressionStaticSwitch_6'
+   FunctionExpressions(70)=MaterialExpressionStaticSwitch'MaterialExpressionStaticSwitch_10'
+   FunctionExpressions(71)=MaterialExpressionStaticSwitch'MaterialExpressionStaticSwitch_12'
+   FunctionExpressions(72)=MaterialExpressionStaticSwitch'MaterialExpressionStaticSwitch_14'
+   FunctionExpressions(73)=MaterialExpressionStaticSwitch'MaterialExpressionStaticSwitch_16'
+   FunctionExpressions(74)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_5'
+   FunctionExpressions(75)=MaterialExpressionConstant'MaterialExpressionConstant_26'
+   FunctionExpressions(76)=MaterialExpressionConstant'MaterialExpressionConstant_28'
+   FunctionExpressions(77)=MaterialExpressionFunctionOutput'MaterialExpressionFunctionOutput_6'
+   FunctionExpressions(78)=MaterialExpressionStaticSwitch'MaterialExpressionStaticSwitch_8'
+   FunctionExpressions(79)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_95'
+   FunctionExpressions(80)=MaterialExpressionConstant'MaterialExpressionConstant_95'
+   FunctionExpressions(81)=MaterialExpressionConstant'MaterialExpressionConstant_96'
+   FunctionExpressions(82)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_45'
+   FunctionExpressions(83)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_24'
+   FunctionExpressions(84)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_25'
+   FunctionExpressions(85)=MaterialExpressionConstant'MaterialExpressionConstant_29'
+   FunctionExpressions(86)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_14'
+   FunctionExpressions(87)=MaterialExpressionConstant'MaterialExpressionConstant_15'
+   FunctionExpressions(88)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_13'
+   FunctionExpressions(89)=MaterialExpressionTextureObject'MaterialExpressionTextureObject_4'
+   FunctionExpressions(90)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_17'
+   FunctionExpressions(91)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_18'
+   FunctionExpressions(92)=MaterialExpressionConstant'MaterialExpressionConstant_13'
+   FunctionExpressions(93)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_13'
+   FunctionExpressions(94)=MaterialExpressionMultiply'MaterialExpressionMultiply_6'
+   FunctionExpressions(95)=MaterialExpressionConstant4Vector'MaterialExpressionConstant4Vector_1'
+   FunctionExpressions(96)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_20'
+   FunctionExpressions(97)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_14'
+   FunctionExpressions(98)=MaterialExpressionStaticSwitch'MaterialExpressionStaticSwitch_5'
+   FunctionExpressions(99)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_15'
+   FunctionExpressions(100)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_7'
+   FunctionExpressions(101)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_26'
+   FunctionExpressions(102)=MaterialExpressionConstant'MaterialExpressionConstant_16'
+   FunctionExpressions(103)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_17'
+   FunctionExpressions(104)=MaterialExpressionConstant'MaterialExpressionConstant_22'
+   FunctionExpressions(105)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_19'
+   FunctionExpressions(106)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_28'
+   FunctionExpressions(107)=MaterialExpressionConstant'MaterialExpressionConstant_27'
+   FunctionExpressions(108)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_32'
+   FunctionExpressions(109)=MaterialExpressionConstant'MaterialExpressionConstant_32'
+   FunctionExpressions(110)=MaterialExpressionMultiply'MaterialExpressionMultiply_10'
+   FunctionExpressions(111)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_10'
+   FunctionExpressions(112)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_16'
+   FunctionExpressions(113)=MaterialExpressionConstant'MaterialExpressionConstant_5'
+   FunctionExpressions(114)=MaterialExpressionMultiply'MaterialExpressionMultiply_5'
+   FunctionExpressions(115)=MaterialExpressionConstant'MaterialExpressionConstant_8'
+   FunctionExpressions(116)=MaterialExpressionConstant'MaterialExpressionConstant_11'
+   FunctionExpressions(117)=MaterialExpressionMultiply'MaterialExpressionMultiply_9'
+   FunctionExpressions(118)=MaterialExpressionConstant'MaterialExpressionConstant_17'
+   FunctionExpressions(119)=MaterialExpressionMultiply'MaterialExpressionMultiply_14'
+   FunctionExpressions(120)=MaterialExpressionMultiply'MaterialExpressionMultiply_18'
+   FunctionExpressions(121)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_10'
+   FunctionExpressions(122)=MaterialExpressionConstant'MaterialExpressionConstant_20'
+   FunctionExpressions(123)=MaterialExpressionNormalize'MaterialExpressionNormalize_0'
+   FunctionExpressions(124)=MaterialExpressionStaticBool'MaterialExpressionStaticBool_1'
+   FunctionExpressions(125)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_6'
+   FunctionExpressions(126)=MaterialExpressionStaticSwitch'MaterialExpressionStaticSwitch_7'
+   FunctionExpressions(127)=MaterialExpressionStaticSwitch'MaterialExpressionStaticSwitch_11'
+   FunctionExpressions(128)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_7'
+   FunctionExpressions(129)=MaterialExpressionTextureObject'MaterialExpressionTextureObject_1'
+   FunctionExpressions(130)=MaterialExpressionFunctionInput'MaterialExpressionFunctionInput_11'
+   FunctionExpressions(131)=MaterialExpressionTextureObject'MaterialExpressionTextureObject_3'
+   FunctionEditorComments(0)=MaterialExpressionComment'MaterialExpressionComment_0'
+   FunctionEditorComments(1)=MaterialExpressionComment'MaterialExpressionComment_1'
+   FunctionEditorComments(2)=MaterialExpressionComment'MaterialExpressionComment_2'
+   FunctionEditorComments(3)=MaterialExpressionComment'MaterialExpressionComment_3'
+   FunctionEditorComments(4)=MaterialExpressionComment'MaterialExpressionComment_4'
+   FunctionEditorComments(5)=MaterialExpressionComment'MaterialExpressionComment_5'
+   FunctionEditorComments(6)=MaterialExpressionComment'MaterialExpressionComment_6'
+   FunctionEditorComments(7)=MaterialExpressionComment'MaterialExpressionComment_8'
+   FunctionEditorComments(8)=MaterialExpressionComment'MaterialExpressionComment_9'
+   FunctionEditorComments(9)=MaterialExpressionComment'MaterialExpressionComment_7'
+   CombinedInputTypes=95
+   CombinedOutputTypes=15
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_25'
+End Object

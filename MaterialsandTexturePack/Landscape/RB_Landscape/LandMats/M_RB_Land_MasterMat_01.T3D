@@ -1,0 +1,1881 @@
+Begin Object Class=/Script/Engine.Material Name="M_RB_Land_MasterMat_01"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_15"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObjectParameter Name="MaterialExpressionTextureObjectParameter_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObjectParameter Name="MaterialExpressionTextureObjectParameter_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObjectParameter Name="MaterialExpressionTextureObjectParameter_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObjectParameter Name="MaterialExpressionTextureObjectParameter_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObjectParameter Name="MaterialExpressionTextureObjectParameter_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObjectParameter Name="MaterialExpressionTextureObjectParameter_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObjectParameter Name="MaterialExpressionTextureObjectParameter_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObjectParameter Name="MaterialExpressionTextureObjectParameter_17"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObjectParameter Name="MaterialExpressionTextureObjectParameter_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObjectParameter Name="MaterialExpressionTextureObjectParameter_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObjectParameter Name="MaterialExpressionTextureObjectParameter_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObjectParameter Name="MaterialExpressionTextureObjectParameter_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObjectParameter Name="MaterialExpressionTextureObjectParameter_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureObjectParameter Name="MaterialExpressionTextureObjectParameter_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitchParameter Name="MaterialExpressionStaticSwitchParameter_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitchParameter Name="MaterialExpressionStaticSwitchParameter_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitchParameter Name="MaterialExpressionStaticSwitchParameter_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitchParameter Name="MaterialExpressionStaticSwitchParameter_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitchParameter Name="MaterialExpressionStaticSwitchParameter_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticBoolParameter Name="MaterialExpressionStaticBoolParameter_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticBoolParameter Name="MaterialExpressionStaticBoolParameter_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticBoolParameter Name="MaterialExpressionStaticBoolParameter_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticBoolParameter Name="MaterialExpressionStaticBoolParameter_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticBoolParameter Name="MaterialExpressionStaticBoolParameter_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticBoolParameter Name="MaterialExpressionStaticBoolParameter_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticBoolParameter Name="MaterialExpressionStaticBoolParameter_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticBoolParameter Name="MaterialExpressionStaticBoolParameter_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticBoolParameter Name="MaterialExpressionStaticBoolParameter_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticBoolParameter Name="MaterialExpressionStaticBoolParameter_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticBoolParameter Name="MaterialExpressionStaticBoolParameter_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticBoolParameter Name="MaterialExpressionStaticBoolParameter_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_73"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_72"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_66"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_64"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_63"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_62"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_61"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_59"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_58"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_57"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_56"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_55"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_53"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_52"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_51"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_50"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_49"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_48"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_47"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_46"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_45"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_44"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_43"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_39"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_37"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_34"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_33"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_32"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_31"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_30"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_29"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_28"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_27"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_26"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_25"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_24"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_23"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_22"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_21"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_20"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_19"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_18"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_17"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_16"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_15"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_16"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_29"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLightmassReplace Name="MaterialExpressionLightmassReplace_0"
+   End Object
+   Begin Object Class=/Script/Landscape.MaterialExpressionLandscapeLayerWeight Name="MaterialExpressionTerrainLayerWeight_6"
+   End Object
+   Begin Object Class=/Script/Landscape.MaterialExpressionLandscapeLayerWeight Name="MaterialExpressionTerrainLayerWeight_4"
+   End Object
+   Begin Object Class=/Script/Landscape.MaterialExpressionLandscapeLayerWeight Name="MaterialExpressionTerrainLayerWeight_2"
+   End Object
+   Begin Object Class=/Script/Landscape.MaterialExpressionLandscapeLayerWeight Name="MaterialExpressionTerrainLayerWeight_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_34"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_33"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_30"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_28"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_4"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_9"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_7"
+      DefaultValue=(R=0.500000,G=0.700000,B=1.000000,A=1.000000)
+      ParameterName="Snow Subsurface Color"
+      ExpressionGUID=CAEAB25A4011FD4CC2348ABD28B5AF60
+      MaterialExpressionEditorX=120
+      MaterialExpressionEditorY=1420
+      MaterialExpressionGuid=18E044B34E117DC82810869B8C0D5398
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_6"
+      DefaultValue=(R=1.000000,G=1.000000,B=1.000000,A=3.000000)
+      ParameterName="Stripe Color"
+      ExpressionGUID=2EFDFFE9442997A9D02C988602CCAD45
+      MaterialExpressionEditorX=-5072
+      MaterialExpressionEditorY=-1981
+      MaterialExpressionGuid=EFA54688468079AA64DA5289EF03577D
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_5"
+      DefaultValue=(R=1.000000,G=1.000000,B=1.000000,A=0.750000)
+      ParameterName="Dirt Color"
+      ExpressionGUID=00D963A443926CBEDEBC35AC6B65A18B
+      MaterialExpressionEditorX=-4526
+      MaterialExpressionEditorY=-447
+      MaterialExpressionGuid=440623FB4D2DF5ACEC526A9F052645B0
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_2"
+      DefaultValue=(R=1.000000,G=1.000000,B=1.000000,A=0.750000)
+      ParameterName="Snow Color"
+      ExpressionGUID=1C802ACB4B832A85D69F02A0053638F5
+      MaterialExpressionEditorX=-4918
+      MaterialExpressionEditorY=3822
+      MaterialExpressionGuid=AF067A7B41CEA08BE988E7A9C89BB725
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_15"
+      DefaultValue=(R=0.000000,G=0.000000,B=1.000000,A=0.000000)
+      ParameterName="Snow Vectorius"
+      ExpressionGUID=C409934D41EE2DFDDBA54596C55BB352
+      MaterialExpressionEditorX=-2212
+      MaterialExpressionEditorY=3666
+      MaterialExpressionGuid=406346414D4B5F51EEBB01A2BCECDA84
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_1"
+      DefaultValue=(R=1.000000,G=1.000000,B=1.000000,A=0.750000)
+      ParameterName="Grass Color"
+      ExpressionGUID=9CC521564E596F47280BD2ADAEA05182
+      MaterialExpressionEditorX=-4271
+      MaterialExpressionEditorY=1590
+      MaterialExpressionGuid=2651C0BC4549039F949FFF8C94013EC0
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=1.000000,G=1.000000,B=1.000000,A=0.750000)
+      ParameterName="Rock Color"
+      ExpressionGUID=3F3E874F40343ED2743FE694384970A1
+      MaterialExpressionEditorX=-4587
+      MaterialExpressionEditorY=-2442
+      MaterialExpressionGuid=660A536B4CFCBEED750D9E85F95597CB
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureObjectParameter_8"
+      ParameterName="Rock_01_Disp"
+      ExpressionGUID=097F65D149E56F9E36AC9B9EB3C324A3
+      Texture=None
+      MaterialExpressionEditorX=-5258
+      MaterialExpressionEditorY=-2728
+      MaterialExpressionGuid=0D98EE1F487A852BCA2179A9D9526E25
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureObjectParameter_7"
+      ParameterName="Rock_01_D"
+      ExpressionGUID=2909C35D428021EBCD149EAEC2151D82
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_RB_LS_Dirt_01_DispAlpha03.T_RB_LS_Dirt_01_DispAlpha03'
+      MaterialExpressionEditorX=-4431
+      MaterialExpressionEditorY=-3002
+      MaterialExpressionGuid=65EE02EB4E53C27A589BD7A49D6330AB
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureObjectParameter_6"
+      ParameterName="Rock_01_N"
+      ExpressionGUID=B89ED10440ACA76AA280F1B7FE729754
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_GDC_Rocktest_01_N.T_GDC_Rocktest_01_N'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-4433
+      MaterialExpressionEditorY=-2827
+      MaterialExpressionGuid=C82A1AAF4005CBBC4EC32CA51BE32145
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureObjectParameter_5"
+      ParameterName="Grass_01_N"
+      ExpressionGUID=87DAFD494BAA3867AA1181BBEC54A4FE
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_GDC_Rocktest_01_N.T_GDC_Rocktest_01_N'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-4117
+      MaterialExpressionEditorY=792
+      MaterialExpressionGuid=E72F7DC94DA16C36ED2DE9B4076016B7
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureObjectParameter_4"
+      ParameterName="Grass_01_D"
+      ExpressionGUID=C47455AA4640D353561D339F5B41C6D1
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_RB_LS_Dirt_01_DispAlpha03.T_RB_LS_Dirt_01_DispAlpha03'
+      MaterialExpressionEditorX=-4115
+      MaterialExpressionEditorY=617
+      MaterialExpressionGuid=681E719C4DE42DC6AA3EF097393F64C6
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureObjectParameter_3"
+      ParameterName="Dirt_01_N"
+      ExpressionGUID=33FD8D9B4A43BCACA72407B7AD21A8E6
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_GDC_Rocktest_01_N.T_GDC_Rocktest_01_N'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-4310
+      MaterialExpressionEditorY=-1095
+      MaterialExpressionGuid=4EF57B0E4D978D5AEFA904BD41E090EE
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureObjectParameter_2"
+      ParameterName="Dirt_01_D"
+      ExpressionGUID=15B705AD4673789F43090A8CF7E2D903
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_RB_LS_Dirt_01_DispAlpha03.T_RB_LS_Dirt_01_DispAlpha03'
+      MaterialExpressionEditorX=-4292
+      MaterialExpressionEditorY=-1262
+      MaterialExpressionGuid=2188C85A49B459DA5C6E9FB65974215E
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureObjectParameter_17"
+      ParameterName="Snow Edge Normal"
+      ExpressionGUID=0AFFAB3840C992671041EA857A65F0EF
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_LS_Rock_Softnormal_02.T_LS_Rock_Softnormal_02'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-2608
+      MaterialExpressionEditorY=4565
+      MaterialExpressionGuid=5F37A34E4F139A44FBDDF89372F7B3D5
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureObjectParameter_14"
+      ParameterName="Stripe"
+      ExpressionGUID=45A8A5C248BD63FD42A03BB9E1C37AAC
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_Canyon_Stripes_01.T_Canyon_Stripes_01'
+      MaterialExpressionEditorX=-4468
+      MaterialExpressionEditorY=-2965
+      MaterialExpressionGuid=AFEB649A4A9BE3E2B701BD8809E5EFC7
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureObjectParameter_13"
+      ParameterName="Dirt_01_Disp"
+      ExpressionGUID=C10887554B49617B6A79B29F912E49F1
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_RB_LS_Dirt_01_DispAlpha03.T_RB_LS_Dirt_01_DispAlpha03'
+      MaterialExpressionEditorX=-4717
+      MaterialExpressionEditorY=-948
+      MaterialExpressionGuid=B502EE8E4D07CC5A2C9531A41E6529A0
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureObjectParameter_12"
+      ParameterName="Grass_01_Disp"
+      ExpressionGUID=D0B45CCD40E9A4169C3B0FA93AC4018D
+      Texture=None
+      MaterialExpressionEditorX=-4541
+      MaterialExpressionEditorY=861
+      MaterialExpressionGuid=CFE2CDE74B06ACE620BC81850B6DB87F
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureObjectParameter_11"
+      ParameterName="Snow_01_N"
+      ExpressionGUID=5CA7B76543392E74C2B6759175D69553
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/SnowMound_01_N.SnowMound_01_N'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-4708
+      MaterialExpressionEditorY=2907
+      MaterialExpressionGuid=DA76526E4A8C9491FE9AC88EDEB17F91
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureObjectParameter_10"
+      ParameterName="Snow_01_D"
+      ExpressionGUID=BB733EB04928195F36BA7EB50E7CA91C
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_LS_Snow_01_D_Disp.T_LS_Snow_01_D_Disp'
+      MaterialExpressionEditorX=-4693
+      MaterialExpressionEditorY=2751
+      MaterialExpressionGuid=C6C12907466D6E47A18714A01EB178AF
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionTextureObjectParameter_1"
+      ParameterName="Snow_01_Disp"
+      ExpressionGUID=75441C3B4DC322A6C865E39505A9DE0E
+      Texture=Texture2D'/Game/Elemental/Landscape/RB_Landscape/Texture/T_LS_Snow_01_D_Disp.T_LS_Snow_01_D_Disp'
+      MaterialExpressionEditorX=-5116
+      MaterialExpressionEditorY=2803
+      MaterialExpressionGuid=C1258EC44B6968373E0BFEB76F698CFC
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitchParameter_6"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_12',OutputIndex=5)
+      B=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_3',OutputIndex=10)
+      ParameterName="Rock-Snow Only"
+      ExpressionGUID=827D14A74B869DCFDDF82E9918EC2A15
+      MaterialExpressionEditorX=-1378
+      MaterialExpressionEditorY=2178
+      MaterialExpressionGuid=43AA890D41D86522E12F88B31A66A272
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitchParameter_4"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_12',OutputIndex=4)
+      B=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_3',OutputIndex=9)
+      ParameterName="Rock-Snow Only"
+      ExpressionGUID=5A810BB3496C26F4DB09029F3F918791
+      MaterialExpressionEditorX=-1320
+      MaterialExpressionEditorY=2040
+      MaterialExpressionGuid=D0359F85424408475D2EB7A442DA91D0
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitchParameter_2"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_12',OutputIndex=2)
+      B=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_3',OutputIndex=3)
+      ParameterName="Rock-Snow Only"
+      ExpressionGUID=7D0D4BDB4511EFE761D126B010FAADCD
+      MaterialExpressionEditorX=-1768
+      MaterialExpressionEditorY=2106
+      MaterialExpressionGuid=FAE8155F44ECB285E4398089102D714F
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitchParameter_10"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_13',OutputIndex=3)
+      B=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_13',OutputIndex=2)
+      ParameterName="Snow Normal Edge"
+      ExpressionGUID=BA3B2B53454586F881BF369180A09656
+      MaterialExpressionEditorX=103
+      MaterialExpressionEditorY=2900
+      MaterialExpressionGuid=06528FE8463969BD674642B204D82AD8
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitchParameter_0"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_12',OutputIndex=1)
+      B=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_3')
+      ParameterName="Rock-Snow Only"
+      ExpressionGUID=07DBB9FB40A9232A6E3FEF8B3E9D2950
+      MaterialExpressionEditorX=-1765
+      MaterialExpressionEditorY=1976
+      MaterialExpressionGuid=EC32DD1F4175C3B2BBE5408602A160CC
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticBoolParameter_9"
+      DefaultValue=True
+      ParameterName="Rock World Aligned"
+      ExpressionGUID=97D9BDBF4099A12BE5A8A0827696BC07
+      MaterialExpressionEditorX=-4372
+      MaterialExpressionEditorY=-2112
+      MaterialExpressionGuid=7C9143364A40485442746BB4BC15F09C
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticBoolParameter_8"
+      ParameterName="Dirt use Bottom Modulation"
+      ExpressionGUID=4FA29FB044951176E5AB4885E78520F8
+      MaterialExpressionEditorX=-1705
+      MaterialExpressionEditorY=-847
+      MaterialExpressionGuid=39EC99924BAD8DBCCBC02D81322E0C8A
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticBoolParameter_7"
+      ParameterName="Snow Use Bottom Modulation"
+      ExpressionGUID=2612AF0944A8BFC8BDA1ECA9DF2C7C43
+      MaterialExpressionEditorX=-1952
+      MaterialExpressionEditorY=2908
+      MaterialExpressionGuid=3849E13F439D43FDBD895A802EB40C3C
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticBoolParameter_6"
+      DefaultValue=True
+      ParameterName="Grass use Bottom Modulation"
+      ExpressionGUID=74067252451187D9F13731944D6C4C79
+      MaterialExpressionEditorX=-2166
+      MaterialExpressionEditorY=1045
+      MaterialExpressionGuid=D4BDF1474991568135AE0D948F9577BB
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticBoolParameter_5"
+      ParameterName="Snow_01 Diffuse Alpha as Mod"
+      ExpressionGUID=4A8A74F04564CBC642CC0B91156AD4F4
+      MaterialExpressionEditorX=-4713
+      MaterialExpressionEditorY=3193
+      MaterialExpressionGuid=0292E5984518D3A34C9BDEA2C051FAF9
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticBoolParameter_3"
+      DefaultValue=True
+      ParameterName="Rock_01 Diffuse Alpha as Mod"
+      ExpressionGUID=2CD7780C41AC0ED92F0BE3AF188BCE1B
+      MaterialExpressionEditorX=-4410
+      MaterialExpressionEditorY=-2635
+      MaterialExpressionGuid=97A6A2554E80292C158C21BF2867BE25
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticBoolParameter_2"
+      DefaultValue=True
+      ParameterName="Grass_01 Diffuse Alpha as Mod"
+      ExpressionGUID=0A757A884B310F750968C1941D5B964F
+      MaterialExpressionEditorX=-4115
+      MaterialExpressionEditorY=1111
+      MaterialExpressionGuid=5161B941473E2C648B503687A280BEC4
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticBoolParameter_13"
+      DefaultValue=True
+      ParameterName="Rock World Aligned"
+      ExpressionGUID=EAC10A6149469B8CE8A896BA4AA6E11D
+      MaterialExpressionEditorX=-2611
+      MaterialExpressionEditorY=4787
+      MaterialExpressionGuid=1A5FD82A475FE1EB9FE4CABAA0914992
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticBoolParameter_12"
+      ParameterName="Dirt Flip TopBottom Modulation"
+      ExpressionGUID=179AC9A843F38F7985A5F3A8BA80A0EA
+      MaterialExpressionEditorX=-2008
+      MaterialExpressionEditorY=-880
+      MaterialExpressionGuid=3300ECF74E3AE8F5D335F6946058820D
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticBoolParameter_11"
+      ParameterName="Dirt World Aligned"
+      ExpressionGUID=866F8A71498B3B47B8778D830FA785D2
+      MaterialExpressionEditorX=-4895
+      MaterialExpressionEditorY=-338
+      MaterialExpressionGuid=91C0309B4DF900844762D6B2E54E7DDA
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticBoolParameter_10"
+      DefaultValue=True
+      ParameterName="Snow Use World Normal Mask"
+      ExpressionGUID=C9E1E88846AAF4C0D21EE08F261D548F
+      MaterialExpressionEditorX=-1930
+      MaterialExpressionEditorY=3325
+      MaterialExpressionGuid=1B660D324DDD2728B1AB49A2A0280FAE
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionStaticBoolParameter_1"
+      DefaultValue=True
+      ParameterName="Dirt_01 Diffuse Alpha as Mod"
+      ExpressionGUID=2A778CC74C5692C0ABC01A93C813CF00
+      MaterialExpressionEditorX=-4890
+      MaterialExpressionEditorY=-462
+      MaterialExpressionGuid=6810D17649406B52A7ED1DB009EBA64B
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_9"
+      DefaultValue=1.000000
+      ParameterName="Snow Tile Far"
+      ExpressionGUID=F8B6451E48387B6B3EBDF0BA09D83C5C
+      MaterialExpressionEditorX=-5613
+      MaterialExpressionEditorY=3303
+      MaterialExpressionGuid=B1AC60BE45DD04C37986C386F6AB2320
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_8"
+      DefaultValue=8.000000
+      ParameterName="Snow Tile Near"
+      ExpressionGUID=9CDFBBC248071DB0B18E6DA96AE13C2C
+      MaterialExpressionEditorX=-5602
+      MaterialExpressionEditorY=3126
+      MaterialExpressionGuid=B17CFA03498DBBC6C2957AAB5BBEF4F8
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_73"
+      DefaultValue=1.000000
+      ParameterName="World Modulation, Offset Max"
+      ExpressionGUID=B6085F204ED0AFA7FEF301B7874F5896
+      MaterialExpressionEditorX=-2370
+      MaterialExpressionEditorY=3351
+      MaterialExpressionGuid=FA7E77B34921DAC2E8406A8A6400934C
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_72"
+      ParameterName="World Modulation, Offset Min"
+      ExpressionGUID=1A3BD0A54A277404489DFEB9039CA509
+      MaterialExpressionEditorX=-2391
+      MaterialExpressionEditorY=3252
+      MaterialExpressionGuid=0F270AE84417D026BF77259DC7A01D4C
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_7"
+      DefaultValue=1.000000
+      ParameterName="Grass Density"
+      ExpressionGUID=32F9A10243B44B579E34369EFC463389
+      MaterialExpressionEditorX=-2281
+      MaterialExpressionEditorY=905
+      MaterialExpressionGuid=222D87484531044A658E0AB313C3C7A5
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_66"
+      DefaultValue=1.000000
+      ParameterName="Snow Edge Intensity"
+      ExpressionGUID=8530BBA94148516B4382669F738C55D1
+      MaterialExpressionEditorX=-2813
+      MaterialExpressionEditorY=5285
+      MaterialExpressionGuid=44AB86604C47DE52E1DB0DA2C6BD4080
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_64"
+      DefaultValue=0.500000
+      ParameterName="RoughnessMax"
+      ExpressionGUID=167B81424D729C20EAA654BF982F96DC
+      MaterialExpressionEditorX=420
+      MaterialExpressionEditorY=180
+      MaterialExpressionGuid=D273137248E010C16077978AD45F1F1E
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_63"
+      DefaultValue=0.500000
+      ParameterName="Snow Edge Far Intensity"
+      ExpressionGUID=C478352C4FC4817E2501BA8F48EF0D98
+      MaterialExpressionEditorX=-2790
+      MaterialExpressionEditorY=5146
+      MaterialExpressionGuid=722A69044A4931D88703FBA1225BFDA8
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_62"
+      DefaultValue=0.800000
+      ParameterName="RoughnessMin"
+      ExpressionGUID=C015A4AF4B08BC881A641C8752C07D1D
+      MaterialExpressionEditorX=426
+      MaterialExpressionEditorY=95
+      MaterialExpressionGuid=E2AE7C1647C04B214F336692347408E1
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_61"
+      DefaultValue=0.500000
+      ParameterName="Snow Edge Near Intensity"
+      ExpressionGUID=34A8D04944BDF16C21F3C691CAC6C93A
+      MaterialExpressionEditorX=-2771
+      MaterialExpressionEditorY=4997
+      MaterialExpressionGuid=C1C9E58B4384C1978125B29067B6287D
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_6"
+      DefaultValue=1.000000
+      ParameterName="Grass Tile Far"
+      ExpressionGUID=D6BC31404CB168441B48D4A3E30B13D6
+      MaterialExpressionEditorX=-5035
+      MaterialExpressionEditorY=1170
+      MaterialExpressionGuid=B16845F1480B86FD7E8E86828998B84E
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_59"
+      DefaultValue=1.000000
+      ParameterName="Snow Normal Tiling"
+      ExpressionGUID=607136BA42558C112B5C8CA47E60384D
+      MaterialExpressionEditorX=-4748
+      MaterialExpressionEditorY=3532
+      MaterialExpressionGuid=666EF69749928F3796F4FB959BFFB002
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_58"
+      DefaultValue=1.000000
+      ParameterName="Grass Layer Contrast"
+      ExpressionGUID=90A6AD8846E841E415169786DB803E3C
+      MaterialExpressionEditorX=-2167
+      MaterialExpressionEditorY=885
+      MaterialExpressionGuid=A1B73F744F7AF8C20BCAC5AB3D072CF4
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_57"
+      DefaultValue=1.000000
+      ParameterName="Snow Layer Contrast"
+      ExpressionGUID=9880778F4535CD6A6E5085A19B10BD33
+      MaterialExpressionEditorX=-1650
+      MaterialExpressionEditorY=2988
+      MaterialExpressionGuid=6C99F6DA4E99E7E29296C690218707A0
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_56"
+      DefaultValue=0.250000
+      ParameterName="Grass Modulation Near "
+      ExpressionGUID=82BB036F498EBDFD13D25EAF1F1327CA
+      MaterialExpressionEditorX=-4090
+      MaterialExpressionEditorY=476
+      MaterialExpressionGuid=716A6A75459E483F3D05A19888BF02C9
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_55"
+      DefaultValue=1.000000
+      ParameterName="FARFAR Blend Distance"
+      ExpressionGUID=92C1EDF6461F121CD55933BCAF4A09E4
+      MaterialExpressionEditorX=-4927
+      MaterialExpressionEditorY=-3426
+      MaterialExpressionGuid=42A1A2284CB96204268C0DA51B4A8C34
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_53"
+      DefaultValue=1.000000
+      ParameterName="Rock FARFAR Modulation Dominance"
+      ExpressionGUID=8337FD1649530655E4B17E951D6EAB21
+      MaterialExpressionEditorX=-4895
+      MaterialExpressionEditorY=-2997
+      MaterialExpressionGuid=AE9D820047BAC0490DA21D8A8F6781B7
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_52"
+      DefaultValue=0.360000
+      ParameterName="Grass Normal Tiling"
+      ExpressionGUID=BFB3671145BEC786750623A4E8BF8D22
+      MaterialExpressionEditorX=-4158
+      MaterialExpressionEditorY=1450
+      MaterialExpressionGuid=415DEF1D4F129079AB21119328974608
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_51"
+      DefaultValue=1.000000
+      ParameterName="Rock FARFAR Modulation Scale"
+      ExpressionGUID=62FF35B7403E9FBB417AFCAA7D12646E
+      MaterialExpressionEditorX=-4896
+      MaterialExpressionEditorY=-3190
+      MaterialExpressionGuid=B63091404244DE74514047A8C95941A9
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_50"
+      DefaultValue=0.250000
+      ParameterName="Snow Emissive"
+      ExpressionGUID=635311CB49906915A5B48AA207B83F22
+      MaterialExpressionEditorX=368
+      MaterialExpressionEditorY=1281
+      MaterialExpressionGuid=4A785F674256D2B157083FB3B682A56E
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_5"
+      DefaultValue=1.000000
+      ParameterName="Rock Tile Far"
+      ExpressionGUID=FD95D23A425E35A7C7EFEABB0C8B3E8E
+      MaterialExpressionEditorX=-5991
+      MaterialExpressionEditorY=-2661
+      MaterialExpressionGuid=3DAA15B2460BF95006B9789E57246265
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_49"
+      DefaultValue=0.250000
+      ParameterName="Dirt Modulation Near "
+      ExpressionGUID=709CC1284F3B519AD39958A4A57F65A8
+      MaterialExpressionEditorX=-4602
+      MaterialExpressionEditorY=-1260
+      MaterialExpressionGuid=1C4B95394BBBC0B9E0CE6B9D2847F43F
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_48"
+      DefaultValue=0.500000
+      ParameterName="Snow Displacement Intensity"
+      ExpressionGUID=B9D3AEB640B82339587E9F99C25B2324
+      MaterialExpressionEditorX=-1545
+      MaterialExpressionEditorY=3491
+      MaterialExpressionGuid=703BEE424EFD64A4EF7306951EE92CA9
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_47"
+      DefaultValue=1.000000
+      ParameterName="Snow Bottom Offset"
+      ExpressionGUID=CA2EA5AF4A5DA8F4039C5E9918F08A54
+      MaterialExpressionEditorX=-1675
+      MaterialExpressionEditorY=2481
+      MaterialExpressionGuid=549B9C954E22474B5A70F9A5FD326D7A
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_46"
+      DefaultValue=0.500000
+      ParameterName="Grass Displacement Intensity"
+      ExpressionGUID=D91AAA2449464D30E93731B064C93F48
+      MaterialExpressionEditorX=-2155
+      MaterialExpressionEditorY=1421
+      MaterialExpressionGuid=977726994FD0604257147DB67BF9799D
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_45"
+      ParameterName="World Modulation Min"
+      ExpressionGUID=9322675149A1844296D3B5992ED3191B
+      MaterialExpressionEditorX=-2236
+      MaterialExpressionEditorY=3040
+      MaterialExpressionGuid=2DE5C1CF4FB8244394E8E78C125D6082
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_44"
+      DefaultValue=0.200000
+      ParameterName="Dirt Displacement Intensity"
+      ExpressionGUID=10013E1E4A1A522C15771B81F2F5E803
+      MaterialExpressionEditorX=-1662
+      MaterialExpressionEditorY=-355
+      MaterialExpressionGuid=7283B2C844870D5E0A9FCDBB29FDD206
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_43"
+      DefaultValue=1.000000
+      ParameterName="World Modulation Max"
+      ExpressionGUID=35788A104D68029B6D17FEA068C62B3A
+      MaterialExpressionEditorX=-2186
+      MaterialExpressionEditorY=3123
+      MaterialExpressionGuid=CF43976548D0C9880A24DC87B78555DA
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_4"
+      DefaultValue=8.000000
+      ParameterName="Rock Tile Near"
+      ExpressionGUID=61F3A0AA4DE84BA51DB5D2AA473279CE
+      MaterialExpressionEditorX=-5980
+      MaterialExpressionEditorY=-2827
+      MaterialExpressionGuid=15B6EB1341172F0F7B0A65B05CEC78C8
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_39"
+      DefaultValue=1.000000
+      ParameterName="Stripe Offset"
+      ExpressionGUID=C8B6365144037200DFFAB0A56E66D28D
+      MaterialExpressionEditorX=-4626
+      MaterialExpressionEditorY=-2151
+      MaterialExpressionGuid=2615E7384DC890015466C5818D558423
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_37"
+      DefaultValue=0.250000
+      ParameterName="Rock Modulation Near "
+      ExpressionGUID=FAFE025F41D0C4ACBE7BC5BD05708241
+      MaterialExpressionEditorX=-4817
+      MaterialExpressionEditorY=-2812
+      MaterialExpressionGuid=66D1E87F465C7E159272AAB004C6063F
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_34"
+      DefaultValue=1.000000
+      ParameterName="Grass Modulation Scale"
+      ExpressionGUID=FF6C681A43C1F27792C6649950C5D271
+      MaterialExpressionEditorX=-4160
+      MaterialExpressionEditorY=1052
+      MaterialExpressionGuid=3A9331E84693E037CBF8C3A6E55DAAE7
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_33"
+      ParameterName="Dirt Offset"
+      ExpressionGUID=AE103B20475861BC5FED46B5E21EED32
+      MaterialExpressionEditorX=-2033
+      MaterialExpressionEditorY=-1640
+      MaterialExpressionGuid=CC5F6F4A4FD66614C0726BBE89D765E0
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_32"
+      ParameterName="Grass Bottom Offset"
+      ExpressionGUID=39021B1E4AF7F7BD124C17A396D6EBDB
+      MaterialExpressionEditorX=-2322
+      MaterialExpressionEditorY=422
+      MaterialExpressionGuid=A3836A1D4EF5DB9D384E7681F328820A
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_31"
+      DefaultValue=8.000000
+      ParameterName="Dirt Modulation Scale"
+      ExpressionGUID=6BAB65F341CE4A23689327A234D3A6F9
+      MaterialExpressionEditorX=-4417
+      MaterialExpressionEditorY=-650
+      MaterialExpressionGuid=E43E14BD4D9A0D0DE9F29DA82E59EF21
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_30"
+      ParameterName="Grass Offset"
+      ExpressionGUID=4EDEF93E4C6E32DD9221B0A65FD384DB
+      MaterialExpressionEditorX=-2287
+      MaterialExpressionEditorY=530
+      MaterialExpressionGuid=72A99FDF4B4C4B1AEE27D99313DAD90F
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_3"
+      DefaultValue=8.000000
+      ParameterName="Grass Tile Near"
+      ExpressionGUID=496B36914791141BF56081AA3D4CE9F8
+      MaterialExpressionEditorX=-5023
+      MaterialExpressionEditorY=992
+      MaterialExpressionGuid=14F37BA5430424D662AA57A10EC8FA9E
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_29"
+      DefaultValue=1.000000
+      ParameterName="Snow Far Normal Intensity"
+      ExpressionGUID=8935710E4C89CB24A3B6FC9E553601F3
+      MaterialExpressionEditorX=-5232
+      MaterialExpressionEditorY=3813
+      MaterialExpressionGuid=A197ACBB47586E140AB6918F733E3613
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_28"
+      DefaultValue=1.000000
+      ParameterName="Snow Near Normal Intensity"
+      ExpressionGUID=05256E304921BD819C54F58C259FD756
+      MaterialExpressionEditorX=-4711
+      MaterialExpressionEditorY=3495
+      MaterialExpressionGuid=850806B146B0FF926F7F82842DC72377
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_27"
+      DefaultValue=1.000000
+      ParameterName="Grass Far Normal Intensity"
+      ExpressionGUID=E91FCB7D4F038193F339C0921B008AFB
+      MaterialExpressionEditorX=-4121
+      MaterialExpressionEditorY=1412
+      MaterialExpressionGuid=B3B3961B49E4E67FC2E408BF7C50F600
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_26"
+      DefaultValue=1.000000
+      ParameterName="Grass Near Normal Intensity"
+      ExpressionGUID=8B2A6ABE44E5EE6CB30F5AA92BF6F051
+      MaterialExpressionEditorX=-4127
+      MaterialExpressionEditorY=1243
+      MaterialExpressionGuid=385178714B86211F30F7ACAA1E44DDBC
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_25"
+      DefaultValue=1.000000
+      ParameterName="Dirt Far Normal Intensity"
+      ExpressionGUID=A9B46AD542AE8B8989C69B9D5307BC6E
+      MaterialExpressionEditorX=-4378
+      MaterialExpressionEditorY=-82
+      MaterialExpressionGuid=AD0D475C404E8A385F74D79D53FC0241
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_24"
+      DefaultValue=1.000000
+      ParameterName="Dirt Near Normal Intensity"
+      ExpressionGUID=A92BD80E4D9AC64176BB2F92AAA2D87A
+      MaterialExpressionEditorX=-4396
+      MaterialExpressionEditorY=-241
+      MaterialExpressionGuid=F9B9BB324EFA40AC143D32AE232E49DA
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_23"
+      DefaultValue=1.000000
+      ParameterName="Rock Near Normal Intensity"
+      ExpressionGUID=DBC4837F4E13120388761F83E67E1445
+      MaterialExpressionEditorX=-5151
+      MaterialExpressionEditorY=-2396
+      MaterialExpressionGuid=D9F6F636483E666D5EA870840CFA4CCF
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_22"
+      DefaultValue=1.000000
+      ParameterName="Snow Modulation Max"
+      ExpressionGUID=7392FE3A4CF5E7AACC1FA192F0BCE338
+      MaterialExpressionEditorX=-1585
+      MaterialExpressionEditorY=3236
+      MaterialExpressionGuid=439F2DD14E0DF44327E3A48B53165AB4
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_21"
+      ParameterName="Snow Modulation Min"
+      ExpressionGUID=954250944BAEC8C6EC809E8A2C99A334
+      MaterialExpressionEditorX=-1660
+      MaterialExpressionEditorY=3083
+      MaterialExpressionGuid=2C72A8AB41B7919FD889D9BBE8D5C8CE
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_20"
+      DefaultValue=1.000000
+      ParameterName="Rock Far Normal Intensity"
+      ExpressionGUID=C4C3D566418AD341EA9448802403471C
+      MaterialExpressionEditorX=-5145
+      MaterialExpressionEditorY=-2227
+      MaterialExpressionGuid=A58995E841F2AFE876CDBFBB47CE9B02
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_2"
+      DefaultValue=1.000000
+      ParameterName="Snow Modulation Scale 1"
+      ExpressionGUID=A8149D744FC8A335C43826A36C23A779
+      MaterialExpressionEditorX=-5341
+      MaterialExpressionEditorY=3417
+      MaterialExpressionGuid=BFBFE31245A91E1FC53C059BA4292A74
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_19"
+      DefaultValue=1.000000
+      ParameterName="Dirt Modulation Max"
+      ExpressionGUID=272F05984FBBE5055D68D5AAC4FD282A
+      MaterialExpressionEditorX=-1865
+      MaterialExpressionEditorY=-506
+      MaterialExpressionGuid=308413E14899F49E2EAA1C98EF3D9601
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_18"
+      ParameterName="Grass Modulation Min"
+      ExpressionGUID=1CAE19F44C19B594F7CC61BB0A059654
+      MaterialExpressionEditorX=-2232
+      MaterialExpressionEditorY=1190
+      MaterialExpressionGuid=5A8B2D744BE59575BA5A3F85DBA7D114
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_17"
+      ParameterName="Dirt Modulation Min"
+      ExpressionGUID=1F66D9E949E80EC433E7A987B8C47261
+      MaterialExpressionEditorX=-1805
+      MaterialExpressionEditorY=-675
+      MaterialExpressionGuid=8206C44D4A5FC795E5FDB2A5CB4CA1C1
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_16"
+      DefaultValue=1.000000
+      ParameterName="Grass Modulation Max"
+      ExpressionGUID=294980924BBAFA5D24398F8B08B6B6B8
+      MaterialExpressionEditorX=-2191
+      MaterialExpressionEditorY=1335
+      MaterialExpressionGuid=339C9EDB4D7C3543CEEDBBB70950A314
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_15"
+      DefaultValue=1.000000
+      ParameterName="Rock Modulation Scale 1"
+      ExpressionGUID=3ABE609B43C12D772F74A39A6CD9C3FB
+      MaterialExpressionEditorX=-4815
+      MaterialExpressionEditorY=-2616
+      MaterialExpressionGuid=08F0395946E46BAB1A093294A9F6F914
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_14"
+      DefaultValue=1.000000
+      ParameterName="Stripe Scale"
+      ExpressionGUID=BD2BFB22407E28565DE595A4D1129BBC
+      MaterialExpressionEditorX=-4588
+      MaterialExpressionEditorY=-2287
+      MaterialExpressionGuid=D428A0FB4ED8908E9FA729AF58BA368D
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_13"
+      DefaultValue=1.000000
+      ParameterName="Snow Density"
+      ExpressionGUID=8DCE7E6A46383C0FD29DFB968045E955
+      MaterialExpressionEditorX=-1623
+      MaterialExpressionEditorY=2912
+      MaterialExpressionGuid=B85E73C347230EA4ADB7DB83833DDC0E
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_11"
+      DefaultValue=1.000000
+      ParameterName="Dirt Density"
+      ExpressionGUID=080F1EDB4F281B9C5922C2991D50C18D
+      MaterialExpressionEditorX=-1750
+      MaterialExpressionEditorY=-941
+      MaterialExpressionGuid=E86EF3A441725ED7B245028B79E9D62C
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_10"
+      DefaultValue=3500.000000
+      ParameterName="Far Blend Distance"
+      ExpressionGUID=73CA038640B89E624C0738814FBBD811
+      MaterialExpressionEditorX=-6780
+      MaterialExpressionEditorY=-560
+      MaterialExpressionGuid=07F67F7D4F78AEDE16C99289A844FCD2
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_1"
+      DefaultValue=1.000000
+      ParameterName="Dirt Tile Far"
+      ExpressionGUID=61E4382342D98F53F8EC60A8AE16EF40
+      MaterialExpressionEditorX=-5310
+      MaterialExpressionEditorY=-1043
+      MaterialExpressionGuid=640E24E04D14FB9190310B9B5B6C3190
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_0"
+      DefaultValue=8.000000
+      ParameterName="Dirt Tile Near"
+      ExpressionGUID=B9ADE2F8415B3B96C43DA5AB84E3DE86
+      MaterialExpressionEditorX=-5293
+      MaterialExpressionEditorY=-1212
+      MaterialExpressionGuid=E1859ACA4CD0F8B9BA0F8F8C143DAE9F
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_9"
+      A=(Expression=MaterialExpressionMultiply'M_RB_Land_MasterMat_01:MaterialExpressionMultiply_11')
+      B=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_13',OutputIndex=7)
+      MaterialExpressionEditorX=680
+      MaterialExpressionEditorY=1590
+      MaterialExpressionGuid=1B6DDC9E48E9F542EBF4609B65327A79
+      Material=Material'M_RB_Land_MasterMat_01'
+      bRealtimePreview=True
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_7"
+      A=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_50')
+      B=(Expression=MaterialExpressionMultiply'M_RB_Land_MasterMat_01:MaterialExpressionMultiply_9')
+      MaterialExpressionEditorX=593
+      MaterialExpressionEditorY=1290
+      MaterialExpressionGuid=1F6AF8BD4649A19C262E90B50C87E658
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_12"
+      A=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_61')
+      B=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_66')
+      MaterialExpressionEditorX=-2500
+      MaterialExpressionEditorY=5202
+      MaterialExpressionGuid=6B7D04FF4EEF6D13A69626B19DDC58B0
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_11"
+      A=(Expression=MaterialExpressionVectorParameter'M_RB_Land_MasterMat_01:MaterialExpressionVectorParameter_7',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionVectorParameter'M_RB_Land_MasterMat_01:MaterialExpressionVectorParameter_7',OutputIndex=4,Mask=1,MaskA=1)
+      MaterialExpressionEditorX=451
+      MaterialExpressionEditorY=1512
+      MaterialExpressionGuid=9C22B3B94C451385D67C52B07A597AF4
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_10"
+      A=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_63')
+      B=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_66')
+      MaterialExpressionEditorX=-2450
+      MaterialExpressionEditorY=5371
+      MaterialExpressionGuid=F1F2E96A4C1C69F81DCC50BB4D6FE367
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_3"
+      MaterialFunction=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/MF_RB_Land_TwoLayerBlend_02Grass.MF_RB_Land_TwoLayerBlend_02Grass'
+      FunctionInputs(0)=(ExpressionInputId=1338D97444E41E5A6299D59B023817E6,Input=(OutputIndex=-1,InputName="In Diffuse Alpha as Modulation"))
+      FunctionInputs(1)=(ExpressionInputId=C5D29B114D9CB5C662F9429F795B4566,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_11',InputName="In Bottom Diffuse + Modulate (RGBA)"))
+      FunctionInputs(2)=(ExpressionInputId=443653764424BB42763CFF98CD75079E,Input=(OutputIndex=-1,InputName="In Bottom Diffuse"))
+      FunctionInputs(3)=(ExpressionInputId=AD1610C9407D76CA8B58829066FBEBFB,Input=(Expression=MaterialExpressionAdd'M_RB_Land_MasterMat_01:MaterialExpressionAdd_4',InputName="In Bottom Modulation Offset"))
+      FunctionInputs(4)=(ExpressionInputId=6691D31C4F79EA8276DDFEBBC974E13C,Input=(OutputIndex=-1,InputName="In Bottom Blend Modulation"))
+      FunctionInputs(5)=(ExpressionInputId=4DE883E64F620704096D7B95ECC28716,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_30',InputName="In Top Modulation Offset"))
+      FunctionInputs(6)=(ExpressionInputId=328C5F984EEBE9155AB958A9A6C7CACF,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_11',OutputIndex=2,InputName="In Bottom Normal"))
+      FunctionInputs(7)=(ExpressionInputId=8B88035A4F00BBE860D2FF9FD45DE303,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_14',OutputIndex=1,InputName="In Top Diffuse + Modulate (RGBA)"))
+      FunctionInputs(8)=(ExpressionInputId=B412C92A4F19BED6BDFA59B569DCDABA,Input=(OutputIndex=-1,InputName="In Top Diffuse"))
+      FunctionInputs(9)=(ExpressionInputId=4363F0BB404E0A1238AF07B6FAF9A671,Input=(OutputIndex=-1,InputName="In Top Blend Modulation"))
+      FunctionInputs(10)=(ExpressionInputId=D1A7BCF24E44340129BFFEA31462E7D7,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_14',OutputIndex=2,InputName="In Top Normal"))
+      FunctionInputs(11)=(ExpressionInputId=B792BC79439C32F0B39B47BBD48EB9D1,Input=(Expression=MaterialExpressionLandscapeLayerWeight'M_RB_Land_MasterMat_01:MaterialExpressionTerrainLayerWeight_1',InputName="In Top Layer Weight(*)"))
+      FunctionInputs(12)=(ExpressionInputId=D07F985E4363D56D21C1DEA57CE05BB0,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_7',InputName="In Upper Density(2)"))
+      FunctionInputs(13)=(ExpressionInputId=61F103784BA9B2F72863F4BCC55B5269,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_58',InputName="In Upper Contrast"))
+      FunctionInputs(14)=(ExpressionInputId=C077B3214E3D6EE4BD3AB49152D8CDF0,Input=(Expression=MaterialExpressionStaticBoolParameter'M_RB_Land_MasterMat_01:MaterialExpressionStaticBoolParameter_6',InputName="Use Only Bottom Modulation"))
+      FunctionInputs(15)=(ExpressionInputId=CE38CCD440BE7D289B45C89CEDA9F5AA,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_18',InputName="Top Modulation Min"))
+      FunctionInputs(16)=(ExpressionInputId=42F37AFE4FCFAD830497B2AE73587DE0,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_16',InputName="Top Modulation Max"))
+      FunctionInputs(17)=(ExpressionInputId=E2B415F749F5DB8AB9ECA1A80293C113,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_11',OutputIndex=8,InputName="In Bottom Displace Near"))
+      FunctionInputs(18)=(ExpressionInputId=B761BC3B4E218CF0B9F31A9A0D5CF074,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_11',OutputIndex=9,InputName="In Bottom Displace Far"))
+      FunctionInputs(19)=(ExpressionInputId=085A0BA54368909B32CD75A4F6EF03A5,Input=(OutputIndex=-1,InputName="In Bottom Displace Intensity"))
+      FunctionInputs(20)=(ExpressionInputId=9531C0F54ED82B05B2FDA1BB03BDE403,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_14',OutputIndex=4,InputName="In Top Displace Near"))
+      FunctionInputs(21)=(ExpressionInputId=647F014749C187B2102770A70BFB3975,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_14',OutputIndex=5,InputName="In Top Displace Far"))
+      FunctionInputs(22)=(ExpressionInputId=C6A479C545BBA115FB0F83B2ED600EB4,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_46',InputName="In Top Displace Intensity"))
+      FunctionOutputs(0)=(ExpressionOutputId=0DFA28E14FFDBD69FA4664A2D4C3691B,Output=(OutputName="Result Diffuse Blend RGBA"))
+      FunctionOutputs(1)=(ExpressionOutputId=225D38054B7F5D2BB3A8D49B842C86E7,Output=(OutputName="Result Diffuse Blend RGB"))
+      FunctionOutputs(2)=(ExpressionOutputId=6D0C052244418954BBB89781C1B02CE9,Output=(OutputName="Result Blend Modulation"))
+      FunctionOutputs(3)=(ExpressionOutputId=0A60406547FB855AC95AA9B3438012AF,Output=(OutputName="Result Normal"))
+      FunctionOutputs(4)=(ExpressionOutputId=339A43D74A4011CBD051C891093E5BC8,Output=(OutputName="Bottom Diffuse"))
+      FunctionOutputs(5)=(ExpressionOutputId=183CA2CC4904836BB4BB4D932A84F783,Output=(OutputName="Bottom Normal"))
+      FunctionOutputs(6)=(ExpressionOutputId=1DCBF0194D13E996FE89598E3BCC16ED,Output=(OutputName="Result Blend Mask Grass"))
+      FunctionOutputs(7)=(ExpressionOutputId=6BFE9F1744B345D342DE08A4B771FEAE,Output=(OutputName="Top Diffuse"))
+      FunctionOutputs(8)=(ExpressionOutputId=5AEAC958450338FF36EE989FD9783325,Output=(OutputName="Bottom Normal1"))
+      FunctionOutputs(9)=(ExpressionOutputId=6844A5574093F18394E5C19042BA8804,Output=(OutputName="Result Displace Near"))
+      FunctionOutputs(10)=(ExpressionOutputId=2BC93A6A44B9D6C2E076DA8DCA8AECEE,Output=(OutputName="Result Displace Far"))
+      MaterialExpressionEditorX=-1438
+      MaterialExpressionEditorY=587
+      MaterialExpressionGuid=25B4589045A110D0D83622AE4F2EA680
+      Material=Material'M_RB_Land_MasterMat_01'
+      Outputs(0)=(OutputName="Result Diffuse Blend RGBA")
+      Outputs(1)=(OutputName="Result Diffuse Blend RGB")
+      Outputs(2)=(OutputName="Result Blend Modulation")
+      Outputs(3)=(OutputName="Result Normal")
+      Outputs(4)=(OutputName="Bottom Diffuse")
+      Outputs(5)=(OutputName="Bottom Normal")
+      Outputs(6)=(OutputName="Result Blend Mask Grass")
+      Outputs(7)=(OutputName="Top Diffuse")
+      Outputs(8)=(OutputName="Bottom Normal1")
+      Outputs(9)=(OutputName="Result Displace Near")
+      Outputs(10)=(OutputName="Result Displace Far")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_16"
+      MaterialFunction=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/MF_RB_Land_LayerSample_02.MF_RB_Land_LayerSample_02'
+      FunctionInputs(0)=(ExpressionInputId=AB95B7CD484F851368FE598F45A7E0BB,Input=(Expression=MaterialExpressionTextureObjectParameter'M_RB_Land_MasterMat_01:MaterialExpressionTextureObjectParameter_10',InputName="In Diffuse 01"))
+      FunctionInputs(1)=(ExpressionInputId=1745E0FB4BAC3F6B608540A0FDCE6503,Input=(OutputIndex=-1,InputName="In Modulation Near Fade"))
+      FunctionInputs(2)=(ExpressionInputId=73EA07124605306792F1F89292047E73,Input=(Expression=MaterialExpressionTextureObjectParameter'M_RB_Land_MasterMat_01:MaterialExpressionTextureObjectParameter_11',InputName="In Normal 01"))
+      FunctionInputs(3)=(ExpressionInputId=4848FDD44F394CE6FB6FBC91DC4DE2D9,Input=(OutputIndex=-1,InputName="In World Stripe"))
+      FunctionInputs(4)=(ExpressionInputId=DF9A15724EEAE29B47C494AB6A383472,Input=(Expression=MaterialExpressionTextureObjectParameter'M_RB_Land_MasterMat_01:MaterialExpressionTextureObjectParameter_1',InputName="In Modulation 01"))
+      FunctionInputs(5)=(ExpressionInputId=A2BD7615438624735AEEE3A9AF4EDDCB,Input=(OutputIndex=-1,InputName="In Stripe Scale"))
+      FunctionInputs(6)=(ExpressionInputId=3D5F7F1B40FD84687DDF02BE2169CD1F,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_8',InputName="In Tiling Near"))
+      FunctionInputs(7)=(ExpressionInputId=96336EE0476768F54988C68755A3A19E,Input=(OutputIndex=-1,InputName="In Tiling FarFAR"))
+      FunctionInputs(8)=(ExpressionInputId=E69108B54AC2D38FFF74B3A40076D0C6,Input=(OutputIndex=-1,InputName="In Blend Distance FARFAR"))
+      FunctionInputs(9)=(ExpressionInputId=0C216C2A44AE64DB52412AB8E28D18DA,Input=(OutputIndex=-1,InputName="In FARFAR Blend Detail"))
+      FunctionInputs(10)=(ExpressionInputId=83B39F484CABD4F55D3D47A958449FBA,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_9',InputName="In Tiling Far"))
+      FunctionInputs(11)=(ExpressionInputId=473CD705423DAA22EA7E73B169279D24,Input=(OutputIndex=-1,InputName="In Stripe Offset"))
+      FunctionInputs(12)=(ExpressionInputId=F478E2934061DA99107E4EBF2C9394E2,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_59',InputName="In Normal Tiling"))
+      FunctionInputs(13)=(ExpressionInputId=B48D39D44182ABE01EF3D6A982577E12,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_10',InputName="In Blend Distance Far"))
+      FunctionInputs(14)=(ExpressionInputId=45A990A349461A64C28A13A64D8479F0,Input=(OutputIndex=-1,InputName="In Modulation Near"))
+      FunctionInputs(15)=(ExpressionInputId=AF9D55F64C1E489729A337A166777E7E,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_2',InputName="In Modulation Scale 1"))
+      FunctionInputs(16)=(ExpressionInputId=29FEC1D14DE0576FF953C6985560EDAD,Input=(Expression=MaterialExpressionStaticBoolParameter'M_RB_Land_MasterMat_01:MaterialExpressionStaticBoolParameter_5',InputName="In Use Diffuse Alpha as Modulation"))
+      FunctionInputs(17)=(ExpressionInputId=E320071B4D8A0A909E6ECB9F8057D2F8,Input=(OutputIndex=-1,InputName="In Use World Aligned"))
+      FunctionInputs(18)=(ExpressionInputId=883B4A3C418F44779289768485A57A80,Input=(OutputIndex=-1,InputName="In Use Stripe"))
+      FunctionInputs(19)=(ExpressionInputId=E95A5ACC438C3F3F65172584AE66C091,Input=(Expression=MaterialExpressionAppendVector'M_RB_Land_MasterMat_01:MaterialExpressionAppendVector_1',InputName="In Color"))
+      FunctionInputs(20)=(ExpressionInputId=D2755D5D46E278A900FFAEA7D6778C4D,Input=(OutputIndex=-1,InputName="In Stripe Color"))
+      FunctionInputs(21)=(ExpressionInputId=2C02FE444BF049B61D799FA4C9EF3FD4,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_28',InputName="In Normal Near Intensity"))
+      FunctionInputs(22)=(ExpressionInputId=706B43AC46D70ACA10390F988B8BB69A,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_29',InputName="In Normal Far Intensity"))
+      FunctionOutputs(0)=(ExpressionOutputId=CB77F7A646D4FCFA5D2A8DA6628A740B,Output=(OutputName="Result Diffuse RGB"))
+      FunctionOutputs(1)=(ExpressionOutputId=0EFF63EE4EA52644536246A8B1841D7D,Output=(OutputName="Result Diffuse RGBA"))
+      FunctionOutputs(2)=(ExpressionOutputId=5FF253C2474AE551373D628582DEAE76,Output=(OutputName="Result Normal"))
+      FunctionOutputs(3)=(ExpressionOutputId=154E85DB4B5E56AC433DFDA96C3D166C,Output=(OutputName="Result Blend Modulation"))
+      FunctionOutputs(4)=(ExpressionOutputId=7487AA6E46382179A5DDB199FF4CEB36,Output=(OutputName="Result Blend Modulation Near"))
+      FunctionOutputs(5)=(ExpressionOutputId=DA82682645375D0C0635B1A6AD73CBF2,Output=(OutputName="Result Blend Modulation Far"))
+      MaterialExpressionEditorX=-3980
+      MaterialExpressionEditorY=2960
+      MaterialExpressionGuid=C2604AF64700D1643E53918C41AF80BF
+      Material=Material'M_RB_Land_MasterMat_01'
+      Outputs(0)=(OutputName="Result Diffuse RGB")
+      Outputs(1)=(OutputName="Result Diffuse RGBA")
+      Outputs(2)=(OutputName="Result Normal")
+      Outputs(3)=(OutputName="Result Blend Modulation")
+      Outputs(4)=(OutputName="Result Blend Modulation Near")
+      Outputs(5)=(OutputName="Result Blend Modulation Far")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_14"
+      MaterialFunction=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/MF_RB_Land_LayerSample_02.MF_RB_Land_LayerSample_02'
+      FunctionInputs(0)=(ExpressionInputId=AB95B7CD484F851368FE598F45A7E0BB,Input=(Expression=MaterialExpressionTextureObjectParameter'M_RB_Land_MasterMat_01:MaterialExpressionTextureObjectParameter_4',InputName="In Diffuse 01"))
+      FunctionInputs(1)=(ExpressionInputId=1745E0FB4BAC3F6B608540A0FDCE6503,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_56',InputName="In Modulation Near Fade"))
+      FunctionInputs(2)=(ExpressionInputId=73EA07124605306792F1F89292047E73,Input=(Expression=MaterialExpressionTextureObjectParameter'M_RB_Land_MasterMat_01:MaterialExpressionTextureObjectParameter_5',InputName="In Normal 01"))
+      FunctionInputs(3)=(ExpressionInputId=4848FDD44F394CE6FB6FBC91DC4DE2D9,Input=(OutputIndex=-1,InputName="In World Stripe"))
+      FunctionInputs(4)=(ExpressionInputId=DF9A15724EEAE29B47C494AB6A383472,Input=(Expression=MaterialExpressionTextureObjectParameter'M_RB_Land_MasterMat_01:MaterialExpressionTextureObjectParameter_12',InputName="In Modulation 01"))
+      FunctionInputs(5)=(ExpressionInputId=A2BD7615438624735AEEE3A9AF4EDDCB,Input=(OutputIndex=-1,InputName="In Stripe Scale"))
+      FunctionInputs(6)=(ExpressionInputId=3D5F7F1B40FD84687DDF02BE2169CD1F,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_3',InputName="In Tiling Near"))
+      FunctionInputs(7)=(ExpressionInputId=96336EE0476768F54988C68755A3A19E,Input=(OutputIndex=-1,InputName="In Tiling FarFAR"))
+      FunctionInputs(8)=(ExpressionInputId=E69108B54AC2D38FFF74B3A40076D0C6,Input=(OutputIndex=-1,InputName="In Blend Distance FARFAR"))
+      FunctionInputs(9)=(ExpressionInputId=0C216C2A44AE64DB52412AB8E28D18DA,Input=(OutputIndex=-1,InputName="In FARFAR Blend Detail"))
+      FunctionInputs(10)=(ExpressionInputId=83B39F484CABD4F55D3D47A958449FBA,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_6',InputName="In Tiling Far"))
+      FunctionInputs(11)=(ExpressionInputId=473CD705423DAA22EA7E73B169279D24,Input=(OutputIndex=-1,InputName="In Stripe Offset"))
+      FunctionInputs(12)=(ExpressionInputId=F478E2934061DA99107E4EBF2C9394E2,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_52',InputName="In Normal Tiling"))
+      FunctionInputs(13)=(ExpressionInputId=B48D39D44182ABE01EF3D6A982577E12,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_10',InputName="In Blend Distance Far"))
+      FunctionInputs(14)=(ExpressionInputId=45A990A349461A64C28A13A64D8479F0,Input=(OutputIndex=-1,InputName="In Modulation Near"))
+      FunctionInputs(15)=(ExpressionInputId=AF9D55F64C1E489729A337A166777E7E,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_34',InputName="In Modulation Scale 1"))
+      FunctionInputs(16)=(ExpressionInputId=29FEC1D14DE0576FF953C6985560EDAD,Input=(Expression=MaterialExpressionStaticBoolParameter'M_RB_Land_MasterMat_01:MaterialExpressionStaticBoolParameter_2',InputName="In Use Diffuse Alpha as Modulation"))
+      FunctionInputs(17)=(ExpressionInputId=E320071B4D8A0A909E6ECB9F8057D2F8,Input=(OutputIndex=-1,InputName="In Use World Aligned"))
+      FunctionInputs(18)=(ExpressionInputId=883B4A3C418F44779289768485A57A80,Input=(OutputIndex=-1,InputName="In Use Stripe"))
+      FunctionInputs(19)=(ExpressionInputId=E95A5ACC438C3F3F65172584AE66C091,Input=(Expression=MaterialExpressionAppendVector'M_RB_Land_MasterMat_01:MaterialExpressionAppendVector_2',InputName="In Color"))
+      FunctionInputs(20)=(ExpressionInputId=D2755D5D46E278A900FFAEA7D6778C4D,Input=(OutputIndex=-1,InputName="In Stripe Color"))
+      FunctionInputs(21)=(ExpressionInputId=2C02FE444BF049B61D799FA4C9EF3FD4,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_26',InputName="In Normal Near Intensity"))
+      FunctionInputs(22)=(ExpressionInputId=706B43AC46D70ACA10390F988B8BB69A,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_27',InputName="In Normal Far Intensity"))
+      FunctionOutputs(0)=(ExpressionOutputId=CB77F7A646D4FCFA5D2A8DA6628A740B,Output=(OutputName="Result Diffuse RGB"))
+      FunctionOutputs(1)=(ExpressionOutputId=0EFF63EE4EA52644536246A8B1841D7D,Output=(OutputName="Result Diffuse RGBA"))
+      FunctionOutputs(2)=(ExpressionOutputId=5FF253C2474AE551373D628582DEAE76,Output=(OutputName="Result Normal"))
+      FunctionOutputs(3)=(ExpressionOutputId=154E85DB4B5E56AC433DFDA96C3D166C,Output=(OutputName="Result Blend Modulation"))
+      FunctionOutputs(4)=(ExpressionOutputId=7487AA6E46382179A5DDB199FF4CEB36,Output=(OutputName="Result Blend Modulation Near"))
+      FunctionOutputs(5)=(ExpressionOutputId=DA82682645375D0C0635B1A6AD73CBF2,Output=(OutputName="Result Blend Modulation Far"))
+      MaterialExpressionEditorX=-3405
+      MaterialExpressionEditorY=812
+      MaterialExpressionGuid=49C82FF949BEE6E77DE099B6A6E19639
+      Material=Material'M_RB_Land_MasterMat_01'
+      Outputs(0)=(OutputName="Result Diffuse RGB")
+      Outputs(1)=(OutputName="Result Diffuse RGBA")
+      Outputs(2)=(OutputName="Result Normal")
+      Outputs(3)=(OutputName="Result Blend Modulation")
+      Outputs(4)=(OutputName="Result Blend Modulation Near")
+      Outputs(5)=(OutputName="Result Blend Modulation Far")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_13"
+      MaterialFunction=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/MF_RB_Land_TwoLayerBlend_03Snow.MF_RB_Land_TwoLayerBlend_03Snow'
+      FunctionInputs(0)=(ExpressionInputId=1338D97444E41E5A6299D59B023817E6,Input=(OutputIndex=-1,InputName="In Diffuse Alpha as Modulation"))
+      FunctionInputs(1)=(ExpressionInputId=C5D29B114D9CB5C662F9429F795B4566,Input=(Expression=MaterialExpressionStaticSwitchParameter'M_RB_Land_MasterMat_01:MaterialExpressionStaticSwitchParameter_0',InputName="In Bottom Diffuse + Modulate (RGBA)"))
+      FunctionInputs(2)=(ExpressionInputId=4DE883E64F620704096D7B95ECC28716,Input=(OutputIndex=-1,InputName="In Top Modulation Offset"))
+      FunctionInputs(3)=(ExpressionInputId=AD1610C9407D76CA8B58829066FBEBFB,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_47',InputName="In Bottom Modulation Offset"))
+      FunctionInputs(4)=(ExpressionInputId=328C5F984EEBE9155AB958A9A6C7CACF,Input=(Expression=MaterialExpressionStaticSwitchParameter'M_RB_Land_MasterMat_01:MaterialExpressionStaticSwitchParameter_2',InputName="In Bottom Normal"))
+      FunctionInputs(5)=(ExpressionInputId=8B88035A4F00BBE860D2FF9FD45DE303,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_16',OutputIndex=1,InputName="In Top Diffuse + Modulate (RGBA)"))
+      FunctionInputs(6)=(ExpressionInputId=B412C92A4F19BED6BDFA59B569DCDABA,Input=(OutputIndex=-1,InputName="In Top Diffuse"))
+      FunctionInputs(7)=(ExpressionInputId=4363F0BB404E0A1238AF07B6FAF9A671,Input=(OutputIndex=-1,InputName="In Top Blend Modulation"))
+      FunctionInputs(8)=(ExpressionInputId=F087CE924CD4DAFDC9E9D39F1C18FD59,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_1',OutputIndex=2,InputName="In Soft Normal"))
+      FunctionInputs(9)=(ExpressionInputId=D1A7BCF24E44340129BFFEA31462E7D7,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_16',OutputIndex=2,InputName="In Top Normal"))
+      FunctionInputs(10)=(ExpressionInputId=B792BC79439C32F0B39B47BBD48EB9D1,Input=(Expression=MaterialExpressionLandscapeLayerWeight'M_RB_Land_MasterMat_01:MaterialExpressionTerrainLayerWeight_6',InputName="In Top Layer Weight(*)"))
+      FunctionInputs(11)=(ExpressionInputId=9F7CF35045F5948B0CD3C9BD4A5A5A11,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_57',InputName="In Upper Contrast"))
+      FunctionInputs(12)=(ExpressionInputId=D07F985E4363D56D21C1DEA57CE05BB0,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_13',InputName="In Upper Density(2)"))
+      FunctionInputs(13)=(ExpressionInputId=C077B3214E3D6EE4BD3AB49152D8CDF0,Input=(Expression=MaterialExpressionStaticBoolParameter'M_RB_Land_MasterMat_01:MaterialExpressionStaticBoolParameter_7',InputName="Use Only Bottom Modulation"))
+      FunctionInputs(14)=(ExpressionInputId=06E90A5E4779FA0BC2385CAF462A0AFD,Input=(Expression=MaterialExpressionStaticBoolParameter'M_RB_Land_MasterMat_01:MaterialExpressionStaticBoolParameter_10',InputName="Use Use World Vector"))
+      FunctionInputs(15)=(ExpressionInputId=CE38CCD440BE7D289B45C89CEDA9F5AA,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_21',InputName="Top Modulation Min"))
+      FunctionInputs(16)=(ExpressionInputId=F4461132482CF8819F8AA18DDFA901A8,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_45',InputName="World Vector Min"))
+      FunctionInputs(17)=(ExpressionInputId=C02658F74BCF256948F34998C8E32C71,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_72',InputName="World Vector, Offset Min"))
+      FunctionInputs(18)=(ExpressionInputId=42F37AFE4FCFAD830497B2AE73587DE0,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_22',InputName="Top Modulation Max"))
+      FunctionInputs(19)=(ExpressionInputId=7BE8A9FE4CC7B8C86C8F6A900FBBB466,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_73',InputName="World Vector, Offset max"))
+      FunctionInputs(20)=(ExpressionInputId=31C6E0634593B3962A78F694BD77EBE8,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_43',InputName="World Vector Max"))
+      FunctionInputs(21)=(ExpressionInputId=9CA97AD9458A009F8AE0E4B351C1A843,Input=(Expression=MaterialExpressionStaticSwitchParameter'M_RB_Land_MasterMat_01:MaterialExpressionStaticSwitchParameter_4',InputName="In Bottom Displace Near"))
+      FunctionInputs(22)=(ExpressionInputId=84F9C07B459C2DBFDE260DA70FD2FE21,Input=(Expression=MaterialExpressionStaticSwitchParameter'M_RB_Land_MasterMat_01:MaterialExpressionStaticSwitchParameter_6',InputName="In Bottom Displace Far"))
+      FunctionInputs(23)=(ExpressionInputId=702842A94DAAC809063A67B012F983EE,Input=(OutputIndex=-1,InputName="In Bottom Displace Intensity"))
+      FunctionInputs(24)=(ExpressionInputId=42AF73A84298D98825106D8078B1A9F9,Input=(Expression=MaterialExpressionVectorParameter'M_RB_Land_MasterMat_01:MaterialExpressionVectorParameter_15',InputName="In World Heap Vector",Mask=1,MaskR=1,MaskG=1,MaskB=1))
+      FunctionInputs(25)=(ExpressionInputId=3B6E6A9B4D0A5648F416D48A14ECD318,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_16',OutputIndex=4,InputName="In Top Displace Near"))
+      FunctionInputs(26)=(ExpressionInputId=1804219A4E7A2A8D0EEE9EA4CE651898,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_16',OutputIndex=5,InputName="In Top Displace Far"))
+      FunctionInputs(27)=(ExpressionInputId=040589B248348C454360B0998F0248BC,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_48',InputName="In Top Displace Intensity"))
+      FunctionOutputs(0)=(ExpressionOutputId=0DFA28E14FFDBD69FA4664A2D4C3691B,Output=(OutputName="Result Diffuse Blend RGBA"))
+      FunctionOutputs(1)=(ExpressionOutputId=225D38054B7F5D2BB3A8D49B842C86E7,Output=(OutputName="Result Diffuse Blend RGB"))
+      FunctionOutputs(2)=(ExpressionOutputId=0A60406547FB855AC95AA9B3438012AF,Output=(OutputName="Result Normal"))
+      FunctionOutputs(3)=(ExpressionOutputId=94E1573D413D9D9B15A2A68F1BD7C7A0,Output=(OutputName="Result Normal with Edge"))
+      FunctionOutputs(4)=(ExpressionOutputId=339A43D74A4011CBD051C891093E5BC8,Output=(OutputName="Bottom Diffuse"))
+      FunctionOutputs(5)=(ExpressionOutputId=F453DF2248B9F9F3900F369A62FB880C,Output=(OutputName="Result Offset Blend"))
+      FunctionOutputs(6)=(ExpressionOutputId=183CA2CC4904836BB4BB4D932A84F783,Output=(OutputName="Bottom Normal"))
+      FunctionOutputs(7)=(ExpressionOutputId=1DCBF0194D13E996FE89598E3BCC16ED,Output=(OutputName="Result Blend Mask"))
+      FunctionOutputs(8)=(ExpressionOutputId=8A93EEEC472F49939DCD268D531341E8,Output=(OutputName="World Vector Mask"))
+      FunctionOutputs(9)=(ExpressionOutputId=6BFE9F1744B345D342DE08A4B771FEAE,Output=(OutputName="Top Diffuse"))
+      FunctionOutputs(10)=(ExpressionOutputId=5AEAC958450338FF36EE989FD9783325,Output=(OutputName="Bottom Normal1"))
+      FunctionOutputs(11)=(ExpressionOutputId=8EB4BB6C498515642046B29115C815EE,Output=(OutputName="Result Displace Near"))
+      FunctionOutputs(12)=(ExpressionOutputId=57B270024D905801875ABDBE2D08C16D,Output=(OutputName="Result Displace Far"))
+      MaterialExpressionEditorX=-880
+      MaterialExpressionEditorY=2660
+      MaterialExpressionGuid=E1DDF0744F55347CE5AFBAA620BE0631
+      Material=Material'M_RB_Land_MasterMat_01'
+      Outputs(0)=(OutputName="Result Diffuse Blend RGBA")
+      Outputs(1)=(OutputName="Result Diffuse Blend RGB")
+      Outputs(2)=(OutputName="Result Normal")
+      Outputs(3)=(OutputName="Result Normal with Edge")
+      Outputs(4)=(OutputName="Bottom Diffuse")
+      Outputs(5)=(OutputName="Result Offset Blend")
+      Outputs(6)=(OutputName="Bottom Normal")
+      Outputs(7)=(OutputName="Result Blend Mask")
+      Outputs(8)=(OutputName="World Vector Mask")
+      Outputs(9)=(OutputName="Top Diffuse")
+      Outputs(10)=(OutputName="Bottom Normal1")
+      Outputs(11)=(OutputName="Result Displace Near")
+      Outputs(12)=(OutputName="Result Displace Far")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_12"
+      MaterialFunction=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/MF_RB_Land_LayerSample_02.MF_RB_Land_LayerSample_02'
+      FunctionInputs(0)=(ExpressionInputId=AB95B7CD484F851368FE598F45A7E0BB,Input=(Expression=MaterialExpressionTextureObjectParameter'M_RB_Land_MasterMat_01:MaterialExpressionTextureObjectParameter_7',InputName="In Diffuse 01"))
+      FunctionInputs(1)=(ExpressionInputId=1745E0FB4BAC3F6B608540A0FDCE6503,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_37',InputName="In Modulation Near Fade"))
+      FunctionInputs(2)=(ExpressionInputId=73EA07124605306792F1F89292047E73,Input=(Expression=MaterialExpressionTextureObjectParameter'M_RB_Land_MasterMat_01:MaterialExpressionTextureObjectParameter_6',InputName="In Normal 01"))
+      FunctionInputs(3)=(ExpressionInputId=4848FDD44F394CE6FB6FBC91DC4DE2D9,Input=(Expression=MaterialExpressionTextureObjectParameter'M_RB_Land_MasterMat_01:MaterialExpressionTextureObjectParameter_14',InputName="In World Stripe"))
+      FunctionInputs(4)=(ExpressionInputId=DF9A15724EEAE29B47C494AB6A383472,Input=(Expression=MaterialExpressionTextureObjectParameter'M_RB_Land_MasterMat_01:MaterialExpressionTextureObjectParameter_8',InputName="In Modulation 01"))
+      FunctionInputs(5)=(ExpressionInputId=A2BD7615438624735AEEE3A9AF4EDDCB,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_14',InputName="In Stripe Scale"))
+      FunctionInputs(6)=(ExpressionInputId=3D5F7F1B40FD84687DDF02BE2169CD1F,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_4',InputName="In Tiling Near"))
+      FunctionInputs(7)=(ExpressionInputId=96336EE0476768F54988C68755A3A19E,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_51',InputName="In Tiling FarFAR"))
+      FunctionInputs(8)=(ExpressionInputId=E69108B54AC2D38FFF74B3A40076D0C6,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_55',InputName="In Blend Distance FARFAR"))
+      FunctionInputs(9)=(ExpressionInputId=0C216C2A44AE64DB52412AB8E28D18DA,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_53',InputName="In FARFAR Blend Detail"))
+      FunctionInputs(10)=(ExpressionInputId=83B39F484CABD4F55D3D47A958449FBA,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_5',InputName="In Tiling Far"))
+      FunctionInputs(11)=(ExpressionInputId=473CD705423DAA22EA7E73B169279D24,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_39',InputName="In Stripe Offset"))
+      FunctionInputs(12)=(ExpressionInputId=F478E2934061DA99107E4EBF2C9394E2,Input=(OutputIndex=-1,InputName="In Normal Tiling"))
+      FunctionInputs(13)=(ExpressionInputId=B48D39D44182ABE01EF3D6A982577E12,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_10',InputName="In Blend Distance Far"))
+      FunctionInputs(14)=(ExpressionInputId=45A990A349461A64C28A13A64D8479F0,Input=(OutputIndex=-1,InputName="In Modulation Near"))
+      FunctionInputs(15)=(ExpressionInputId=AF9D55F64C1E489729A337A166777E7E,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_15',InputName="In Modulation Scale 1"))
+      FunctionInputs(16)=(ExpressionInputId=29FEC1D14DE0576FF953C6985560EDAD,Input=(Expression=MaterialExpressionStaticBoolParameter'M_RB_Land_MasterMat_01:MaterialExpressionStaticBoolParameter_3',InputName="In Use Diffuse Alpha as Modulation"))
+      FunctionInputs(17)=(ExpressionInputId=E320071B4D8A0A909E6ECB9F8057D2F8,Input=(Expression=MaterialExpressionStaticBoolParameter'M_RB_Land_MasterMat_01:MaterialExpressionStaticBoolParameter_9',InputName="In Use World Aligned"))
+      FunctionInputs(18)=(ExpressionInputId=883B4A3C418F44779289768485A57A80,Input=(OutputIndex=-1,InputName="In Use Stripe"))
+      FunctionInputs(19)=(ExpressionInputId=E95A5ACC438C3F3F65172584AE66C091,Input=(Expression=MaterialExpressionAppendVector'M_RB_Land_MasterMat_01:MaterialExpressionAppendVector_3',InputName="In Color"))
+      FunctionInputs(20)=(ExpressionInputId=D2755D5D46E278A900FFAEA7D6778C4D,Input=(Expression=MaterialExpressionAppendVector'M_RB_Land_MasterMat_01:MaterialExpressionAppendVector_7',InputName="In Stripe Color"))
+      FunctionInputs(21)=(ExpressionInputId=2C02FE444BF049B61D799FA4C9EF3FD4,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_23',InputName="In Normal Near Intensity"))
+      FunctionInputs(22)=(ExpressionInputId=706B43AC46D70ACA10390F988B8BB69A,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_20',InputName="In Normal Far Intensity"))
+      FunctionOutputs(0)=(ExpressionOutputId=CB77F7A646D4FCFA5D2A8DA6628A740B,Output=(OutputName="Result Diffuse RGB"))
+      FunctionOutputs(1)=(ExpressionOutputId=0EFF63EE4EA52644536246A8B1841D7D,Output=(OutputName="Result Diffuse RGBA"))
+      FunctionOutputs(2)=(ExpressionOutputId=5FF253C2474AE551373D628582DEAE76,Output=(OutputName="Result Normal"))
+      FunctionOutputs(3)=(ExpressionOutputId=154E85DB4B5E56AC433DFDA96C3D166C,Output=(OutputName="Result Blend Modulation"))
+      FunctionOutputs(4)=(ExpressionOutputId=7487AA6E46382179A5DDB199FF4CEB36,Output=(OutputName="Result Blend Modulation Near"))
+      FunctionOutputs(5)=(ExpressionOutputId=DA82682645375D0C0635B1A6AD73CBF2,Output=(OutputName="Result Blend Modulation Far"))
+      MaterialExpressionEditorX=-3680
+      MaterialExpressionEditorY=-2860
+      MaterialExpressionGuid=6374905C4CC207846805BB994951DD66
+      Material=Material'M_RB_Land_MasterMat_01'
+      Outputs(0)=(OutputName="Result Diffuse RGB")
+      Outputs(1)=(OutputName="Result Diffuse RGBA")
+      Outputs(2)=(OutputName="Result Normal")
+      Outputs(3)=(OutputName="Result Blend Modulation")
+      Outputs(4)=(OutputName="Result Blend Modulation Near")
+      Outputs(5)=(OutputName="Result Blend Modulation Far")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_11"
+      MaterialFunction=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/MF_RB_Land_TwoLayerBlend_01.MF_RB_Land_TwoLayerBlend_01'
+      FunctionInputs(0)=(ExpressionInputId=F2A98466476A2D04AC8FD389EF717278,Input=(Expression=MaterialExpressionStaticBoolParameter'M_RB_Land_MasterMat_01:MaterialExpressionStaticBoolParameter_12',InputName="In Swap Blend Masks"))
+      FunctionInputs(1)=(ExpressionInputId=1338D97444E41E5A6299D59B023817E6,Input=(OutputIndex=-1,InputName="In Diffuse Alpha as Modulation"))
+      FunctionInputs(2)=(ExpressionInputId=C5D29B114D9CB5C662F9429F795B4566,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_12',OutputIndex=1,InputName="In Bottom Diffuse + Modulate (RGBA)"))
+      FunctionInputs(3)=(ExpressionInputId=AD1610C9407D76CA8B58829066FBEBFB,Input=(OutputIndex=-1,InputName="In Bottom Modulation Offset"))
+      FunctionInputs(4)=(ExpressionInputId=4DE883E64F620704096D7B95ECC28716,Input=(Expression=MaterialExpressionLandscapeLayerWeight'M_RB_Land_MasterMat_01:MaterialExpressionTerrainLayerWeight_2',InputName="In Top Modulation Offset"))
+      FunctionInputs(5)=(ExpressionInputId=328C5F984EEBE9155AB958A9A6C7CACF,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_12',OutputIndex=2,InputName="In Bottom Normal"))
+      FunctionInputs(6)=(ExpressionInputId=8B88035A4F00BBE860D2FF9FD45DE303,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_10',OutputIndex=1,InputName="In Top Diffuse + Modulate (RGBA)"))
+      FunctionInputs(7)=(ExpressionInputId=4363F0BB404E0A1238AF07B6FAF9A671,Input=(OutputIndex=-1,InputName="In Top Blend Modulation"))
+      FunctionInputs(8)=(ExpressionInputId=D1A7BCF24E44340129BFFEA31462E7D7,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_10',OutputIndex=2,InputName="In Top Normal"))
+      FunctionInputs(9)=(ExpressionInputId=B792BC79439C32F0B39B47BBD48EB9D1,Input=(Expression=MaterialExpressionLandscapeLayerWeight'M_RB_Land_MasterMat_01:MaterialExpressionTerrainLayerWeight_4',InputName="In Top Layer Weight(*)"))
+      FunctionInputs(10)=(ExpressionInputId=9F7CF35045F5948B0CD3C9BD4A5A5A11,Input=(OutputIndex=-1,InputName="In Upper Contrast"))
+      FunctionInputs(11)=(ExpressionInputId=D07F985E4363D56D21C1DEA57CE05BB0,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_11',InputName="In Upper Density(2)"))
+      FunctionInputs(12)=(ExpressionInputId=C077B3214E3D6EE4BD3AB49152D8CDF0,Input=(Expression=MaterialExpressionStaticBoolParameter'M_RB_Land_MasterMat_01:MaterialExpressionStaticBoolParameter_8',InputName="Use Only Bottom Modulation"))
+      FunctionInputs(13)=(ExpressionInputId=06E90A5E4779FA0BC2385CAF462A0AFD,Input=(OutputIndex=-1,InputName="Use Use World Vector"))
+      FunctionInputs(14)=(ExpressionInputId=CE38CCD440BE7D289B45C89CEDA9F5AA,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_17',InputName="Top Modulation Min"))
+      FunctionInputs(15)=(ExpressionInputId=F4461132482CF8819F8AA18DDFA901A8,Input=(OutputIndex=-1,InputName="World Vector Min"))
+      FunctionInputs(16)=(ExpressionInputId=31C6E0634593B3962A78F694BD77EBE8,Input=(OutputIndex=-1,InputName="World Vector Max"))
+      FunctionInputs(17)=(ExpressionInputId=42F37AFE4FCFAD830497B2AE73587DE0,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_19',InputName="Top Modulation Max"))
+      FunctionInputs(18)=(ExpressionInputId=9CA97AD9458A009F8AE0E4B351C1A843,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_12',OutputIndex=4,InputName="In Bottom Displace Near"))
+      FunctionInputs(19)=(ExpressionInputId=84F9C07B459C2DBFDE260DA70FD2FE21,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_12',OutputIndex=5,InputName="In Bottom Displace Far"))
+      FunctionInputs(20)=(ExpressionInputId=702842A94DAAC809063A67B012F983EE,Input=(OutputIndex=-1,InputName="In Bottom Displace Intensity"))
+      FunctionInputs(21)=(ExpressionInputId=42AF73A84298D98825106D8078B1A9F9,Input=(OutputIndex=-1,InputName="In World Heap Vector"))
+      FunctionInputs(22)=(ExpressionInputId=3B6E6A9B4D0A5648F416D48A14ECD318,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_10',OutputIndex=4,InputName="In Top Displace Near"))
+      FunctionInputs(23)=(ExpressionInputId=1804219A4E7A2A8D0EEE9EA4CE651898,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_10',OutputIndex=5,InputName="In Top Displace Far"))
+      FunctionInputs(24)=(ExpressionInputId=040589B248348C454360B0998F0248BC,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_44',InputName="In Top Displace Intensity"))
+      FunctionOutputs(0)=(ExpressionOutputId=0DFA28E14FFDBD69FA4664A2D4C3691B,Output=(OutputName="Result Diffuse Blend RGBA"))
+      FunctionOutputs(1)=(ExpressionOutputId=225D38054B7F5D2BB3A8D49B842C86E7,Output=(OutputName="Result Diffuse Blend RGB"))
+      FunctionOutputs(2)=(ExpressionOutputId=0A60406547FB855AC95AA9B3438012AF,Output=(OutputName="Result Normal"))
+      FunctionOutputs(3)=(ExpressionOutputId=339A43D74A4011CBD051C891093E5BC8,Output=(OutputName="Bottom Diffuse"))
+      FunctionOutputs(4)=(ExpressionOutputId=183CA2CC4904836BB4BB4D932A84F783,Output=(OutputName="Bottom Normal"))
+      FunctionOutputs(5)=(ExpressionOutputId=1DCBF0194D13E996FE89598E3BCC16ED,Output=(OutputName="Result Blend Mask"))
+      FunctionOutputs(6)=(ExpressionOutputId=6BFE9F1744B345D342DE08A4B771FEAE,Output=(OutputName="Top Diffuse"))
+      FunctionOutputs(7)=(ExpressionOutputId=5AEAC958450338FF36EE989FD9783325,Output=(OutputName="Bottom Normal1"))
+      FunctionOutputs(8)=(ExpressionOutputId=8EB4BB6C498515642046B29115C815EE,Output=(OutputName="Result Displace Near"))
+      FunctionOutputs(9)=(ExpressionOutputId=57B270024D905801875ABDBE2D08C16D,Output=(OutputName="Result Displace Far"))
+      MaterialExpressionEditorX=-900
+      MaterialExpressionEditorY=-1240
+      MaterialExpressionGuid=D2457E154EA8C80CB9D6C7ACFD5AB41B
+      Material=Material'M_RB_Land_MasterMat_01'
+      Outputs(0)=(OutputName="Result Diffuse Blend RGBA")
+      Outputs(1)=(OutputName="Result Diffuse Blend RGB")
+      Outputs(2)=(OutputName="Result Normal")
+      Outputs(3)=(OutputName="Bottom Diffuse")
+      Outputs(4)=(OutputName="Bottom Normal")
+      Outputs(5)=(OutputName="Result Blend Mask")
+      Outputs(6)=(OutputName="Top Diffuse")
+      Outputs(7)=(OutputName="Bottom Normal1")
+      Outputs(8)=(OutputName="Result Displace Near")
+      Outputs(9)=(OutputName="Result Displace Far")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_10"
+      MaterialFunction=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/MF_RB_Land_LayerSample_02.MF_RB_Land_LayerSample_02'
+      FunctionInputs(0)=(ExpressionInputId=AB95B7CD484F851368FE598F45A7E0BB,Input=(Expression=MaterialExpressionTextureObjectParameter'M_RB_Land_MasterMat_01:MaterialExpressionTextureObjectParameter_2',InputName="In Diffuse 01"))
+      FunctionInputs(1)=(ExpressionInputId=1745E0FB4BAC3F6B608540A0FDCE6503,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_49',InputName="In Modulation Near Fade"))
+      FunctionInputs(2)=(ExpressionInputId=73EA07124605306792F1F89292047E73,Input=(Expression=MaterialExpressionTextureObjectParameter'M_RB_Land_MasterMat_01:MaterialExpressionTextureObjectParameter_3',InputName="In Normal 01"))
+      FunctionInputs(3)=(ExpressionInputId=4848FDD44F394CE6FB6FBC91DC4DE2D9,Input=(OutputIndex=-1,InputName="In World Stripe"))
+      FunctionInputs(4)=(ExpressionInputId=DF9A15724EEAE29B47C494AB6A383472,Input=(Expression=MaterialExpressionTextureObjectParameter'M_RB_Land_MasterMat_01:MaterialExpressionTextureObjectParameter_13',InputName="In Modulation 01"))
+      FunctionInputs(5)=(ExpressionInputId=A2BD7615438624735AEEE3A9AF4EDDCB,Input=(OutputIndex=-1,InputName="In Stripe Scale"))
+      FunctionInputs(6)=(ExpressionInputId=3D5F7F1B40FD84687DDF02BE2169CD1F,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_0',InputName="In Tiling Near"))
+      FunctionInputs(7)=(ExpressionInputId=96336EE0476768F54988C68755A3A19E,Input=(OutputIndex=-1,InputName="In Tiling FarFAR"))
+      FunctionInputs(8)=(ExpressionInputId=E69108B54AC2D38FFF74B3A40076D0C6,Input=(OutputIndex=-1,InputName="In Blend Distance FARFAR"))
+      FunctionInputs(9)=(ExpressionInputId=0C216C2A44AE64DB52412AB8E28D18DA,Input=(OutputIndex=-1,InputName="In FARFAR Blend Detail"))
+      FunctionInputs(10)=(ExpressionInputId=83B39F484CABD4F55D3D47A958449FBA,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_1',InputName="In Tiling Far"))
+      FunctionInputs(11)=(ExpressionInputId=473CD705423DAA22EA7E73B169279D24,Input=(OutputIndex=-1,InputName="In Stripe Offset"))
+      FunctionInputs(12)=(ExpressionInputId=F478E2934061DA99107E4EBF2C9394E2,Input=(OutputIndex=-1,InputName="In Normal Tiling"))
+      FunctionInputs(13)=(ExpressionInputId=B48D39D44182ABE01EF3D6A982577E12,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_10',InputName="In Blend Distance Far"))
+      FunctionInputs(14)=(ExpressionInputId=45A990A349461A64C28A13A64D8479F0,Input=(OutputIndex=-1,InputName="In Modulation Near"))
+      FunctionInputs(15)=(ExpressionInputId=AF9D55F64C1E489729A337A166777E7E,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_31',InputName="In Modulation Scale 1"))
+      FunctionInputs(16)=(ExpressionInputId=29FEC1D14DE0576FF953C6985560EDAD,Input=(Expression=MaterialExpressionStaticBoolParameter'M_RB_Land_MasterMat_01:MaterialExpressionStaticBoolParameter_1',InputName="In Use Diffuse Alpha as Modulation"))
+      FunctionInputs(17)=(ExpressionInputId=E320071B4D8A0A909E6ECB9F8057D2F8,Input=(Expression=MaterialExpressionStaticBoolParameter'M_RB_Land_MasterMat_01:MaterialExpressionStaticBoolParameter_11',InputName="In Use World Aligned"))
+      FunctionInputs(18)=(ExpressionInputId=883B4A3C418F44779289768485A57A80,Input=(OutputIndex=-1,InputName="In Use Stripe"))
+      FunctionInputs(19)=(ExpressionInputId=E95A5ACC438C3F3F65172584AE66C091,Input=(Expression=MaterialExpressionAppendVector'M_RB_Land_MasterMat_01:MaterialExpressionAppendVector_6',InputName="In Color"))
+      FunctionInputs(20)=(ExpressionInputId=D2755D5D46E278A900FFAEA7D6778C4D,Input=(OutputIndex=-1,InputName="In Stripe Color"))
+      FunctionInputs(21)=(ExpressionInputId=2C02FE444BF049B61D799FA4C9EF3FD4,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_24',InputName="In Normal Near Intensity"))
+      FunctionInputs(22)=(ExpressionInputId=706B43AC46D70ACA10390F988B8BB69A,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_25',InputName="In Normal Far Intensity"))
+      FunctionOutputs(0)=(ExpressionOutputId=CB77F7A646D4FCFA5D2A8DA6628A740B,Output=(OutputName="Result Diffuse RGB"))
+      FunctionOutputs(1)=(ExpressionOutputId=0EFF63EE4EA52644536246A8B1841D7D,Output=(OutputName="Result Diffuse RGBA"))
+      FunctionOutputs(2)=(ExpressionOutputId=5FF253C2474AE551373D628582DEAE76,Output=(OutputName="Result Normal"))
+      FunctionOutputs(3)=(ExpressionOutputId=154E85DB4B5E56AC433DFDA96C3D166C,Output=(OutputName="Result Blend Modulation"))
+      FunctionOutputs(4)=(ExpressionOutputId=7487AA6E46382179A5DDB199FF4CEB36,Output=(OutputName="Result Blend Modulation Near"))
+      FunctionOutputs(5)=(ExpressionOutputId=DA82682645375D0C0635B1A6AD73CBF2,Output=(OutputName="Result Blend Modulation Far"))
+      MaterialExpressionEditorX=-3540
+      MaterialExpressionEditorY=-1140
+      MaterialExpressionGuid=FF7559A5428F0CF716678E8F15169C07
+      Material=Material'M_RB_Land_MasterMat_01'
+      Outputs(0)=(OutputName="Result Diffuse RGB")
+      Outputs(1)=(OutputName="Result Diffuse RGBA")
+      Outputs(2)=(OutputName="Result Normal")
+      Outputs(3)=(OutputName="Result Blend Modulation")
+      Outputs(4)=(OutputName="Result Blend Modulation Near")
+      Outputs(5)=(OutputName="Result Blend Modulation Far")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_1"
+      MaterialFunction=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/MF_RB_Land_LayerSample_02.MF_RB_Land_LayerSample_02'
+      FunctionInputs(0)=(ExpressionInputId=AB95B7CD484F851368FE598F45A7E0BB,Input=(InputName="In Diffuse 01"))
+      FunctionInputs(1)=(ExpressionInputId=1745E0FB4BAC3F6B608540A0FDCE6503,Input=(InputName="In Modulation Near Fade"))
+      FunctionInputs(2)=(ExpressionInputId=73EA07124605306792F1F89292047E73,Input=(Expression=MaterialExpressionTextureObjectParameter'M_RB_Land_MasterMat_01:MaterialExpressionTextureObjectParameter_17',InputName="In Normal 01"))
+      FunctionInputs(3)=(ExpressionInputId=4848FDD44F394CE6FB6FBC91DC4DE2D9,Input=(InputName="In World Stripe"))
+      FunctionInputs(4)=(ExpressionInputId=DF9A15724EEAE29B47C494AB6A383472,Input=(InputName="In Modulation 01"))
+      FunctionInputs(5)=(ExpressionInputId=A2BD7615438624735AEEE3A9AF4EDDCB,Input=(InputName="In Stripe Scale"))
+      FunctionInputs(6)=(ExpressionInputId=3D5F7F1B40FD84687DDF02BE2169CD1F,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_4',InputName="In Tiling Near"))
+      FunctionInputs(7)=(ExpressionInputId=96336EE0476768F54988C68755A3A19E,Input=(InputName="In Tiling FarFAR"))
+      FunctionInputs(8)=(ExpressionInputId=E69108B54AC2D38FFF74B3A40076D0C6,Input=(InputName="In Blend Distance FARFAR"))
+      FunctionInputs(9)=(ExpressionInputId=0C216C2A44AE64DB52412AB8E28D18DA,Input=(InputName="In FARFAR Blend Detail"))
+      FunctionInputs(10)=(ExpressionInputId=83B39F484CABD4F55D3D47A958449FBA,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_5',InputName="In Tiling Far"))
+      FunctionInputs(11)=(ExpressionInputId=473CD705423DAA22EA7E73B169279D24,Input=(InputName="In Stripe Offset"))
+      FunctionInputs(12)=(ExpressionInputId=F478E2934061DA99107E4EBF2C9394E2,Input=(OutputIndex=-1,InputName="In Normal Tiling"))
+      FunctionInputs(13)=(ExpressionInputId=B48D39D44182ABE01EF3D6A982577E12,Input=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_10',InputName="In Blend Distance Far"))
+      FunctionInputs(14)=(ExpressionInputId=45A990A349461A64C28A13A64D8479F0,Input=(OutputIndex=-1,InputName="In Modulation Near"))
+      FunctionInputs(15)=(ExpressionInputId=AF9D55F64C1E489729A337A166777E7E,Input=(InputName="In Modulation Scale 1"))
+      FunctionInputs(16)=(ExpressionInputId=29FEC1D14DE0576FF953C6985560EDAD,Input=(InputName="In Use Diffuse Alpha as Modulation"))
+      FunctionInputs(17)=(ExpressionInputId=E320071B4D8A0A909E6ECB9F8057D2F8,Input=(Expression=MaterialExpressionStaticBoolParameter'M_RB_Land_MasterMat_01:MaterialExpressionStaticBoolParameter_13',InputName="In Use World Aligned"))
+      FunctionInputs(18)=(ExpressionInputId=883B4A3C418F44779289768485A57A80,Input=(OutputIndex=-1,InputName="In Use Stripe"))
+      FunctionInputs(19)=(ExpressionInputId=E95A5ACC438C3F3F65172584AE66C091,Input=(InputName="In Color"))
+      FunctionInputs(20)=(ExpressionInputId=D2755D5D46E278A900FFAEA7D6778C4D,Input=(InputName="In Stripe Color"))
+      FunctionInputs(21)=(ExpressionInputId=2C02FE444BF049B61D799FA4C9EF3FD4,Input=(Expression=MaterialExpressionMultiply'M_RB_Land_MasterMat_01:MaterialExpressionMultiply_12',InputName="In Normal Near Intensity"))
+      FunctionInputs(22)=(ExpressionInputId=706B43AC46D70ACA10390F988B8BB69A,Input=(Expression=MaterialExpressionMultiply'M_RB_Land_MasterMat_01:MaterialExpressionMultiply_10',InputName="In Normal Far Intensity"))
+      FunctionOutputs(0)=(ExpressionOutputId=CB77F7A646D4FCFA5D2A8DA6628A740B,Output=(OutputName="Result Diffuse RGB"))
+      FunctionOutputs(1)=(ExpressionOutputId=0EFF63EE4EA52644536246A8B1841D7D,Output=(OutputName="Result Diffuse RGBA"))
+      FunctionOutputs(2)=(ExpressionOutputId=5FF253C2474AE551373D628582DEAE76,Output=(OutputName="Result Normal"))
+      FunctionOutputs(3)=(ExpressionOutputId=154E85DB4B5E56AC433DFDA96C3D166C,Output=(OutputName="Result Blend Modulation"))
+      FunctionOutputs(4)=(ExpressionOutputId=7487AA6E46382179A5DDB199FF4CEB36,Output=(OutputName="Result Blend Modulation Near"))
+      FunctionOutputs(5)=(ExpressionOutputId=DA82682645375D0C0635B1A6AD73CBF2,Output=(OutputName="Result Blend Modulation Far"))
+      MaterialExpressionEditorX=-1840
+      MaterialExpressionEditorY=4420
+      MaterialExpressionGuid=EA81F7804C6CD89FE61C24843EEC724D
+      Material=Material'M_RB_Land_MasterMat_01'
+      Outputs(0)=(OutputName="Result Diffuse RGB")
+      Outputs(1)=(OutputName="Result Diffuse RGBA")
+      Outputs(2)=(OutputName="Result Normal")
+      Outputs(3)=(OutputName="Result Blend Modulation")
+      Outputs(4)=(OutputName="Result Blend Modulation Near")
+      Outputs(5)=(OutputName="Result Blend Modulation Far")
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_29"
+      A=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_62')
+      B=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_64')
+      Alpha=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_13',OutputIndex=7)
+      MaterialExpressionEditorX=890
+      MaterialExpressionEditorY=196
+      MaterialExpressionGuid=42B9FDD743E9104806A56DBA07F9A30C
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionLightmassReplace_0"
+      Realtime=(Expression=MaterialExpressionMaterialFunctionCall'M_RB_Land_MasterMat_01:MaterialExpressionMaterialFunctionCall_13',OutputIndex=1)
+      Lightmass=(Expression=MaterialExpressionConstant'M_RB_Land_MasterMat_01:MaterialExpressionConstant_1')
+      MaterialExpressionEditorX=320
+      MaterialExpressionEditorY=-120
+      MaterialExpressionGuid=2D6FFD6E4DA574C687694F83BECB39C2
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionTerrainLayerWeight_6"
+      Base=(Expression=MaterialExpressionConstant'M_RB_Land_MasterMat_01:MaterialExpressionConstant_34')
+      Layer=(Expression=MaterialExpressionConstant'M_RB_Land_MasterMat_01:MaterialExpressionConstant_33')
+      ParameterName="Snow01"
+      ExpressionGUID=6E2E66864B07D5F06665DEA337203BF5
+      MaterialExpressionEditorX=-1606
+      MaterialExpressionEditorY=2723
+      MaterialExpressionGuid=4094A67747DA6A07A893F09179EEC631
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionTerrainLayerWeight_4"
+      Base=(Expression=MaterialExpressionConstant'M_RB_Land_MasterMat_01:MaterialExpressionConstant_28')
+      Layer=(Expression=MaterialExpressionConstant'M_RB_Land_MasterMat_01:MaterialExpressionConstant_30')
+      ParameterName="Mud01"
+      ExpressionGUID=485F413C43566BB83A904F90046F3CCF
+      MaterialExpressionEditorX=-1782
+      MaterialExpressionEditorY=-1143
+      MaterialExpressionGuid=35F18F1A410391CB76B53A994220BCAE
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionTerrainLayerWeight_2"
+      Base=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_33')
+      Layer=(Expression=MaterialExpressionConstant'M_RB_Land_MasterMat_01:MaterialExpressionConstant_11')
+      ParameterName="DirtMask"
+      ExpressionGUID=6BFAB01E41DC420F9F6D0AB733138D39
+      MaterialExpressionEditorX=-1678
+      MaterialExpressionEditorY=-1422
+      MaterialExpressionGuid=DFB50CE140D0D3DB8F272A9D1CEA2D8E
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionTerrainLayerWeight_1"
+      Base=(Expression=MaterialExpressionConstant'M_RB_Land_MasterMat_01:MaterialExpressionConstant_2')
+      Layer=(Expression=MaterialExpressionConstant'M_RB_Land_MasterMat_01:MaterialExpressionConstant_3')
+      ParameterName="Grass01"
+      ExpressionGUID=04F32AD5411B1BD0A7BC8A9E9BEAFDF3
+      MaterialExpressionEditorX=-2255
+      MaterialExpressionEditorY=722
+      MaterialExpressionGuid=2137314F4BF35CAD6A4B6FBB1BC44899
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_34"
+      MaterialExpressionEditorX=-1971
+      MaterialExpressionEditorY=2651
+      MaterialExpressionGuid=4C3354D2462CE6B142BCC29C5E9DD514
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_33"
+      R=1.000000
+      MaterialExpressionEditorX=-1863
+      MaterialExpressionEditorY=2713
+      MaterialExpressionGuid=3162F74A4FCD71DFF0D0C29E6AB6C14C
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_30"
+      R=1.000000
+      MaterialExpressionEditorX=-2286
+      MaterialExpressionEditorY=-1143
+      MaterialExpressionGuid=4590C95C4361170E547135A7BA251412
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_3"
+      R=1.000000
+      MaterialExpressionEditorX=-2613
+      MaterialExpressionEditorY=802
+      MaterialExpressionGuid=6888B09940A3DB9F2F83BAB211EECB6A
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_28"
+      MaterialExpressionEditorX=-2263
+      MaterialExpressionEditorY=-1285
+      MaterialExpressionGuid=1D8B8C3743ACE7E53751689095FCB5A9
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_2"
+      MaterialExpressionEditorX=-2603
+      MaterialExpressionEditorY=647
+      MaterialExpressionGuid=A9BC50DC428E734526F2388699EAF66E
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_11"
+      MaterialExpressionEditorX=-1996
+      MaterialExpressionEditorY=-1416
+      MaterialExpressionGuid=7BCE54004AD2FB10AC4F5DA00F3B6333
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_1"
+      R=0.500000
+      MaterialExpressionEditorX=80
+      MaterialExpressionEditorY=-200
+      MaterialExpressionGuid=255D36AC4B296422E403098653038955
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_7"
+      A=(Expression=MaterialExpressionVectorParameter'M_RB_Land_MasterMat_01:MaterialExpressionVectorParameter_6',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionVectorParameter'M_RB_Land_MasterMat_01:MaterialExpressionVectorParameter_6',OutputIndex=4,Mask=1,MaskA=1)
+      MaterialExpressionEditorX=-4870
+      MaterialExpressionEditorY=-2068
+      MaterialExpressionGuid=B53215164F7088D9F2C59DA00791C35B
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_6"
+      A=(Expression=MaterialExpressionVectorParameter'M_RB_Land_MasterMat_01:MaterialExpressionVectorParameter_5',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionVectorParameter'M_RB_Land_MasterMat_01:MaterialExpressionVectorParameter_5',OutputIndex=4,Mask=1,MaskA=1)
+      MaterialExpressionEditorX=-4288
+      MaterialExpressionEditorY=-437
+      MaterialExpressionGuid=0D2D20104D6D8AC007AF008EDC71FB9E
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_3"
+      A=(Expression=MaterialExpressionVectorParameter'M_RB_Land_MasterMat_01:MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionVectorParameter'M_RB_Land_MasterMat_01:MaterialExpressionVectorParameter_0',OutputIndex=4,Mask=1,MaskA=1)
+      MaterialExpressionEditorX=-4390
+      MaterialExpressionEditorY=-2447
+      MaterialExpressionGuid=E135F1824D041AB9265042B13C2B444F
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_2"
+      A=(Expression=MaterialExpressionVectorParameter'M_RB_Land_MasterMat_01:MaterialExpressionVectorParameter_1',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionVectorParameter'M_RB_Land_MasterMat_01:MaterialExpressionVectorParameter_1',OutputIndex=4,Mask=1,MaskA=1)
+      MaterialExpressionEditorX=-4066
+      MaterialExpressionEditorY=1566
+      MaterialExpressionGuid=41D5DF704BB01E5EF26EFEBCC200CF3F
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_1"
+      A=(Expression=MaterialExpressionVectorParameter'M_RB_Land_MasterMat_01:MaterialExpressionVectorParameter_2',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionVectorParameter'M_RB_Land_MasterMat_01:MaterialExpressionVectorParameter_2',OutputIndex=4,Mask=1,MaskA=1)
+      MaterialExpressionEditorX=-4720
+      MaterialExpressionEditorY=3796
+      MaterialExpressionGuid=0A9D2F774F23701BBAC5FBB7F1E6E388
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_4"
+      A=(Expression=MaterialExpressionLandscapeLayerWeight'M_RB_Land_MasterMat_01:MaterialExpressionTerrainLayerWeight_2')
+      B=(Expression=MaterialExpressionScalarParameter'M_RB_Land_MasterMat_01:MaterialExpressionScalarParameter_32')
+      MaterialExpressionEditorX=-2115
+      MaterialExpressionEditorY=386
+      MaterialExpressionGuid=D715303D455E4530B76F0894A47AB070
+      Material=Material'M_RB_Land_MasterMat_01'
+   End Object
+   DiffuseColor=(Expression=MaterialExpressionLightmassReplace'MaterialExpressionLightmassReplace_0')
+   BaseColor=(Expression=MaterialExpressionLightmassReplace'MaterialExpressionLightmassReplace_0')
+   Metallic=(OutputIndex=1)
+   Specular=(OutputIndex=2)
+   Roughness=(Constant=0.423800,Expression=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_29')
+   Normal=(Expression=MaterialExpressionStaticSwitchParameter'MaterialExpressionStaticSwitchParameter_10')
+   EmissiveColor=(Expression=MaterialExpressionMultiply'MaterialExpressionMultiply_7')
+   ShadingModel=MSM_Subsurface
+   SubsurfaceColor=(Expression=MaterialExpressionMultiply'MaterialExpressionMultiply_9')
+   bUsedWithStaticLighting=True
+   EditorX=1280
+   EditorY=32
+   Expressions(0)=MaterialExpressionLightmassReplace'MaterialExpressionLightmassReplace_0'
+   Expressions(1)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_29'
+   Expressions(2)=MaterialExpressionStaticSwitchParameter'MaterialExpressionStaticSwitchParameter_10'
+   Expressions(3)=MaterialExpressionMultiply'MaterialExpressionMultiply_7'
+   Expressions(4)=MaterialExpressionMultiply'MaterialExpressionMultiply_9'
+   Expressions(5)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_12'
+   Expressions(6)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_3'
+   Expressions(7)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   Expressions(8)=MaterialExpressionStaticBoolParameter'MaterialExpressionStaticBoolParameter_3'
+   Expressions(9)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_15'
+   Expressions(10)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_10'
+   Expressions(11)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_5'
+   Expressions(12)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_4'
+   Expressions(13)=MaterialExpressionTextureObjectParameter'MaterialExpressionTextureObjectParameter_8'
+   Expressions(14)=MaterialExpressionTextureObjectParameter'MaterialExpressionTextureObjectParameter_6'
+   Expressions(15)=MaterialExpressionTextureObjectParameter'MaterialExpressionTextureObjectParameter_7'
+   Expressions(16)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_13'
+   Expressions(17)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_22'
+   Expressions(18)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_21'
+   Expressions(19)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_13'
+   Expressions(20)=MaterialExpressionLandscapeLayerWeight'MaterialExpressionTerrainLayerWeight_6'
+   Expressions(21)=MaterialExpressionConstant'MaterialExpressionConstant_33'
+   Expressions(22)=MaterialExpressionConstant'MaterialExpressionConstant_34'
+   Expressions(23)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_16'
+   Expressions(24)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_1'
+   Expressions(25)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_2'
+   Expressions(26)=MaterialExpressionStaticBoolParameter'MaterialExpressionStaticBoolParameter_5'
+   Expressions(27)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_2'
+   Expressions(28)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_9'
+   Expressions(29)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_8'
+   Expressions(30)=MaterialExpressionTextureObjectParameter'MaterialExpressionTextureObjectParameter_1'
+   Expressions(31)=MaterialExpressionTextureObjectParameter'MaterialExpressionTextureObjectParameter_11'
+   Expressions(32)=MaterialExpressionTextureObjectParameter'MaterialExpressionTextureObjectParameter_10'
+   Expressions(33)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_3'
+   Expressions(34)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_16'
+   Expressions(35)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_18'
+   Expressions(36)=MaterialExpressionStaticBoolParameter'MaterialExpressionStaticBoolParameter_6'
+   Expressions(37)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_7'
+   Expressions(38)=MaterialExpressionLandscapeLayerWeight'MaterialExpressionTerrainLayerWeight_1'
+   Expressions(39)=MaterialExpressionConstant'MaterialExpressionConstant_3'
+   Expressions(40)=MaterialExpressionConstant'MaterialExpressionConstant_2'
+   Expressions(41)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_14'
+   Expressions(42)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_2'
+   Expressions(43)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_1'
+   Expressions(44)=MaterialExpressionStaticBoolParameter'MaterialExpressionStaticBoolParameter_2'
+   Expressions(45)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_6'
+   Expressions(46)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_3'
+   Expressions(47)=MaterialExpressionTextureObjectParameter'MaterialExpressionTextureObjectParameter_12'
+   Expressions(48)=MaterialExpressionTextureObjectParameter'MaterialExpressionTextureObjectParameter_5'
+   Expressions(49)=MaterialExpressionTextureObjectParameter'MaterialExpressionTextureObjectParameter_4'
+   Expressions(50)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_11'
+   Expressions(51)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_19'
+   Expressions(52)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_17'
+   Expressions(53)=MaterialExpressionStaticBoolParameter'MaterialExpressionStaticBoolParameter_8'
+   Expressions(54)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_11'
+   Expressions(55)=MaterialExpressionLandscapeLayerWeight'MaterialExpressionTerrainLayerWeight_4'
+   Expressions(56)=MaterialExpressionConstant'MaterialExpressionConstant_30'
+   Expressions(57)=MaterialExpressionConstant'MaterialExpressionConstant_28'
+   Expressions(58)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_10'
+   Expressions(59)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_6'
+   Expressions(60)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_5'
+   Expressions(61)=MaterialExpressionStaticBoolParameter'MaterialExpressionStaticBoolParameter_1'
+   Expressions(62)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_1'
+   Expressions(63)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_0'
+   Expressions(64)=MaterialExpressionTextureObjectParameter'MaterialExpressionTextureObjectParameter_13'
+   Expressions(65)=MaterialExpressionTextureObjectParameter'MaterialExpressionTextureObjectParameter_3'
+   Expressions(66)=MaterialExpressionTextureObjectParameter'MaterialExpressionTextureObjectParameter_2'
+   Expressions(67)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_20'
+   Expressions(68)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_23'
+   Expressions(69)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_26'
+   Expressions(70)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_27'
+   Expressions(71)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_24'
+   Expressions(72)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_25'
+   Expressions(73)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_28'
+   Expressions(74)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_29'
+   Expressions(75)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_30'
+   Expressions(76)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_33'
+   Expressions(77)=MaterialExpressionStaticBoolParameter'MaterialExpressionStaticBoolParameter_7'
+   Expressions(78)=MaterialExpressionStaticBoolParameter'MaterialExpressionStaticBoolParameter_9'
+   Expressions(79)=MaterialExpressionStaticBoolParameter'MaterialExpressionStaticBoolParameter_11'
+   Expressions(80)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_31'
+   Expressions(81)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_32'
+   Expressions(82)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_34'
+   Expressions(83)=MaterialExpressionLandscapeLayerWeight'MaterialExpressionTerrainLayerWeight_2'
+   Expressions(84)=MaterialExpressionConstant'MaterialExpressionConstant_11'
+   Expressions(85)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_44'
+   Expressions(86)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_46'
+   Expressions(87)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_48'
+   Expressions(88)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_37'
+   Expressions(89)=MaterialExpressionStaticBoolParameter'MaterialExpressionStaticBoolParameter_10'
+   Expressions(90)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_43'
+   Expressions(91)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_45'
+   Expressions(92)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_47'
+   Expressions(93)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_49'
+   Expressions(94)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_56'
+   Expressions(95)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_58'
+   Expressions(96)=MaterialExpressionStaticBoolParameter'MaterialExpressionStaticBoolParameter_12'
+   Expressions(97)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_14'
+   Expressions(98)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_39'
+   Expressions(99)=MaterialExpressionAppendVector'MaterialExpressionAppendVector_7'
+   Expressions(100)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_6'
+   Expressions(101)=MaterialExpressionTextureObjectParameter'MaterialExpressionTextureObjectParameter_14'
+   Expressions(102)=MaterialExpressionAdd'MaterialExpressionAdd_4'
+   Expressions(103)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_51'
+   Expressions(104)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_53'
+   Expressions(105)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_55'
+   Expressions(106)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_52'
+   Expressions(107)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_57'
+   Expressions(108)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_59'
+   Expressions(109)=MaterialExpressionConstant'MaterialExpressionConstant_1'
+   Expressions(110)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_7'
+   Expressions(111)=MaterialExpressionMultiply'MaterialExpressionMultiply_11'
+   Expressions(112)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_1'
+   Expressions(113)=MaterialExpressionTextureObjectParameter'MaterialExpressionTextureObjectParameter_17'
+   Expressions(114)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_72'
+   Expressions(115)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_73'
+   Expressions(116)=MaterialExpressionStaticBoolParameter'MaterialExpressionStaticBoolParameter_13'
+   Expressions(117)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_15'
+   Expressions(118)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_61'
+   Expressions(119)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_63'
+   Expressions(120)=MaterialExpressionMultiply'MaterialExpressionMultiply_10'
+   Expressions(121)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_66'
+   Expressions(122)=MaterialExpressionMultiply'MaterialExpressionMultiply_12'
+   Expressions(123)=MaterialExpressionStaticSwitchParameter'MaterialExpressionStaticSwitchParameter_0'
+   Expressions(124)=MaterialExpressionStaticSwitchParameter'MaterialExpressionStaticSwitchParameter_2'
+   Expressions(125)=MaterialExpressionStaticSwitchParameter'MaterialExpressionStaticSwitchParameter_4'
+   Expressions(126)=MaterialExpressionStaticSwitchParameter'MaterialExpressionStaticSwitchParameter_6'
+   Expressions(127)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_50'
+   Expressions(128)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_62'
+   Expressions(129)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_64'
+   MaterialFunctionInfos(0)=(StateId=C972971B4EC65BB0E2EFAB96D3962C06,Function=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/MF_RB_Land_LayerSample_02.MF_RB_Land_LayerSample_02')
+   MaterialFunctionInfos(1)=(StateId=473575E74672E1830AA7248AFAF8BBDA,Function=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/CheapContrast.CheapContrast')
+   MaterialFunctionInfos(2)=(StateId=C46ECD834F3A328B3C7B10A4F0F912F0,Function=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/WorldAlignedTexture_Normal.WorldAlignedTexture_Normal')
+   MaterialFunctionInfos(3)=(StateId=B578385E4737EC2F5C53C4B227C16C5D,Function=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/MF_RB_Land_TexCoords_01.MF_RB_Land_TexCoords_01')
+   MaterialFunctionInfos(4)=(StateId=DFD30B1845B065CF773B5181B0ABE134,Function=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/MF_RB_Land_TwoLayerBlend_03Snow.MF_RB_Land_TwoLayerBlend_03Snow')
+   MaterialFunctionInfos(5)=(StateId=C972971B4EC65BB0E2EFAB96D3962C06,Function=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/MF_RB_Land_LayerSample_02.MF_RB_Land_LayerSample_02')
+   MaterialFunctionInfos(6)=(StateId=473575E74672E1830AA7248AFAF8BBDA,Function=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/CheapContrast.CheapContrast')
+   MaterialFunctionInfos(7)=(StateId=C46ECD834F3A328B3C7B10A4F0F912F0,Function=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/WorldAlignedTexture_Normal.WorldAlignedTexture_Normal')
+   MaterialFunctionInfos(8)=(StateId=B578385E4737EC2F5C53C4B227C16C5D,Function=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/MF_RB_Land_TexCoords_01.MF_RB_Land_TexCoords_01')
+   MaterialFunctionInfos(9)=(StateId=DA2B510B463B206181CCE5A9D4FC9449,Function=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/MF_RB_Land_TwoLayerBlend_02Grass.MF_RB_Land_TwoLayerBlend_02Grass')
+   MaterialFunctionInfos(10)=(StateId=C972971B4EC65BB0E2EFAB96D3962C06,Function=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/MF_RB_Land_LayerSample_02.MF_RB_Land_LayerSample_02')
+   MaterialFunctionInfos(11)=(StateId=473575E74672E1830AA7248AFAF8BBDA,Function=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/CheapContrast.CheapContrast')
+   MaterialFunctionInfos(12)=(StateId=C46ECD834F3A328B3C7B10A4F0F912F0,Function=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/WorldAlignedTexture_Normal.WorldAlignedTexture_Normal')
+   MaterialFunctionInfos(13)=(StateId=B578385E4737EC2F5C53C4B227C16C5D,Function=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/MF_RB_Land_TexCoords_01.MF_RB_Land_TexCoords_01')
+   MaterialFunctionInfos(14)=(StateId=4AF69A1946B7AB71769DCDA5A38ECFBD,Function=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/MF_RB_Land_TwoLayerBlend_01.MF_RB_Land_TwoLayerBlend_01')
+   MaterialFunctionInfos(15)=(StateId=C972971B4EC65BB0E2EFAB96D3962C06,Function=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/MF_RB_Land_LayerSample_02.MF_RB_Land_LayerSample_02')
+   MaterialFunctionInfos(16)=(StateId=473575E74672E1830AA7248AFAF8BBDA,Function=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/CheapContrast.CheapContrast')
+   MaterialFunctionInfos(17)=(StateId=C46ECD834F3A328B3C7B10A4F0F912F0,Function=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/WorldAlignedTexture_Normal.WorldAlignedTexture_Normal')
+   MaterialFunctionInfos(18)=(StateId=B578385E4737EC2F5C53C4B227C16C5D,Function=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/MF_RB_Land_TexCoords_01.MF_RB_Land_TexCoords_01')
+   MaterialFunctionInfos(19)=(StateId=C972971B4EC65BB0E2EFAB96D3962C06,Function=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/MF_RB_Land_LayerSample_02.MF_RB_Land_LayerSample_02')
+   MaterialFunctionInfos(20)=(StateId=473575E74672E1830AA7248AFAF8BBDA,Function=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/CheapContrast.CheapContrast')
+   MaterialFunctionInfos(21)=(StateId=C46ECD834F3A328B3C7B10A4F0F912F0,Function=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/WorldAlignedTexture_Normal.WorldAlignedTexture_Normal')
+   MaterialFunctionInfos(22)=(StateId=B578385E4737EC2F5C53C4B227C16C5D,Function=MaterialFunction'/Game/Elemental/Landscape/RB_Landscape/MF/MF_RB_Land_TexCoords_01.MF_RB_Land_TexCoords_01')
+   StateId=EDCD7DD74BA462B2785080B9D5E2F165
+   ReferencedTextureGuids(0)=12B796C04C6ADA66B05054B749F14DD2
+   ReferencedTextureGuids(1)=37AE4DC34C7BA46542EF798FBF9F605F
+   ReferencedTextureGuids(2)=76B669B44B38157773E996B502077439
+   ReferencedTextureGuids(3)=1568AC5D4E8709B549192289CE1597BB
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_9'
+   LightingGuid=72B22C59442EFD4A5D01928B0C8467F7
+End Object
